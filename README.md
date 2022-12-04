@@ -152,12 +152,14 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 # Last Steps
 
+##
 ### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/Septimus%20Extended%20-%20LOTD%20Integration%20Patch%20v.0.1.0.7z) ] ("View raw" button)
 
 Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it directly AFTER [NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn. 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
+##
 
-## OPTIONAL HD Textures Addon (No extra patch needed)
+## OPTIONAL HD Textures Addon (No extra patch needed) - FEEL FREE TO SKIP!
 
 43.) Download [Legacy of the Dragonborn Cleaned Textures](https://www.nexusmods.com/skyrimspecialedition/mods/42975?tab=files&file_id=172664).
    - Install it under the name **[NoDelete] [43] Legacy of the Dragonborn Cleaned Textures**
@@ -203,6 +205,32 @@ Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it 
 
 57.) Download [Legacy of The Dragonborn museum dome improved](https://www.nexusmods.com/skyrimspecialedition/mods/45655?tab=files&file_id=185737).
    - Install it under the name **[NoDelete] [57] Legacy of The Dragonborn Museum Dome Improved**
+
+58.) Download [Legacy of the Dragonborn dome retexture](https://www.nexusmods.com/skyrimspecialedition/mods/46452?tab=files&file_id=189039).
+   - Install it under the name **[NoDelete] [58] Legacy of The Dragonborn Dome Retexture**
+
+59.) Download [LotD Tweaks - Stucco Texture A](https://www.nexusmods.com/skyrimspecialedition/mods/58517?tab=files&file_id=241771).
+   - Install it under the name **[NoDelete] [59] LotD Tweaks - Stucco Texture A**
+
+60.) Download [LotD Tweaks - Wood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/58517?tab=files&file_id=241770).
+   - Install it under the name **[NoDelete] [60] LotD Tweaks - Wood Textures**
+
+61.) Download [Stalhrim Refrozen - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/41348?tab=files&file_id=213443).
+   - Install it under the name **[NoDelete] [61] Stalhrim Refrozen - LOTD Patch**
+
+62.) Download [Unique Skulls HD - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52073?tab=files&file_id=215295). You may already have this downloaded if you did not delete your Downloads folder from Septimus. If you already have it installed, click Cancel from the "Do you want to install this mod again?" popup. On the right-hand side of MO2 in the Downloads tab, type in at the bottom, "Unique Skulls" and one file should show up. Double-click it and a FOMOD should appear. On the first page select Next. On the second page, select ESPFE, SkullKeys EnbLight Patch, New Textures + ESPFE. On the last page select Install. **REMEBER TO CHANGE THE NAME TO THE ONE BELOW!**
+   - Install it under the name **[NoDelete] [62] Unique Skulls HD - LOTD Patch**
+
+63.) Download [Legacy of the Dragonborn - Greener Jade Skull for Unique Skulls HD](https://www.nexusmods.com/skyrimspecialedition/mods/60130?tab=files&file_id=249480).
+   - Install it under the name **[NoDelete] [63] Legacy of the Dragonborn - Greener Jade Skull for Unique Skulls HD**
+
+64.) Download [Legacy of the Dragonborn - Improved Dig Sites SE](https://www.nexusmods.com/skyrimspecialedition/mods/78042?tab=files&file_id=332924).
+   - Install it under the name **[NoDelete] [64] Legacy of the Dragonborn - Improved Dig Sites**
+
+65.) Download [Legacy of the Dragonborn - Cleaner Display Glass](https://www.nexusmods.com/skyrimspecialedition/mods/33409?tab=files&file_id=127703).
+   - Install it under the name **[NoDelete] [65] Legacy of the Dragonborn - Cleaner Display Glass**
+
+## Huzzah you now have LOTD all installed but now it's HD!
 
 # Changelog
 
