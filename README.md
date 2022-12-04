@@ -106,7 +106,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 30.) Download [Moon and Star - Legacy of the Dragonborn Consistency and Optional Creation Club Integration](https://www.nexusmods.com/skyrimspecialedition/mods/66814?tab=files&file_id=284056).
    - Install it under the name **[NoDelete] [30] Moon and Star - Creation Club Patch - LOTD Synergy**
 
-31.) Download [JS Dragon Claws - Anniversary Edition - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/57038?tab=files&file_id=277543). You may already have this downloaded if you did not delete your Downloads folder from Septimus. If you already have it installed, click Cancel from the "Do you want to install this mod again?" popup. On the right-hand side of MO2 in the Downloads tab, type in at the bottom, "JS Dragon Claws" and one file should show up. Double-click it and a FOMOD should appear. Select LOTD + Display Compatibility, Wyrmstooth + LOTD, None, Helgen Reborn + LOTD, None, then click Install.
+31.) Download [JS Dragon Claws - Anniversary Edition - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/57038?tab=files&file_id=277543). You may already have this downloaded if you did not delete your Downloads folder from Septimus. If you already have it installed, click Cancel from the "Do you want to install this mod again?" popup. On the right-hand side of MO2 in the Downloads tab, type in at the bottom, "JS Dragon Claws" and one file should show up. Double-click it and a FOMOD should appear. Select LOTD + Display Compatibility, Wyrmstooth + LOTD, None, Helgen Reborn + LOTD, None, then click Install. **REMEBER TO CHANGE THE NAME TO THE ONE BELOW!**
    - Install it under the name **[NoDelete] [31] JS Dragon Claws - Anniversary Edition - LOTD Patch**
 
 32.) Download [Kaidan Extended Edition - LOTD Patch](https://kaidanmod.com/downloads/). Scroll down the website to almost the very bottom and the LOTD Patch should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "Kaidan-LOTD-Commentary" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
@@ -121,4 +121,25 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 35.) Download [Legacy of The Dragonborn - Cathedral 3D Mountain Flowers Patch](https://www.nexusmods.com/skyrimspecialedition/mods/47192?tab=files&file_id=325339).
    - Install it under the name **[NoDelete] [35] Legacy of The Dragonborn - Cathedral 3D Mountain Flowers Patch**
 
+36.) Download [JK's Castle Dour - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/61416?tab=files&file_id=314799).
+   - Install it under the name **[NoDelete] [36] JK's Castle Dour - LOTD Patch**
 
+37.) Download [JK's High Hrothgar - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/61416?tab=files&file_id=258321).
+   - Install it under the name **[NoDelete] [37] JK's High Hrothgar - LOTD Patch**
+
+38.) Download [eFPS - Official Patch Hub - LOTD](https://www.nexusmods.com/skyrimspecialedition/mods/54998?tab=files&file_id=273650). You may already have this downloaded if you did not delete your Downloads folder from Septimus. If you already have it installed, click Cancel from the "Do you want to install this mod again?" popup. On the right-hand side of MO2 in the Downloads tab, type in at the bottom, "eFPS" and one file should show up. Double-click it and a FOMOD should appear. Don't tick anything and click Next all the way up until the last page. Make sure Legacy of the Dragonborn is ticked, then press Install.  **REMEBER TO CHANGE THE NAME TO THE ONE BELOW!**
+   - Install it under the name **[NoDelete] [38] eFPS - Official Patch Hub - LOTD**
+
+39.) Download [ArteFakes - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/41254?tab=files&file_id=197466).
+   - Install it under the name **[NoDelete] [39] ArteFakes - LOTD Patch**
+
+40.) Download [Haugbui - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26188?tab=files&file_id=288148).
+   - Install it under the name **[NoDelete] [40] Haugbui - LOTD Patch**
+
+41.) Download [Ancient Nord Stalhrim Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/68905?tab=files&file_id=293352).
+   - Install it under the name **[NoDelete] [41] Ancient Nord Stalhrim Patches - Legacy of the Dragonborn**
+
+42.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
+   - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
+
+X
