@@ -94,3 +94,32 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 26.) Download [Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/71740?tab=files&file_id=300518).
    - Install it under the name **[NoDelete] [26] Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch**
+
+27.) Download [Simple Backpack Rebalance - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/70628?tab=files&file_id=295707).
+   - Install it under the name **[NoDelete] [27] Simple Backpack Rebalance - LOTD Patch**
+
+28.) Download [Simple Backpack Rebalance - LOTD TCC Patch](https://www.nexusmods.com/skyrimspecialedition/mods/70628?tab=files&file_id=295708).
+   - Install it under the name **[NoDelete] [28] Simple Backpack Rebalance - LOTD TCC Patch**
+
+29.) Download [Unofficial Legacy of the Dragonborn - Pilgrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/57922?tab=files&file_id=276241).
+   - Install it under the name **[NoDelete] [29] Unofficial Legacy of the Dragonborn - Pilgrim Patch**
+
+30.) Download [Moon and Star - Legacy of the Dragonborn Consistency and Optional Creation Club Integration](https://www.nexusmods.com/skyrimspecialedition/mods/66814?tab=files&file_id=284056).
+   - Install it under the name **[NoDelete] [30] Moon and Star - Creation Club Patch - LOTD Synergy**
+
+31.) Download [JS Dragon Claws - Anniversary Edition - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/57038?tab=files&file_id=277543). You may already have this downloaded if you did not delete your Downloads folder from Septimus. If you already have it installed
+   - Install it under the name **[NoDelete] [31] JS Dragon Claws - Anniversary Edition - LOTD Patch**
+
+32.) Download [Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/71740?tab=files&file_id=300518).
+   - Install it under the name **[NoDelete] [26] Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch**
+
+33.) Download [Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/71740?tab=files&file_id=300518).
+   - Install it under the name **[NoDelete] [26] Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch**
+
+34.) Download [Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/71740?tab=files&file_id=300518).
+   - Install it under the name **[NoDelete] [26] Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch**
+
+35.) Download [Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/71740?tab=files&file_id=300518).
+   - Install it under the name **[NoDelete] [26] Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch**
+
+
