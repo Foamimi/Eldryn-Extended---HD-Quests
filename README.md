@@ -94,6 +94,8 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 26.) Download [Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/71740?tab=files&file_id=300518).
    - Install it under the name **[NoDelete] [26] Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch**
 
+### I know I know there's a boatload of patches, but you're almost there!
+
 27.) Download [Simple Backpack Rebalance - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/70628?tab=files&file_id=295707).
    - Install it under the name **[NoDelete] [27] Simple Backpack Rebalance - LOTD Patch**
 
@@ -142,4 +144,43 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 42.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
    - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
 
-X
+### Phew! If you've made it this far, then congrats! We're almost there!
+
+# Last Steps
+
+### Snag the megapatch from here: [ [DOWNLOAD]() ] ("View raw" button)
+
+Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it directly AFTER [NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn. 
+### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
+
+## OPTIONAL HD Textures Addon (No extra patch needed)
+
+43.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
+   - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
+
+44.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
+   - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
+
+45.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
+   - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
+
+46.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
+   - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
+
+47.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
+   - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
+
+48.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
+   - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
+
+49.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
+   - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
+
+50.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
+   - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
+
+# Changelog
+
+N/A
+
+**Works with version 4.1.0+ of Septimus.**
