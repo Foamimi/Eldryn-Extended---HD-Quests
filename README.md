@@ -10,7 +10,7 @@ A **NEW SAVE is REQUIRED**. It's impossible to install LOTD on an existing save 
 
 First of all, we're going to right-click on the left side of MO2 and highlight the "All Mods" option, then click the dropdown of "Create separator above". We'll call it **[NoDelete] SEPTIMUS EXTENDED - LOTD**. All of the following mods will be installed under this separator, and the separator itself will go just below the separator called "THE DANGER ZONE". 
 
-All the plugins going forward will be at the very bottom, **below all of the Septimus patches**. The .esm files will need to be dragged to the top, just above **EVGAnimatedTraversal.esl**.
+All the plugins going forward will be at the very bottom, **below all of the Septimus patches**. The .esm files will need to be dragged to the top, just above **EVGAnimatedTraversal.esl**. **It's important to ENABLE each mod as you go along**, so the patches will automically detect each plugin correctly.
 
 ## Baseline
 
@@ -61,3 +61,36 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 15.) Download [Legacy of the Dragonborn - Serana's Safehouse Room (Unofficial)](https://www.nexusmods.com/skyrimspecialedition/mods/74549?tab=files&file_id=312746).
    - Install it under the name **[NoDelete] [15] Legacy of the Dragonborn - Serana's Safehouse Room B-2**
+
+16.) Download [Legacy of the Dragonborn Patches (Official)](https://www.nexusmods.com/skyrimspecialedition/mods/30980?tab=files&file_id=327098). In the FOMOD everything will be ticked automatically EXCEPT for one section, so just press Next until you get to the page titled "Manually Selectable Patches". Tick Ruins Clutter Improved, Skyrim Particle Patch for ENB, and Static Mesh Improvement Mod (last one will already be ticked automatically, but it's always good to double-check). Select Next, then Install.
+   - Install it under the name **[NoDelete] [16] Legacy of the Dragonborn Patches (Official)**
+
+17.) Download [Legacy of the Dragonborn - Creation Club Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/31563?tab=files&file_id=337197). In the FOMOD everything will be ticked automatically, so just press Next until you get to the last page where you'll press Install.
+   - Install it under the name **[NoDelete] [17] Legacy of the Dragonborn - Creation Club Patch Hub**
+
+18.) Download [Legacy of the Dragonborn - The Curator's Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529?tab=files&file_id=336777). In the FOMOD everything will be ticked automatically, so just press Next until you get to the last page where you'll press Install.
+   - Install it under the name **[NoDelete] [18] Legacy of the Dragonborn - The Curators Companion**
+
+19.) Download [Legacy of the Dragonborn - Serana's Safehouse TCC Patch](https://www.nexusmods.com/skyrimspecialedition/mods/74549?tab=files&file_id=312679).
+   - Install it under the name **[NoDelete] [19] Legacy of the Dragonborn - Serana's Safehouse TCC Patch**
+
+20.) Download [Legacy of the Dragonborn - Hall of Forgotten](https://www.nexusmods.com/skyrimspecialedition/mods/64117?tab=files&file_id=310830). In the FOMOD everything will be ticked automically, so just press Next until you get to the last page where you'll press Install.
+   - Install it under the name **[NoDelete] [20] Legacy of the Dragonborn - Hall of Forgotten**
+
+21.) Download [Legacy of the Dragonborn - Midwood Isle Unofficial Patch](https://www.nexusmods.com/skyrimspecialedition/mods/65033?tab=files&file_id=270616).
+   - Install it under the name **[NoDelete] [21] Legacy of the Dragonborn - Midwood Isle Unofficial Patch**
+
+22.) Download [Legacy of the Dragonborn - Midwood Isle Unofficial TCC Patch)](https://www.nexusmods.com/skyrimspecialedition/mods/65033?tab=files&file_id=270403).
+   - Install it under the name **[NoDelete] [22] Legacy of the Dragonborn - Midwood Isle Unofficial TCC Patch**
+
+23.) Download [Unofficial Legacy of the Dragonborn and Beyond Skyrim Bruma Synergy Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36074?tab=files&file_id=272009).
+   - Install it under the name **[NoDelete] [23] Unofficial LOTD and Beyond Skyrim Bruma Synergy Patch**
+
+24.) Download [Unofficial LOTD and Beyond Skyrim Bruma Synergy TCC Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36074?tab=files&file_id=272010).
+   - Install it under the name **[NoDelete] [24] Unofficial LOTD and Beyond Skyrim Bruma Synergy TCC Patch**
+
+25.) Download [LOTD - Pale Pass Extension](https://www.nexusmods.com/skyrimspecialedition/mods/48814?tab=files&file_id=262276). In the FOMOD make sure LOTD/Synergy Patch Version is selected. On the final page, do not select any patches and click Install.
+   - Install it under the name **[NoDelete] [25] LOTD Pale Pass Extension**
+
+26.) Download [Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/71740?tab=files&file_id=300518).
+   - Install it under the name **[NoDelete] [26] Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch**
