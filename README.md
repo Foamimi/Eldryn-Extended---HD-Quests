@@ -14,8 +14,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 ## Baseline
 
-1.) Download [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802?tab=files).
-   - Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". Legacy of the Dragonborn should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+1.) Download [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802?tab=files). Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". Legacy of the Dragonborn should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
    - Install it under the name **[NoDelete] [01] Legacy of the Dragonborn**
    
 2.) Download [Legacy of the Dragonborn SSE - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/70356?tab=files&file_id=335583).
@@ -107,19 +106,19 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 30.) Download [Moon and Star - Legacy of the Dragonborn Consistency and Optional Creation Club Integration](https://www.nexusmods.com/skyrimspecialedition/mods/66814?tab=files&file_id=284056).
    - Install it under the name **[NoDelete] [30] Moon and Star - Creation Club Patch - LOTD Synergy**
 
-31.) Download [JS Dragon Claws - Anniversary Edition - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/57038?tab=files&file_id=277543). You may already have this downloaded if you did not delete your Downloads folder from Septimus. If you already have it installed
+31.) Download [JS Dragon Claws - Anniversary Edition - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/57038?tab=files&file_id=277543). You may already have this downloaded if you did not delete your Downloads folder from Septimus. If you already have it installed, click Cancel from the "Do you want to install this mod again?" popup. On the right-hand side of MO2 in the Downloads tab, type in at the bottom, "JS Dragon Claws" and one file should show up. Double-click it and a FOMOD should appear. Select LOTD + Display Compatibility, Wyrmstooth + LOTD, None, Helgen Reborn + LOTD, None, then click Install.
    - Install it under the name **[NoDelete] [31] JS Dragon Claws - Anniversary Edition - LOTD Patch**
 
-32.) Download [Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/71740?tab=files&file_id=300518).
-   - Install it under the name **[NoDelete] [26] Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch**
+32.) Download [Kaidan Extended Edition - LOTD Patch](https://kaidanmod.com/downloads/). Scroll down the website to almost the very bottom and the LOTD Patch should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "Kaidan-LOTD-Commentary" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+   - Install it under the name **[NoDelete] [32] Kaidan Extended Edition - LOTD Patch**
 
-33.) Download [Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/71740?tab=files&file_id=300518).
-   - Install it under the name **[NoDelete] [26] Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch**
+33.) Download [Kaidan Extended Edition - Cheesemod Patch](https://kaidanmod.com/downloads/). Scroll down the website to almost the very bottom and the Cheesemod Patch should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "Kaidan-Cheesemod" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+   - Install it under the name **[NoDelete] [33] Kaidan Extended Edition - LOTD - Cheesemod Patch**
 
-34.) Download [Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/71740?tab=files&file_id=300518).
-   - Install it under the name **[NoDelete] [26] Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch**
+34.) Download [Remiel - LOTD Commentary Patc](https://www.nexusmods.com/skyrimspecialedition/mods/51874?tab=files&file_id=327264).
+   - Install it under the name **[NoDelete] [34] Remiel - LOTD Commentary Patch**
 
-35.) Download [Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/71740?tab=files&file_id=300518).
-   - Install it under the name **[NoDelete] [26] Beyond Skyrim Bruma - Adamantium Addon - LOTD Patch**
+35.) Download [Legacy of The Dragonborn - Cathedral 3D Mountain Flowers Patch](https://www.nexusmods.com/skyrimspecialedition/mods/47192?tab=files&file_id=325339).
+   - Install it under the name **[NoDelete] [35] Legacy of The Dragonborn - Cathedral 3D Mountain Flowers Patch**
 
 
