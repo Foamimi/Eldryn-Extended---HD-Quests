@@ -183,8 +183,29 @@ Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it 
 50.) Download [Yet another Legacy of the Dragonborn art replacer - paintings murals frames tapestries](https://www.nexusmods.com/skyrimspecialedition/mods/44473?tab=files&file_id=186299).
    - Install it under the name **[NoDelete] [50] Yet Another Legacy of the Dragonborn Art Replacer**
 
+51.) Download [Paintings Remade - Legacy of The Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/76823?tab=files&file_id=332991).
+   - Install it under the name **[NoDelete] [51] Paintings Remade - Legacy of The Dragonborn**
+
+52.) Download [Fate Cards Remade - Legacy of The Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/76418?tab=files&file_id=321543).
+   - Install it under the name **[NoDelete] [52] Fate Cards Remade - Legacy of The Dragonborn**
+
+53.) Download [Museum Gate Remade - Legacy of The Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/77195?tab=files&file_id=325690).
+   - Install it under the name **[NoDelete] [53] Museum Gate Remade - Legacy of The Dragonborn**
+
+54.) Download [Legacy of The Dragonborn - Dwemer Compass Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/55663?tab=files&file_id=229384).
+   - Install it under the name **[NoDelete] [54] Legacy of The Dragonborn - Dwemer Compass Replacer**
+
+55.) Download [Legacy of The Dragonborn - SMIM Chests](https://www.nexusmods.com/skyrimspecialedition/mods/55720?tab=files&file_id=297498).
+   - Install it under the name **[NoDelete] [55] Legacy of The Dragonborn - SMIM Chests**
+
+56.) Download [Elsopa - Big Backpack HD](https://www.nexusmods.com/skyrimspecialedition/mods/36445?tab=files&file_id=142023). On the first page of the FOMOD select Diffuse 2k, 2k. On the second page select None, None, then press Install.
+   - Install it under the name **[NoDelete] [56] ElSopa Big Backpack for LOTD**
+
+57.) Download [Legacy of The Dragonborn museum dome improved](https://www.nexusmods.com/skyrimspecialedition/mods/45655?tab=files&file_id=185737).
+   - Install it under the name **[NoDelete] [57] Legacy of The Dragonborn Museum Dome Improved**
+
 # Changelog
 
 N/A
 
-**Works with version 4.1.0+ of Septimus.**
+**Currently in the process of testing with version 4.1.0+ of Septimus.**
