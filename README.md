@@ -159,29 +159,29 @@ Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it 
 
 ## OPTIONAL HD Textures Addon (No extra patch needed)
 
-43.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
-   - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
+43.) Download [Legacy of the Dragonborn Cleaned Textures](https://www.nexusmods.com/skyrimspecialedition/mods/42975?tab=files&file_id=172664).
+   - Install it under the name **[NoDelete] [43] Legacy of the Dragonborn Cleaned Textures**
 
-44.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
-   - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
+44.) Download [Legacy of the Dragonborn Cleaned Textures - Blue Fabric Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42975?tab=files&file_id=173108).
+   - Install it under the name **[NoDelete] [44] Legacy of the Dragonborn Cleaned Textures - Blue Fabric Fix**
 
-45.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
-   - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
+45.) Download [LOTD Dragonmail Cuirass Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/43130?tab=files&file_id=173354).
+   - Install it under the name **[NoDelete] [45] LOTD Dragonmail Cuirass Enhanced**
 
-46.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
-   - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
+46.) Download [Better Wine Labels - Vanilla and Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/34698?tab=files&file_id=133998).
+   - Install it under the name **[NoDelete] [46] Better Wine Labels - Legacy of the Dragonborn**
 
-47.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
-   - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
+47.) Download [Better Wine Labels - Legacy of the Dragonborn - Sans Spiced Wine](https://www.nexusmods.com/skyrimspecialedition/mods/34698?tab=files&file_id=134622).
+   - Install it under the name **[NoDelete] [47] Better Wine Labels - Legacy of the Dragonborn - Sans Spiced Wine**
 
-48.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
-   - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
+48.) Download [Replacer for Banners - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38832?tab=files&file_id=152914).
+   - Install it under the name **[NoDelete] [48] Replacer for Banners - Legacy of the Dragonborn**
 
-49.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
-   - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
+49.) Download [Vibrant Explorers Guild Banner (LOTD)](https://www.nexusmods.com/skyrimspecialedition/mods/37233?tab=files&file_id=145435).
+   - Install it under the name **[NoDelete] [49] Vibrant Explorers Guild Banner (LOTD)**
 
-50.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
-   - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
+50.) Download [Yet another Legacy of the Dragonborn art replacer - paintings murals frames tapestries](https://www.nexusmods.com/skyrimspecialedition/mods/44473?tab=files&file_id=186299).
+   - Install it under the name **[NoDelete] [50] Yet Another Legacy of the Dragonborn Art Replacer**
 
 # Changelog
 
