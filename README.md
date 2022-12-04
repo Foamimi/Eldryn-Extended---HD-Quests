@@ -12,6 +12,8 @@ First of all, we're going to right-click on the left side of MO2 and highlight t
 
 All the plugins going forward will be at the very bottom, **below all of the Septimus patches**. The .esm files will need to be dragged to the top, just above **EVGAnimatedTraversal.esl**.
 
+## Baseline
+
 1.) Download [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802?tab=files).
    - Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". Legacy of the Dragonborn should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
    - Install it under the name **[NoDelete] [01] Legacy of the Dragonborn**
@@ -51,6 +53,8 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 13.) Download [Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround)](https://www.nexusmods.com/skyrimspecialedition/mods/59083?tab=files&file_id=244533).
    - Install it under the name **[NoDelete] [13] Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround)**
+
+## Patches
 
 14.) Download [Legacy of the Dragonborn - Followers Patch (Inigo-Auri-Kaidan-Hoth-Lucien-Vilja-Remiel-Redcap)](https://www.nexusmods.com/skyrimspecialedition/mods/40816?tab=files&file_id=313409). In the FOMOD, pick None, Remiel, Inigo, Auri, Lucien, Hoth, None (can't tick the Auri box anyway so just hit next), Kaidan, None, Hot Tub, don't tick anything on the last page + select None.
    - Install it under the name **[NoDelete] [14] Legacy of the Dragonborn - Follower Room Patches**
