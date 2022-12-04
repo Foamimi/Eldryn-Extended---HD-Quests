@@ -40,7 +40,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 9.) Download [Legacy of the Dragonborn - Quick Museum Shortcuts](https://www.nexusmods.com/skyrimspecialedition/mods/38898?tab=files&file_id=158828).
    - Install it under the name **[NoDelete] [09] Legacy of the Dragonborn - Quick Museum Shortcuts**
 
-10.) Download Legacy of the Dragonborn - Fixes and Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/58517?tab=files&file_id=257319).
+10.) Download [Legacy of the Dragonborn - Fixes and Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/58517?tab=files&file_id=257319).
    - Install it under the name **[NoDelete] [10] Legacy of the Dragonborn - Fixes and Tweaks**
 
 11.) Download [Legacy of the Dragonborn - Hall of Wonders Main Staircase Fix](https://www.nexusmods.com/skyrimspecialedition/mods/58517?tab=files&file_id=311895).
