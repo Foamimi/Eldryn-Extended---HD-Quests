@@ -30,3 +30,30 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
    
 6.) Download [Legacy of The Dragonborn - museum dome sunlight and shadows](https://www.nexusmods.com/skyrimspecialedition/mods/38237?tab=files&file_id=175657).
    - Install it under the name **[NoDelete] [06] Legacy of The Dragonborn - Museum Dome Sunlight and Shadows**
+
+7.) Download [Legacy of The Dragonborn - Museum Exterior Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/47321?tab=files&file_id=325337). In the FOMOD, select Erikur House fix.
+   - Install it under the name **[NoDelete] [07] Legacy of The Dragonborn - Museum Exterior Fixes**
+
+8.) Download [Legacy Safehouse Plus](https://www.nexusmods.com/skyrimspecialedition/mods/39278?tab=files&file_id=243625).
+   - Install it under the name **[NoDelete] [08] Legacy Safehouse Plus**
+
+9.) Download [Legacy of the Dragonborn - Quick Museum Shortcuts](https://www.nexusmods.com/skyrimspecialedition/mods/38898?tab=files&file_id=158828).
+   - Install it under the name **[NoDelete] [09] Legacy of the Dragonborn - Quick Museum Shortcuts**
+
+10.) Download Legacy of the Dragonborn - Fixes and Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/58517?tab=files&file_id=257319).
+   - Install it under the name **[NoDelete] [10] Legacy of the Dragonborn - Fixes and Tweaks**
+
+11.) Download [Legacy of the Dragonborn - Hall of Wonders Main Staircase Fix](https://www.nexusmods.com/skyrimspecialedition/mods/58517?tab=files&file_id=311895).
+   - Install it under the name **[NoDelete] [11] Legacy of the Dragonborn - Hall of Wonders Main Staircase Fix**
+
+12.) Download [Legacy of The Dragonborn - Stripped Nifs](https://www.nexusmods.com/skyrimspecialedition/mods/58517?tab=files&file_id=241768).
+   - Install it under the name **[NoDelete] [12] LotD Tweaks - Stripped Nifs**
+
+13.) Download [Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround)](https://www.nexusmods.com/skyrimspecialedition/mods/59083?tab=files&file_id=244533).
+   - Install it under the name **[NoDelete] [13] Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround)**
+
+14.) Download [Legacy of the Dragonborn - Followers Patch (Inigo-Auri-Kaidan-Hoth-Lucien-Vilja-Remiel-Redcap)](https://www.nexusmods.com/skyrimspecialedition/mods/40816?tab=files&file_id=313409). In the FOMOD, pick None, Remiel, Inigo, Auri, Lucien, Hoth, None (can't tick the Auri box anyway so just hit next), Kaidan, None, Hot Tub, don't tick anything on the last page + select None.
+   - Install it under the name **[NoDelete] [14] Legacy of the Dragonborn - Follower Room Patches**
+
+15.) Download [Legacy of the Dragonborn - Serana's Safehouse Room (Unofficial)](https://www.nexusmods.com/skyrimspecialedition/mods/74549?tab=files&file_id=312746).
+   - Install it under the name **[NoDelete] [15] Legacy of the Dragonborn - Serana's Safehouse Room B-2**
