@@ -150,16 +150,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 ### Phew! If you've made it this far, then congrats! We're almost there!
 ##
 
-# Last Steps
-
-##
-### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/Septimus%20Extended%20-%20LOTD%20Integration%20Patch%20v.0.1.0.7z) ] ("View raw" button)
-
-Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it directly AFTER [NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn. 
-### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
-##
-
-## OPTIONAL HD Textures Addon (No extra patch needed) - FEEL FREE TO SKIP!
+## OPTIONAL HD Textures Addon - FEEL FREE TO SKIP!
 
 43.) Download [Legacy of the Dragonborn Cleaned Textures](https://www.nexusmods.com/skyrimspecialedition/mods/42975?tab=files&file_id=172664).
    - Install it under the name **[NoDelete] [43] Legacy of the Dragonborn Cleaned Textures**
@@ -230,7 +221,19 @@ Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it 
 65.) Download [Legacy of the Dragonborn - Cleaner Display Glass](https://www.nexusmods.com/skyrimspecialedition/mods/33409?tab=files&file_id=127703).
    - Install it under the name **[NoDelete] [65] Legacy of the Dragonborn - Cleaner Display Glass**
 
+66.) Download [Legacy of the Dragonborn Visual Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/64477?tab=files&file_id=278502).
+   - Install it under the name **[NoDelete] [66] Legacy of the Dragonborn Visual Overhaul**
+
 ## Huzzah you now have LOTD all installed but now it's HD!
+
+# Last Steps
+
+##
+### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/Septimus%20Extended%20-%20LOTD%20Integration%20Patch%20v.0.1.0.7z) ] ("View raw" button)
+
+Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it directly AFTER [NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn. 
+### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
+##
 
 # Changelog
 
