@@ -218,7 +218,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 63.) Download [Legacy of the Dragonborn - Greener Jade Skull for Unique Skulls HD](https://www.nexusmods.com/skyrimspecialedition/mods/60130?tab=files&file_id=249480).
    - Install it under the name **[NoDelete] [63] Legacy of the Dragonborn - Greener Jade Skull for Unique Skulls HD**
 
-64.) Download [Legacy of the Dragonborn - Improved Dig Sites SE](https://www.nexusmods.com/skyrimspecialedition/mods/78042?tab=files&file_id=332924).
+64.) Download [Legacy of the Dragonborn - Improved Dig Sites SE](https://www.nexusmods.com/skyrimspecialedition/mods/78042?tab=files&file_id=332925).
    - Install it under the name **[NoDelete] [64] Legacy of the Dragonborn - Improved Dig Sites**
 
 65.) Download [Legacy of the Dragonborn - Cleaner Display Glass](https://www.nexusmods.com/skyrimspecialedition/mods/33409?tab=files&file_id=127703).
