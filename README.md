@@ -64,11 +64,11 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 16.) Download [Legacy of the Dragonborn Patches (Official)](https://www.nexusmods.com/skyrimspecialedition/mods/30980?tab=files&file_id=327098). In the FOMOD everything will be ticked automatically EXCEPT for one section, so just press Next until you get to the page titled "Manually Selectable Patches". Tick Ruins Clutter Improved, Skyrim Particle Patch for ENB, and Static Mesh Improvement Mod (last one will already be ticked automatically, but it's always good to double-check). Select Next, then Install.
    - Install it under the name **[NoDelete] [16] Legacy of the Dragonborn Patches (Official)**
 
-17.) Download [Legacy of the Dragonborn - Creation Club Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/31563?tab=files&file_id=337197). In the FOMOD everything will be ticked automatically, so just press Next until you get to the last page where you'll press Install.
-   - Install it under the name **[NoDelete] [17] Legacy of the Dragonborn - Creation Club Patch Hub**
-   - **IMPORTANT** - Untick the **DBM_CC_Fish_CuriosAddon.esp**. 
+17.) Download [Legacy of the Dragonborn - Creation Club Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/31563?tab=files&file_id=337197). In the FOMOD everything will be ticked automatically, so just press Next until you get to the Addons Page. **IMPORTANT** Untick the Fishing + Rare Curios Patch. Then press Next until the end where you press Install.
 
-![Image 1](https://i.imgur.com/fOgFNLj.png)
+![Image 1](https://i.imgur.com/FE00QGT.png)
+
+   - Install it under the name **[NoDelete] [17] Legacy of the Dragonborn - Creation Club Patch Hub** 
 
 18.) Download [Legacy of the Dragonborn - The Curator's Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529?tab=files&file_id=336777). In the FOMOD everything will be ticked automatically, so just press Next until you get to the last page where you'll press Install.
    - Install it under the name **[NoDelete] [18] Legacy of the Dragonborn - The Curators Companion**
