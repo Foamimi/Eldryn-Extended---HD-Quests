@@ -240,15 +240,3 @@ Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it 
 N/A
 
 **Currently in the process of testing with version 4.1.0+ of Septimus.**
-
-# Credits
-
-Megapatch includes records from the following patches;
-
-   - [LOTD - Pale Pass Extension - Embers XD/HD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/48814)
-   - [LOTD - Pale Pass Extension - Metallurgy Patch](https://www.nexusmods.com/skyrimspecialedition/mods/48814)
-   - [Open World Loot Patches - LOTD](https://www.nexusmods.com/skyrimspecialedition/mods/49964)
-   - [Dlizzio's Mesh Fixes Solitude patches collection - LOTD](https://www.nexusmods.com/skyrimspecialedition/mods/50412)
-   - [JK's Guild HQ Interiors Patch Collection - LOTD](https://www.nexusmods.com/skyrimspecialedition/mods/61416)
-   - [JK's Interiors Patch Collection - LOTD](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
-   - [Stendarr Rising - The Hall of the Vigilant Rebuild - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49346)
