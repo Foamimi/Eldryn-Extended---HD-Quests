@@ -1,5 +1,7 @@
 # Septimus-Extended---LOTD Addon (OPEN BETA)
 
+![Image 0](https://i.imgur.com/Q07g5lG.png)
+
 # Introduction
 
 Hello! This addon will integration Legacy of the Dragonborn into the world of Septimus-ified Skyrim. This will be a **manual process** with various steps involving downloading, rearranging, etc. A provided megapatch will be available at the end of the guide.
@@ -152,6 +154,8 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 ##
 ### Phew! If you've made it this far, then congrats! We're almost there!
 ##
+
+![Image 2](https://i.imgur.com/CsunYKO.png)
 
 ## OPTIONAL HD Textures Addon - FEEL FREE TO SKIP!
 
