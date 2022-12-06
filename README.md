@@ -57,7 +57,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 ## Patches
 
-14.) Download [Legacy of the Dragonborn - Followers Patch (Inigo-Auri-Kaidan-Hoth-Lucien-Vilja-Remiel-Redcap)](https://www.nexusmods.com/skyrimspecialedition/mods/40816?tab=files&file_id=313409). In the FOMOD, pick None, Remiel, Inigo, Auri, Lucien, Hoth, None (can't tick the Auri box anyway so just hit next), Kaidan, None, Hot Tub, don't tick anything on the last page + select None.
+14.) Download [Legacy of the Dragonborn - Followers Patch (Inigo-Auri-Kaidan-Hoth-Lucien-Vilja-Remiel-Redcap)](https://www.nexusmods.com/skyrimspecialedition/mods/40816?tab=files&file_id=313409). In the FOMOD, pick None, Remiel, Inigo, Auri, Lucien, Hoth, None (can't tick the Auri box anyway so just hit Next), Kaidan, None, Hot Tub, don't tick anything on the last page + select None.
    - Install it under the name **[NoDelete] [14] Legacy of the Dragonborn - Follower Room Patches**
 
 15.) Download [Legacy of the Dragonborn - Serana's Safehouse Room (Unofficial)](https://www.nexusmods.com/skyrimspecialedition/mods/74549?tab=files&file_id=312746).
@@ -124,7 +124,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 33.) Download [Kaidan Extended Edition - Cheesemod Patch](https://kaidanmod.com/downloads/). Scroll down the website to almost the very bottom and the Cheesemod Patch should be available. Press "Download Version 1.0". Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". A file called "Kaidan-Cheesemod" should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
    - Install it under the name **[NoDelete] [33] Kaidan Extended Edition - LOTD - Cheesemod Patch**
 
-34.) Download [Remiel - LOTD Commentary Patc](https://www.nexusmods.com/skyrimspecialedition/mods/51874?tab=files&file_id=327264).
+34.) Download [Remiel - LOTD Commentary Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51874?tab=files&file_id=327264).
    - Install it under the name **[NoDelete] [34] Remiel - LOTD Commentary Patch**
 
 35.) Download [Legacy of The Dragonborn - Cathedral 3D Mountain Flowers Patch](https://www.nexusmods.com/skyrimspecialedition/mods/47192?tab=files&file_id=325339).
