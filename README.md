@@ -241,9 +241,9 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it directly AFTER [NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn. If you added HD textures, feel free to place it after [NoDelete] [66] Legacy of the Dragonborn Visual Overhaul.
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
+# Changelog
+
    - **Currently in the process of testing with version 4.1.0+ of Septimus.**
    - **Currently works with the [Septimus Extended - NPC Overhauls Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md).**
-
-# Changelog
 
 N/A
