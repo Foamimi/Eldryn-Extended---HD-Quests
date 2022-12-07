@@ -136,7 +136,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 37.) Download [JK's High Hrothgar - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/61416?tab=files&file_id=258321).
    - Install it under the name **[NoDelete] [37] JK's High Hrothgar - LOTD Patch**
 
-38.) Download [eFPS - Official Patch Hub - LOTD](https://www.nexusmods.com/skyrimspecialedition/mods/54998?tab=files&file_id=273650). You may already have this downloaded if you did not delete your Downloads folder from Septimus. If you already have it installed, click Cancel from the "Do you want to install this mod again?" popup. On the right-hand side of MO2 in the Downloads tab, type in at the bottom, "eFPS" and one file should show up. Double-click it and a FOMOD should appear. Don't tick anything and click Next all the way up until the last page. Make sure Legacy of the Dragonborn is ticked, then press Install.  **REMEMBER TO CHANGE THE NAME TO THE ONE BELOW!**
+38.) Download [eFPS - Official Patch Hub - LOTD](https://www.nexusmods.com/skyrimspecialedition/mods/54998?tab=files&file_id=273650). You may already have this downloaded if you did not delete your Downloads folder from Septimus. If you already have it installed, click Cancel from the "Do you want to install this mod again?" popup. On the right-hand side of MO2 in the Downloads tab, type in at the bottom, "eFPS" and patch file should show up. Double-click it and a FOMOD should appear. Don't tick anything and click Next all the way up until the last page. Make sure Legacy of the Dragonborn is ticked, then press Install.  **REMEMBER TO CHANGE THE NAME TO THE ONE BELOW!**
    - Install it under the name **[NoDelete] [38] eFPS - Official Patch Hub - LOTD**
 
 39.) Download [ArteFakes - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/41254?tab=files&file_id=197466).
@@ -147,10 +147,11 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 41.) Download [Ancient Nord Stalhrim Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/68905?tab=files&file_id=293352).
    - Install it under the name **[NoDelete] [41] Ancient Nord Stalhrim Patches - Legacy of the Dragonborn**
-   - **IMPORTANT** - Double-click the newly installed file on the left side of MO2 and switch to the Filetree tab. Click the downwards arrow to open up the meshes folder. Do the same for the ogstalhrim folder. In the ogstalhrim folder, right-click the following files and select Hide: **1stpersondraugrstalhrimmace.nif | 1stpersondraugrstalhrimwarhammer.nif | draugrstalhrimmace.nif | draugrstalhrimwarhammer.nif**. Then you're done! 
-   - **IMPORTANT** - This is done to prevent an mismatched purple texture issue on those weapons, as the Ancient Nord Stalhrim LOTD Patch has incorrect texture paths. 
+   - **IMPORTANT** - Double-click the newly installed file on the left side of MO2 and switch to the Filetree tab. Click the downwards arrow to open up the meshes folder. Do the same for the ogstalhrim folder. In the ogstalhrim folder, right-click the following files and select Hide: **1stpersondraugrstalhrimmace.nif - 1stpersondraugrstalhrimwarhammer.nif - draugrstalhrimmace.nif - draugrstalhrimwarhammer.nif**. Then you're done! 
  
  ![Image 1.1](https://i.imgur.com/OXu2uBL.png)
+ 
+    - **IMPORTANT** - This is to prevent mismatched purple textures on those weapons, as the Ancient Nord Stalhrim LOTD Patch has incorrect texture paths. 
 
 42.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
    - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
