@@ -252,4 +252,5 @@ Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it 
 # Changelog
 
 0.1.1 
-   - Fixed purple ancient draugr mace and warhammer textures. If updating, see "41.) Download Ancient Nord Stalhrim Patches - Legacy of the Dragonborn"" for more information on how to proceed.
+   - Fixed purple ancient draugr mace and warhammer textures. Megapatch is unaffected, no need to re-download.
+   - **IMPORTANT** - If updating, see "41.) Download Ancient Nord Stalhrim Patches - Legacy of the Dragonborn"" for more information on how to proceed.
