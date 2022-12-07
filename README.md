@@ -66,7 +66,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 16.) Download [Legacy of the Dragonborn Patches (Official)](https://www.nexusmods.com/skyrimspecialedition/mods/30980?tab=files&file_id=327098). In the FOMOD everything will be ticked automatically EXCEPT for one section, so just press Next until you get to the page titled "Manually Selectable Patches". Tick Ruins Clutter Improved, Skyrim Particle Patch for ENB, and Static Mesh Improvement Mod (last one will already be ticked automatically, but it's always good to double-check). Select Next, then Install.
    - Install it under the name **[NoDelete] [16] Legacy of the Dragonborn Patches (Official)**
 
-17.) Download [Legacy of the Dragonborn - Creation Club Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/31563?tab=files&file_id=337197). In the FOMOD everything will be ticked automatically, so just press Next until you get to the Addons Page. **IMPORTANT** Untick the Fishing + Rare Curios Patch. Then press Next until the end where you press Install.
+17.) Download [Legacy of the Dragonborn - Creation Club Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/31563?tab=files&file_id=337197). In the FOMOD everything will be ticked automatically, so just press Next until you get to the Addons Page. **IMPORTANT** - Untick the Fishing + Rare Curios Patch. Then press Next until the end where you press Install.
 
 ![Image 1](https://i.imgur.com/FE00QGT.png)
 
