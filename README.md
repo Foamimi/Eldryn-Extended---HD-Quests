@@ -147,6 +147,10 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 41.) Download [Ancient Nord Stalhrim Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/68905?tab=files&file_id=293352).
    - Install it under the name **[NoDelete] [41] Ancient Nord Stalhrim Patches - Legacy of the Dragonborn**
+   - **IMPORTANT** - Double-click the newly installed file on the left side of MO2 so you get a screen like below. Switch to the Filetree tab. Click the downwards arrow to open up the meshes folder. Do the same for the ogstalhrim folder. In the ogstalhrim folder, right-click the following files and select Hide: **1stpersondraugrstalhrimmace.nif | 1stpersondraugrstalhrimwarhammer.nif | draugrstalhrimmace.nif | draugrstalhrimwarhammer.nif**. Then you're done! 
+   - **IMPORTANT** - This is done to prevent an mismatched purple texture issue on those weapons, as the LOTD has incorrect texture paths. 
+ 
+ ![Image 1.1](https://i.imgur.com/OXu2uBL.png)
 
 42.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
    - Install it under the name **[NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
@@ -247,4 +251,5 @@ Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it 
 
 # Changelog
 
-N/A
+0.1.1 
+   - Fixed purple ancient draugr mace and warhammer textures. If updating, see "41.) Download Ancient Nord Stalhrim Patches - Legacy of the Dragonborn"" for more information on how to proceed.
