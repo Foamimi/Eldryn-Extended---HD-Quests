@@ -147,8 +147,8 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 41.) Download [Ancient Nord Stalhrim Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/68905?tab=files&file_id=293352).
    - Install it under the name **[NoDelete] [41] Ancient Nord Stalhrim Patches - Legacy of the Dragonborn**
-   - **IMPORTANT** - Double-click the newly installed file on the left side of MO2 so you get a screen like below. Switch to the Filetree tab. Click the downwards arrow to open up the meshes folder. Do the same for the ogstalhrim folder. In the ogstalhrim folder, right-click the following files and select Hide: **1stpersondraugrstalhrimmace.nif | 1stpersondraugrstalhrimwarhammer.nif | draugrstalhrimmace.nif | draugrstalhrimwarhammer.nif**. Then you're done! 
-   - **IMPORTANT** - This is done to prevent an mismatched purple texture issue on those weapons, as the LOTD has incorrect texture paths. 
+   - **IMPORTANT** - Double-click the newly installed file on the left side of MO2 and switch to the Filetree tab. Click the downwards arrow to open up the meshes folder. Do the same for the ogstalhrim folder. In the ogstalhrim folder, right-click the following files and select Hide: **1stpersondraugrstalhrimmace.nif | 1stpersondraugrstalhrimwarhammer.nif | draugrstalhrimmace.nif | draugrstalhrimwarhammer.nif**. Then you're done! 
+   - **IMPORTANT** - This is done to prevent an mismatched purple texture issue on those weapons, as the Ancient Nord Stalhrim LOTD Patch has incorrect texture paths. 
  
  ![Image 1.1](https://i.imgur.com/OXu2uBL.png)
 
