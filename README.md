@@ -148,7 +148,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
  
  ![Image 1.1](https://i.imgur.com/OXu2uBL.png)
  
-42.) Download [Legacy of the Dragonborn-Ancient Nord Stalhrim Curator's Companion patch](https://www.nexusmods.com/skyrimspecialedition/mods/80251?tab=files&file_id=338645).
+42.) Download [Legacy of the Dragonborn-Ancient Nord Stalhrim Curator's Companion patch](https://www.nexusmods.com/skyrimspecialedition/mods/80251?tab=files&file_id=338812).
    - Install it under the name **[NoDelete] [42] Legacy of the Dragonborn - Ancient Nord Stalhrim TCC Patch**
 
 43.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
@@ -252,6 +252,7 @@ Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it 
 
 0.1.1 
    - Added Legacy of the Dragonborn-Ancient Nord Stalhrim Curator's Companion patch.
+   - Updated Legacy of the Dragonborn-Ancient Nord Stalhrim Curator's Companion patch.
    - Renumbered everything from 42 to 67 (SORRY!).
    - Fixed purple ancient draugr mace and warhammer textures.
    - **IMPORTANT** - If updating, see "41.) Download Ancient Nord Stalhrim Patches - Legacy of the Dragonborn" for more information on how to proceed.
