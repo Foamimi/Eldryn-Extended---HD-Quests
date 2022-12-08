@@ -105,10 +105,6 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 28.) Download [Simple Backpack Rebalance - LOTD TCC Patch](https://www.nexusmods.com/skyrimspecialedition/mods/70628?tab=files&file_id=295708).
    - Install it under the name **[NoDelete] [28] Simple Backpack Rebalance - LOTD TCC Patch**
 
-## 
-### I know I know there's a boatload of patches, but you're almost there! <3
-## 
-
 29.) Download [Unofficial Legacy of the Dragonborn - Pilgrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/57922?tab=files&file_id=276241).
    - Install it under the name **[NoDelete] [29] Unofficial Legacy of the Dragonborn - Pilgrim Patch**
 
