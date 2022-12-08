@@ -251,7 +251,7 @@ Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it 
 # Changelog
 
 0.1.1 
-   - Added 42.) Legacy of the Dragonborn-Ancient Nord Stalhrim Curator's Companion patch.
+   - Added Legacy of the Dragonborn-Ancient Nord Stalhrim Curator's Companion patch.
    - Renumbered everything from 42 to 67 (SORRY!).
    - Fixed purple ancient draugr mace and warhammer textures.
    - **IMPORTANT** - If updating, see "41.) Download Ancient Nord Stalhrim Patches - Legacy of the Dragonborn" for more information on how to proceed.
