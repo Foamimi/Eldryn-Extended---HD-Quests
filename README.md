@@ -225,7 +225,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 64.) Download [Legacy of the Dragonborn - Greener Jade Skull for Unique Skulls HD](https://www.nexusmods.com/skyrimspecialedition/mods/60130?tab=files&file_id=249480).
    - Install it under the name **[NoDelete] [64] Legacy of the Dragonborn - Greener Jade Skull for Unique Skulls HD**
 
-65.) Download [Legacy of the Dragonborn - Improved Dig Sites SE](https://www.nexusmods.com/skyrimspecialedition/mods/78042?tab=files&file_id=332925).
+65.) Download [Legacy of the Dragonborn - Improved Dig Sites SE](https://www.nexusmods.com/skyrimspecialedition/mods/78042?tab=files&file_id=340164).
    - Install it under the name **[NoDelete] [65] Legacy of the Dragonborn - Improved Dig Sites**
 
 66.) Download [Legacy of the Dragonborn - Cleaner Display Glass](https://www.nexusmods.com/skyrimspecialedition/mods/33409?tab=files&file_id=127703).
@@ -253,6 +253,7 @@ Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it 
 0.1.1 
    - Added Legacy of the Dragonborn-Ancient Nord Stalhrim Curator's Companion patch.
    - Updated Legacy of the Dragonborn-Ancient Nord Stalhrim Curator's Companion patch.
+   - Updated Legacy of the Dragonborn - Improved Dig Sites SE
    - Renumbered everything from 42 to 67 (SORRY!).
    - Fixed purple ancient draugr mace and warhammer textures.
    - **IMPORTANT** - If updating, see "41.) Download Ancient Nord Stalhrim Patches - Legacy of the Dragonborn" for more information on how to proceed.
