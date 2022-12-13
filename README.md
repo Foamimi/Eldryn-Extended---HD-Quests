@@ -132,30 +132,30 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 37.) Download [JK's High Hrothgar - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/61416?tab=files&file_id=258321).
    - Install it under the name **[NoDelete] [37] JK's High Hrothgar - LOTD Patch**
 
-38.) Download [eFPS - Official Patch Hub - LOTD](https://www.nexusmods.com/skyrimspecialedition/mods/54998?tab=files&file_id=273650). You may already have this downloaded if you did not delete your Downloads folder from Septimus. If you already have it installed, click Cancel from the "Do you want to install this mod again?" popup. On the right-hand side of MO2 in the Downloads tab, type in at the bottom, "eFPS" and the patch file should show up. Double-click it and a FOMOD should appear. Don't tick anything and click Next all the way up until the last page. Make sure Legacy of the Dragonborn is ticked, then press Install.  **REMEMBER TO CHANGE THE NAME TO THE ONE BELOW!**
-   - Install it under the name **[NoDelete] [38] eFPS - Official Patch Hub - LOTD**
+38.) Download [Immersive Fort Dawnguard - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/40436?tab=files&file_id=173455). You may already have this downloaded if you did not delete your Downloads folder from Septimus. If you already have it installed, click Cancel from the "Do you want to install this mod again?" popup. On the right-hand side of MO2 in the Downloads tab, type in at the bottom, "Immersive Fort Dawnguard" and one file should show up. Double-click it and a FOMOD should appear. Select Enhanced Lights and FX, Dawnguard Arsenal Patch, Legacy of the Dragonborn Patch (ESL), then click Install. **REMEMBER TO CHANGE THE NAME TO THE ONE BELOW!**
+   - Install it under the name **[NoDelete] [38] Immersive Fort Dawnguard - LOTD Patch**
 
-39.) Download [ArteFakes - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/41254?tab=files&file_id=197466).
-   - Install it under the name **[NoDelete] [39] ArteFakes - LOTD Patch**
+39.) Download [eFPS - Official Patch Hub - LOTD](https://www.nexusmods.com/skyrimspecialedition/mods/54998?tab=files&file_id=273650). You may already have this downloaded if you did not delete your Downloads folder from Septimus. If you already have it installed, click Cancel from the "Do you want to install this mod again?" popup. On the right-hand side of MO2 in the Downloads tab, type in at the bottom, "eFPS" and the patch file should show up. Double-click it and a FOMOD should appear. Don't tick anything and click Next all the way up until the last page. Make sure Legacy of the Dragonborn is ticked, then press Install.  **REMEMBER TO CHANGE THE NAME TO THE ONE BELOW!**
+   - Install it under the name **[NoDelete] [39] eFPS - Official Patch Hub - LOTD**
 
-40.) Download [Haugbui - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26188?tab=files&file_id=288148).
-   - Install it under the name **[NoDelete] [40] Haugbui - LOTD Patch**
+40.) Download [ArteFakes - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/41254?tab=files&file_id=197466).
+   - Install it under the name **[NoDelete] [40] ArteFakes - LOTD Patch**
 
-41.) Download [Ancient Nord Stalhrim Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/68905?tab=files&file_id=293352).
-   - Install it under the name **[NoDelete] [41] Ancient Nord Stalhrim Patches - Legacy of the Dragonborn**
+41.) Download [Haugbui - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/26188?tab=files&file_id=288148).
+   - Install it under the name **[NoDelete] [41] Haugbui - LOTD Patch**
+
+42.) Download [Ancient Nord Stalhrim Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/68905?tab=files&file_id=293352).
+   - Install it under the name **[NoDelete] [42] Ancient Nord Stalhrim Patches - Legacy of the Dragonborn**
    - **IMPORTANT** - Double-click the newly installed file on the left side of MO2 and switch to the Filetree tab. Click the downwards arrow to open up the meshes folder. Do the same for the ogstalhrim folder. In the ogstalhrim folder, right-click the following files and select Hide: **1stpersondraugrstalhrimmace.nif - 1stpersondraugrstalhrimwarhammer.nif - draugrstalhrimmace.nif - draugrstalhrimwarhammer.nif**. Then you're done! 
    - **IMPORTANT** - This is to prevent mismatched purple textures on those weapons, as the Ancient Nord Stalhrim LOTD Patch has incorrect texture paths. 
  
  ![Image 1.1](https://i.imgur.com/OXu2uBL.png)
  
-42.) Download [Legacy of the Dragonborn-Ancient Nord Stalhrim Curator's Companion patch](https://www.nexusmods.com/skyrimspecialedition/mods/80251?tab=files&file_id=338812).
-   - Install it under the name **[NoDelete] [42] Legacy of the Dragonborn - Ancient Nord Stalhrim TCC Patch**
+43.) Download [Legacy of the Dragonborn-Ancient Nord Stalhrim Curator's Companion patch](https://www.nexusmods.com/skyrimspecialedition/mods/80251?tab=files&file_id=338812).
+   - Install it under the name **[NoDelete] [43] Legacy of the Dragonborn - Ancient Nord Stalhrim TCC Patch**
 
-43.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
-   - Install it under the name **[NoDelete] [43] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
-
-44.) Download [Immersive Fort Dawnguard - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/40436?tab=files&file_id=173455). You may already have this downloaded if you did not delete your Downloads folder from Septimus. If you already have it installed, click Cancel from the "Do you want to install this mod again?" popup. On the right-hand side of MO2 in the Downloads tab, type in at the bottom, "Immersive Fort Dawnguard" and one file should show up. Double-click it and a FOMOD should appear. Select Enhanced Lights and FX, Dawnguard Arsenal Patch, Legacy of the Dragonborn Patch (ESL), then click Install. **REMEMBER TO CHANGE THE NAME TO THE ONE BELOW!**
-   - Install it under the name **[NoDelete] [44] Immersive Fort Dawnguard - LOTD Patch**
+44.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
+   - Install it under the name **[NoDelete] [44] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
 
 ##
 ### Phew! If you've made it this far, then congrats! We're almost there!
@@ -258,7 +258,7 @@ Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it 
    - Added Legacy of the Dragonborn-Ancient Nord Stalhrim Curator's Companion patch.
    - Updated Legacy of the Dragonborn-Ancient Nord Stalhrim Curator's Companion patch.
    - Updated Legacy of the Dragonborn - Improved Dig Sites SE
-   - Renumbered everything from 44 to 68 (SORRY!).
+   - Renumbered everything from 38 to 68 (SORRY!).
    - Fixed purple ancient draugr mace and warhammer textures.
-   - **IMPORTANT** - If updating, see "41.) Download Ancient Nord Stalhrim Patches - Legacy of the Dragonborn" for more information on how to proceed.
+   - **IMPORTANT** - If updating, see "42.) Download Ancient Nord Stalhrim Patches - Legacy of the Dragonborn" for more information on how to proceed.
    -  **Megapatch is unaffected, no need to re-download. Save-game friendly update.**
