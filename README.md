@@ -154,6 +154,9 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 43.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
    - Install it under the name **[NoDelete] [43] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
 
+44.) Download [Immersive Fort Dawnguard - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/40436?tab=files&file_id=173455). You may already have this downloaded if you did not delete your Downloads folder from Septimus. If you already have it installed, click Cancel from the "Do you want to install this mod again?" popup. On the right-hand side of MO2 in the Downloads tab, type in at the bottom, "Immersive Fort Dawnguard" and one file should show up. Double-click it and a FOMOD should appear. Select Enhanced Lights and FX, Dawnguard Arsenal Patch, Legacy of the Dragonborn Patch (ESL), then click Install. **REMEMBER TO CHANGE THE NAME TO THE ONE BELOW!**
+   - Install it under the name **[NoDelete] [44] Immersive Fort Dawnguard - LOTD Patch**
+
 ##
 ### Phew! If you've made it this far, then congrats! We're almost there!
 ##
@@ -162,77 +165,77 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 ## OPTIONAL HD Textures Addon - FEEL FREE TO SKIP!
 
-44.) Download [Legacy of the Dragonborn Cleaned Textures](https://www.nexusmods.com/skyrimspecialedition/mods/42975?tab=files&file_id=172664).
-   - Install it under the name **[NoDelete] [44] Legacy of the Dragonborn Cleaned Textures**
+45.) Download [Legacy of the Dragonborn Cleaned Textures](https://www.nexusmods.com/skyrimspecialedition/mods/42975?tab=files&file_id=172664).
+   - Install it under the name **[NoDelete] [45] Legacy of the Dragonborn Cleaned Textures**
 
-45.) Download [Legacy of the Dragonborn Cleaned Textures - Blue Fabric Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42975?tab=files&file_id=173108).
-   - Install it under the name **[NoDelete] [45] Legacy of the Dragonborn Cleaned Textures - Blue Fabric Fix**
+46.) Download [Legacy of the Dragonborn Cleaned Textures - Blue Fabric Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42975?tab=files&file_id=173108).
+   - Install it under the name **[NoDelete] [46] Legacy of the Dragonborn Cleaned Textures - Blue Fabric Fix**
 
-46.) Download [LOTD Dragonmail Cuirass Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/43130?tab=files&file_id=173354).
-   - Install it under the name **[NoDelete] [46] LOTD Dragonmail Cuirass Enhanced**
+47.) Download [LOTD Dragonmail Cuirass Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/43130?tab=files&file_id=173354).
+   - Install it under the name **[NoDelete] [47] LOTD Dragonmail Cuirass Enhanced**
 
-47.) Download [Better Wine Labels - Vanilla and Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/34698?tab=files&file_id=133998).
-   - Install it under the name **[NoDelete] [47] Better Wine Labels - Legacy of the Dragonborn**
+48.) Download [Better Wine Labels - Vanilla and Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/34698?tab=files&file_id=133998).
+   - Install it under the name **[NoDelete] [48] Better Wine Labels - Legacy of the Dragonborn**
 
-48.) Download [Better Wine Labels - Legacy of the Dragonborn - Sans Spiced Wine](https://www.nexusmods.com/skyrimspecialedition/mods/34698?tab=files&file_id=134622).
-   - Install it under the name **[NoDelete] [48] Better Wine Labels - Legacy of the Dragonborn - Sans Spiced Wine**
+49.) Download [Better Wine Labels - Legacy of the Dragonborn - Sans Spiced Wine](https://www.nexusmods.com/skyrimspecialedition/mods/34698?tab=files&file_id=134622).
+   - Install it under the name **[NoDelete] [49] Better Wine Labels - Legacy of the Dragonborn - Sans Spiced Wine**
 
-49.) Download [Replacer for Banners - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38832?tab=files&file_id=152914).
-   - Install it under the name **[NoDelete] [49] Replacer for Banners - Legacy of the Dragonborn**
+50.) Download [Replacer for Banners - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/38832?tab=files&file_id=152914).
+   - Install it under the name **[NoDelete] [50] Replacer for Banners - Legacy of the Dragonborn**
 
-50.) Download [Vibrant Explorers Guild Banner (LOTD)](https://www.nexusmods.com/skyrimspecialedition/mods/37233?tab=files&file_id=145435).
-   - Install it under the name **[NoDelete] [50] Vibrant Explorers Guild Banner (LOTD)**
+51.) Download [Vibrant Explorers Guild Banner (LOTD)](https://www.nexusmods.com/skyrimspecialedition/mods/37233?tab=files&file_id=145435).
+   - Install it under the name **[NoDelete] [51] Vibrant Explorers Guild Banner (LOTD)**
 
-51.) Download [Yet another Legacy of the Dragonborn art replacer - paintings murals frames tapestries](https://www.nexusmods.com/skyrimspecialedition/mods/44473?tab=files&file_id=186299).
-   - Install it under the name **[NoDelete] [51] Yet Another Legacy of the Dragonborn Art Replacer**
+52.) Download [Yet another Legacy of the Dragonborn art replacer - paintings murals frames tapestries](https://www.nexusmods.com/skyrimspecialedition/mods/44473?tab=files&file_id=186299).
+   - Install it under the name **[NoDelete] [52] Yet Another Legacy of the Dragonborn Art Replacer**
 
-52.) Download [Paintings Remade - Legacy of The Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/76823?tab=files&file_id=332991).
-   - Install it under the name **[NoDelete] [52] Paintings Remade - Legacy of The Dragonborn**
+53.) Download [Paintings Remade - Legacy of The Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/76823?tab=files&file_id=332991).
+   - Install it under the name **[NoDelete] [53] Paintings Remade - Legacy of The Dragonborn**
 
-53.) Download [Fate Cards Remade - Legacy of The Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/76418?tab=files&file_id=321543).
-   - Install it under the name **[NoDelete] [53] Fate Cards Remade - Legacy of The Dragonborn**
+54.) Download [Fate Cards Remade - Legacy of The Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/76418?tab=files&file_id=321543).
+   - Install it under the name **[NoDelete] [54] Fate Cards Remade - Legacy of The Dragonborn**
 
-54.) Download [Museum Gate Remade - Legacy of The Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/77195?tab=files&file_id=325690).
-   - Install it under the name **[NoDelete] [54] Museum Gate Remade - Legacy of The Dragonborn**
+55.) Download [Museum Gate Remade - Legacy of The Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/77195?tab=files&file_id=325690).
+   - Install it under the name **[NoDelete] [55] Museum Gate Remade - Legacy of The Dragonborn**
 
-55.) Download [Legacy of The Dragonborn - Dwemer Compass Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/55663?tab=files&file_id=229384).
-   - Install it under the name **[NoDelete] [55] Legacy of The Dragonborn - Dwemer Compass Replacer**
+56.) Download [Legacy of The Dragonborn - Dwemer Compass Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/55663?tab=files&file_id=229384).
+   - Install it under the name **[NoDelete] [56] Legacy of The Dragonborn - Dwemer Compass Replacer**
 
-56.) Download [Legacy of The Dragonborn - SMIM Chests](https://www.nexusmods.com/skyrimspecialedition/mods/55720?tab=files&file_id=297498).
-   - Install it under the name **[NoDelete] [56] Legacy of The Dragonborn - SMIM Chests**
+57.) Download [Legacy of The Dragonborn - SMIM Chests](https://www.nexusmods.com/skyrimspecialedition/mods/55720?tab=files&file_id=297498).
+   - Install it under the name **[NoDelete] [57] Legacy of The Dragonborn - SMIM Chests**
 
-57.) Download [Elsopa - Big Backpack HD](https://www.nexusmods.com/skyrimspecialedition/mods/36445?tab=files&file_id=142023). On the first page of the FOMOD select Diffuse 2k, 2k. On the second page select None, None, then press Install.
-   - Install it under the name **[NoDelete] [57] ElSopa Big Backpack for LOTD**
+58.) Download [Elsopa - Big Backpack HD](https://www.nexusmods.com/skyrimspecialedition/mods/36445?tab=files&file_id=142023). On the first page of the FOMOD select Diffuse 2k, 2k. On the second page select None, None, then press Install.
+   - Install it under the name **[NoDelete] [58] ElSopa Big Backpack for LOTD**
 
-58.) Download [Legacy of The Dragonborn museum dome improved](https://www.nexusmods.com/skyrimspecialedition/mods/45655?tab=files&file_id=185737).
-   - Install it under the name **[NoDelete] [58] Legacy of The Dragonborn Museum Dome Improved**
+59.) Download [Legacy of The Dragonborn museum dome improved](https://www.nexusmods.com/skyrimspecialedition/mods/45655?tab=files&file_id=185737).
+   - Install it under the name **[NoDelete] [59] Legacy of The Dragonborn Museum Dome Improved**
 
-59.) Download [Legacy of the Dragonborn dome retexture](https://www.nexusmods.com/skyrimspecialedition/mods/46452?tab=files&file_id=189039).
-   - Install it under the name **[NoDelete] [59] Legacy of The Dragonborn Dome Retexture**
+60.) Download [Legacy of the Dragonborn dome retexture](https://www.nexusmods.com/skyrimspecialedition/mods/46452?tab=files&file_id=189039).
+   - Install it under the name **[NoDelete] [60] Legacy of The Dragonborn Dome Retexture**
 
-60.) Download [LotD Tweaks - Stucco Texture A](https://www.nexusmods.com/skyrimspecialedition/mods/58517?tab=files&file_id=241771).
-   - Install it under the name **[NoDelete] [60] LotD Tweaks - Stucco Texture A**
+61.) Download [LotD Tweaks - Stucco Texture A](https://www.nexusmods.com/skyrimspecialedition/mods/58517?tab=files&file_id=241771).
+   - Install it under the name **[NoDelete] [61] LotD Tweaks - Stucco Texture A**
 
-61.) Download [LotD Tweaks - Wood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/58517?tab=files&file_id=241770).
-   - Install it under the name **[NoDelete] [61] LotD Tweaks - Wood Textures**
+62.) Download [LotD Tweaks - Wood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/58517?tab=files&file_id=241770).
+   - Install it under the name **[NoDelete] [62] LotD Tweaks - Wood Textures**
 
-62.) Download [Stalhrim Refrozen - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/41348?tab=files&file_id=213443).
-   - Install it under the name **[NoDelete] [62] Stalhrim Refrozen - LOTD Patch**
+63.) Download [Stalhrim Refrozen - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/41348?tab=files&file_id=213443).
+   - Install it under the name **[NoDelete] [63] Stalhrim Refrozen - LOTD Patch**
 
-63.) Download [Unique Skulls HD - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52073?tab=files&file_id=215295). You may already have this downloaded if you did not delete your Downloads folder from Septimus. If you already have it installed, click Cancel from the "Do you want to install this mod again?" popup. On the right-hand side of MO2 in the Downloads tab, type in at the bottom, "Unique Skulls" and one file should show up. Double-click it and a FOMOD should appear. On the first page select Next. On the second page, select ESPFE, SkullKeys EnbLight Patch, New Textures + ESPFE. On the last page select Install. **REMEMBER TO CHANGE THE NAME TO THE ONE BELOW!**
-   - Install it under the name **[NoDelete] [63] Unique Skulls HD - LOTD Patch**
+64.) Download [Unique Skulls HD - LOTD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52073?tab=files&file_id=215295). You may already have this downloaded if you did not delete your Downloads folder from Septimus. If you already have it installed, click Cancel from the "Do you want to install this mod again?" popup. On the right-hand side of MO2 in the Downloads tab, type in at the bottom, "Unique Skulls" and one file should show up. Double-click it and a FOMOD should appear. On the first page select Next. On the second page, select ESPFE, SkullKeys EnbLight Patch, New Textures + ESPFE. On the last page select Install. **REMEMBER TO CHANGE THE NAME TO THE ONE BELOW!**
+   - Install it under the name **[NoDelete] [64] Unique Skulls HD - LOTD Patch**
 
-64.) Download [Legacy of the Dragonborn - Greener Jade Skull for Unique Skulls HD](https://www.nexusmods.com/skyrimspecialedition/mods/60130?tab=files&file_id=249480).
-   - Install it under the name **[NoDelete] [64] Legacy of the Dragonborn - Greener Jade Skull for Unique Skulls HD**
+65.) Download [Legacy of the Dragonborn - Greener Jade Skull for Unique Skulls HD](https://www.nexusmods.com/skyrimspecialedition/mods/60130?tab=files&file_id=249480).
+   - Install it under the name **[NoDelete] [65] Legacy of the Dragonborn - Greener Jade Skull for Unique Skulls HD**
 
-65.) Download [Legacy of the Dragonborn - Improved Dig Sites SE](https://www.nexusmods.com/skyrimspecialedition/mods/78042?tab=files&file_id=340164).
-   - Install it under the name **[NoDelete] [65] Legacy of the Dragonborn - Improved Dig Sites**
+66.) Download [Legacy of the Dragonborn - Improved Dig Sites SE](https://www.nexusmods.com/skyrimspecialedition/mods/78042?tab=files&file_id=340164).
+   - Install it under the name **[NoDelete] [66] Legacy of the Dragonborn - Improved Dig Sites**
 
-66.) Download [Legacy of the Dragonborn - Cleaner Display Glass](https://www.nexusmods.com/skyrimspecialedition/mods/33409?tab=files&file_id=127703).
-   - Install it under the name **[NoDelete] [66] Legacy of the Dragonborn - Cleaner Display Glass**
+67.) Download [Legacy of the Dragonborn - Cleaner Display Glass](https://www.nexusmods.com/skyrimspecialedition/mods/33409?tab=files&file_id=127703).
+   - Install it under the name **[NoDelete] [67] Legacy of the Dragonborn - Cleaner Display Glass**
 
-67.) Download [Legacy of the Dragonborn Visual Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/64477?tab=files&file_id=278502).
-   - Install it under the name **[NoDelete] [67] Legacy of the Dragonborn Visual Overhaul**
+68.) Download [Legacy of the Dragonborn Visual Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/64477?tab=files&file_id=278502).
+   - Install it under the name **[NoDelete] [68] Legacy of the Dragonborn Visual Overhaul**
 
 ## Huzzah you now have LOTD all installed but now it's HD!
 
@@ -251,10 +254,11 @@ Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it 
 # Changelog
 
 0.1.1 
+   - Added Immersive Fort Dawnguard - LOTD Patch
    - Added Legacy of the Dragonborn-Ancient Nord Stalhrim Curator's Companion patch.
    - Updated Legacy of the Dragonborn-Ancient Nord Stalhrim Curator's Companion patch.
    - Updated Legacy of the Dragonborn - Improved Dig Sites SE
-   - Renumbered everything from 42 to 67 (SORRY!).
+   - Renumbered everything from 44 to 68 (SORRY!).
    - Fixed purple ancient draugr mace and warhammer textures.
    - **IMPORTANT** - If updating, see "41.) Download Ancient Nord Stalhrim Patches - Legacy of the Dragonborn" for more information on how to proceed.
    -  **Megapatch is unaffected, no need to re-download. Save-game friendly update.**
