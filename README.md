@@ -16,7 +16,17 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 ## Baseline
 
-1.) Download [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802?tab=files). Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". Legacy of the Dragonborn should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
+1.) Download [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802?tab=files). Drag the file into your downloads folder where you have the rest of your Septimus mods downloaded. Here's how mine looks for reference:
+
+![Image 0.1](https://i.imgur.com/VMvLBXs.png)
+
+It should be the same location as where you did your Wabbajack installation, like so:
+
+![Image 0.2](https://i.imgur.com/7I3mDfz.png)
+
+I have my installation on my F drive while my downloads folder is on my E drive, so yours may look a little different, but where ever you have your downloads folder connected via Wabbajack is the place to be. 
+
+Once you have it placed, refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". Legacy of the Dragonborn should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
    - Install it under the name **[NoDelete] [01] Legacy of the Dragonborn**
    
 2.) Download [Legacy of the Dragonborn SSE - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/70356?tab=files&file_id=335583).
@@ -156,6 +166,10 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 44.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
    - Install it under the name **[NoDelete] [44] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
+
+**IMPORTANT** - You should have 4 plugins flagged as .esms. Drag each one to BELOW **Skyrim Extended Cut - Saints and Seducers.esp**.
+
+![Image 1.2](https://i.imgur.com/FFdzIEN.png)
 
 ##
 ### Phew! If you've made it this far, then congrats! We're almost there!
