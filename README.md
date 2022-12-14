@@ -167,10 +167,6 @@ Once you have it placed, refresh MO2. Below the drop-down menu where you usually
 44.) Download [Al's HMB FaceGen Patches - Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/70095?tab=files&file_id=293625).
    - Install it under the name **[NoDelete] [44] Al's HMB FaceGen Patches - Legacy of the Dragonborn**
 
-**IMPORTANT** - You should have 4 plugins flagged as .esms. Drag each one to BELOW **Skyrim Extended Cut - Saints and Seducers.esp**.
-
-![Image 1.2](https://i.imgur.com/FFdzIEN.png)
-
 ##
 ### Phew! If you've made it this far, then congrats! We're almost there!
 ##
@@ -254,6 +250,10 @@ Once you have it placed, refresh MO2. Below the drop-down menu where you usually
 ## Huzzah you now have LOTD all installed but now it's HD!
 
 # Last Steps
+
+You should have 4 plugins flagged as .esms. Drag each one to BELOW **Skyrim Extended Cut - Saints and Seducers.esp**.
+
+![Image 1.2](https://i.imgur.com/FFdzIEN.png)
 
 ### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/Septimus%20Extended%20-%20LOTD%20Integration%20Patch%20v0.1.2.7z) ] ("View raw" button)
 
