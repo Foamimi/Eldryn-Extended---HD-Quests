@@ -251,7 +251,7 @@ Once you have it placed, refresh MO2. Below the drop-down menu where you usually
 
 # Last Steps
 
-You should have 4 plugins flagged as .esms. Drag each one to BELOW **Skyrim Extended Cut - Saints and Seducers.esp**.
+You should have 4 plugins flagged as .esms on the right side of MO2. Drag each one to BELOW **Skyrim Extended Cut - Saints and Seducers.esp**.
 
 ![Image 1.2](https://i.imgur.com/FFdzIEN.png)
 
