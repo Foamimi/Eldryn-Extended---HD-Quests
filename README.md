@@ -243,7 +243,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 ### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/Septimus%20Extended%20-%20LOTD%20Integration%20Patch%20v0.1.2.7z) ] ("View raw" button)
 
-Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it directly AFTER [NoDelete] [42] Al's HMB FaceGen Patches - Legacy of the Dragonborn. If you added HD textures, feel free to place it after [NoDelete] [67] Legacy of the Dragonborn Visual Overhaul.
+Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it directly AFTER [NoDelete] [44] Al's HMB FaceGen Patches - Legacy of the Dragonborn. If you added HD textures, feel free to place it after [NoDelete] [68] Legacy of the Dragonborn Visual Overhaul.
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
