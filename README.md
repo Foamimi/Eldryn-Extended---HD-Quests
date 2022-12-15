@@ -261,14 +261,14 @@ Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it 
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
-   - **Currently in the process of testing with version 4.2.0 of Septimus.**
+   - **Currently in the process of testing with version 4.2.1 of Septimus.**
    - **Currently works with the [Septimus Extended - NPC Overhauls Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md).**
    - **Currently works with the [Septimus Extended - NPC Dialogue Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/README.md).**
 
 # Changelog
 
 0.1.2
-   - Updated megapatch to work with 4.2.0 of Septimus.
+   - Updated megapatch to work with 4.2.1 of Septimus.
    - **IMPORTANT** - If updating, be sure to double-check the changelog for 0.1.1 for any past updates (recently added the Immersive Fort Dawnguard - LOTD Patch for example). The update requires one extra step, which is to reinstall "Legacy of the Dragonborn - Creation Club Patch Hub". Be sure to Untick the Fishing + Rare Curios Patch again, then proceed as normal by pressing Next until you finish with Install. You should have 2 new patches automatically installed on the right side of MO2 titled, **"DBM_CC_SaS_ECSS_SoSAddon.esp"** and **"DBM_CC_SaS_ECSSAddon.esp"**. Move them to directly above **"DBM_RelicNotifications.esp"** and you are golden. Other than downloading the updated megapatch, there are no other extra steps. <3
 
 0.1.1 
