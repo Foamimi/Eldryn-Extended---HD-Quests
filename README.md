@@ -255,19 +255,22 @@ You should have 4 plugins flagged as .esms on the right side of MO2. Drag each o
 
 ![Image 1.2](https://i.imgur.com/FFdzIEN.png)
 
-### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/Septimus%20Extended%20-%20LOTD%20Integration%20Patch%20v0.1.2.7z) ] ("View raw" button)
+### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/Septimus%20Extended%20-%20LOTD%20Integration%20Patch%20v0.1.3.7z) ] ("View raw" button)
 
 Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it directly AFTER [NoDelete] [44] Al's HMB FaceGen Patches - Legacy of the Dragonborn. If you added HD textures, feel free to place it after [NoDelete] [68] Legacy of the Dragonborn Visual Overhaul.
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
    - **Currently in the process of testing with version 4.2.1 of Septimus.**
-   - **Currently works with the [Septimus Extended - NPC Overhauls Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md).**
+   - **A patch for [Septimus-Extended---NPC-Overhaul Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md) can be found here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/Septimus%20Extended%20-%20NPC%20Overhauls%20Megapatch%20-%20LOTD%20Patch.7z) ] ("View raw" button).**
    - **Currently works with the [Septimus Extended - NPC Dialogue Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/README.md).**
 
 # Changelog
 
 **IMPORTANT** - If updating Septimus (like from v.4.2.0 to 4.2.1 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire LOTD addon, then re-enabling everything again one by one. You'll have to rearrange the .esm flagged plugins again, but I find this method to be the fastest (for me anyway!).
+
+0.1.3
+   - Updated megapatch.
 
 0.1.2
    - Updated megapatch to work with 4.2.1 of Septimus.
