@@ -272,7 +272,7 @@ Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it 
    - LOTD Addon Megapatch
    - NPC Overhaul
    - NPC Overhaul Megapatch
-   - NPC Overhaul Megapatch - LOTD Addon Patch (linked directly above)
+   - NPC Overhaul Megapatch - LOTD Addon Patch
 
 # Changelog
 
