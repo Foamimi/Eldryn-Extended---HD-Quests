@@ -263,7 +263,7 @@ Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it 
 
    - **Currently in the process of testing with version 4.2.1 of Septimus.**
    - **A patch for [Septimus-Extended---NPC-Overhaul Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md) can be found here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/Septimus%20Extended%20-%20NPC%20Overhauls%20Megapatch%20-%20LOTD%20Patch.7z) ] ("View raw" button).**
-   - **Currently works with the [Septimus Extended - NPC Dialogue Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/README.md).**
+   - **Currently works with the [Septimus Extended - NPC Dialogue Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/README.md). Load order between the two does not matter.**
 
 **Load order for the patch is like so;**
    - Septimus
