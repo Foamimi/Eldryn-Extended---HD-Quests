@@ -29,7 +29,7 @@ I have my installation on my F drive while my downloads folder is on my E drive,
 Once you have it placed, refresh MO2. Below the drop-down menu where you usually launch Septimus, there should be a series of tabs titled "Plugins | Archives | Data | Saves | **Downloads**". Click the Downloads tab, and sort by "Filetime". Legacy of the Dragonborn should be right at the top. If it isn't, sort by Filetime again and it will flip the downloads to most recent.
    - Install it under the name **[NoDelete] [01] Legacy of the Dragonborn**
    
-2.) Download [Legacy of the Dragonborn SSE - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/70356?tab=files&file_id=335583).
+2.) Download [Legacy of the Dragonborn SSE - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/70356?tab=files&file_id=335583&nmm=1).
    - Install it under the name **[NoDelete] [02] Legacy of the Dragonborn - Settings Loader**
    
 3.) Download [Quest and Reward Delay for Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/44923?tab=files&file_id=199741).
