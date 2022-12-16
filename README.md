@@ -265,6 +265,15 @@ Name it **[NoDelete] Septimus Extended - LOTD Integration Patch**, and place it 
    - **A patch for [Septimus-Extended---NPC-Overhaul Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md) can be found here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/Septimus%20Extended%20-%20NPC%20Overhauls%20Megapatch%20-%20LOTD%20Patch.7z) ] ("View raw" button).**
    - **Currently works with the [Septimus Extended - NPC Dialogue Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/README.md).**
 
+**Load order for the patch is like so;**
+   - Septimus
+   - Danger Zone
+   - LOTD Addon
+   - LOTD Addon Megapatch
+   - NPC Overhaul
+   - NPC Overhaul Megapatch
+   - NPC Overhaul Megapatch - LOTD Addon Patch (linked directly above)
+
 # Changelog
 
 **IMPORTANT** - If updating Septimus (like from v.4.2.0 to 4.2.1 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire LOTD addon, then re-enabling everything again one by one. You'll have to rearrange the .esm flagged plugins again, but I find this method to be the fastest (for me anyway!).
