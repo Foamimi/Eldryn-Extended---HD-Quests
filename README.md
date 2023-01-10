@@ -149,26 +149,26 @@ Name it **[NoDelete] [13] Septimus Extended - Textures - General Megapatch**, an
 39.) Download [Thunderbolt - HD Lightning](https://www.nexusmods.com/skyrimspecialedition/mods/46024?tab=files&file_id=187303&nmm=1).
    - Install it under the name **[NoDelete] [40] Thunderbolt - HD Lightning**
 
-40.) Download [Remove Small Rocks](https://www.nexusmods.com/skyrimspecialedition/mods/8733?tab=files&file_id=150621&nmm=1).
-   - Install it under the name **[NoDelete] [41] Remove Small Rocks**
+40.) Download [Splashes Of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files&file_id=322517&nmm=1). In the FOMOD, select SSE v1.6.629+ ("Anniversary Edition"), then press Install.
+   - Install it under the name **[NoDelete] [41] Splashes of Skyrim**
 
-41.) Download [Remove Small Rocks - Depths of Skyrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/8733?tab=files&file_id=234997&nmm=1).
-   - Install it under the name **[NoDelete] [42] Remove Small Rocks - Depths of Skyrim Patch**
+41.) Download [Remove Small Rocks](https://www.nexusmods.com/skyrimspecialedition/mods/8733?tab=files&file_id=150621&nmm=1).
+   - Install it under the name **[NoDelete] [42] Remove Small Rocks**
 
-42.) Download [Remove Small Rocks - Folkvangr Patch](https://www.nexusmods.com/skyrimspecialedition/mods/8733?tab=files&file_id=281380&nmm=1).
-   - Install it under the name **[NoDelete] [43] Remove Small Rocks - Folkvangr Patch**
+42.) Download [Remove Small Rocks - Depths of Skyrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/8733?tab=files&file_id=234997&nmm=1).
+   - Install it under the name **[NoDelete] [43] Remove Small Rocks - Depths of Skyrim Patch**
 
-43.) Download [Mari's Flora](https://www.nexusmods.com/skyrimspecialedition/mods/45952?tab=files&file_id=197655&nmm=1). In the FOMOD, select Vanilla, Vanilla meshes, for ENB, Blue, Green, Bright, Green, Dark, Purple, Dead, then press Install.
-   - Install it under the name **[NoDelete] [44] Mari's Flora**
+43.) Download [Remove Small Rocks - Folkvangr Patch](https://www.nexusmods.com/skyrimspecialedition/mods/8733?tab=files&file_id=281380&nmm=1).
+   - Install it under the name **[NoDelete] [44] Remove Small Rocks - Folkvangr Patch**
 
-44.) Download [Medieval Candlehorns and Sconces](https://www.nexusmods.com/skyrimspecialedition/mods/24324?tab=files&file_id=97446&nmm=1). In the FOMOD, select No Smoke Effect, Version 1, then press Install.
-   - Install it under the name **[NoDelete] [45] Medieval Candlehorns and Sconces**
+44.) Download [Mari's Flora](https://www.nexusmods.com/skyrimspecialedition/mods/45952?tab=files&file_id=197655&nmm=1). In the FOMOD, select Vanilla, Vanilla meshes, for ENB, Blue, Green, Bright, Green, Dark, Purple, Dead, then press Install.
+   - Install it under the name **[NoDelete] [45] Mari's Flora**
 
-45.) Download [SD's Horn Candles SE](https://www.nexusmods.com/skyrimspecialedition/mods/40192?tab=files&file_id=159547&nmm=1).
-   - Install it under the name **[NoDelete] [46] SD's Horn Candles**
+45.) Download [Medieval Candlehorns and Sconces](https://www.nexusmods.com/skyrimspecialedition/mods/24324?tab=files&file_id=97446&nmm=1). In the FOMOD, select No Smoke Effect, Version 1, then press Install.
+   - Install it under the name **[NoDelete] [46] Medieval Candlehorns and Sconces**
 
-46.) Download [PELTAPALOOZA](https://www.nexusmods.com/skyrimspecialedition/mods/5442?tab=files&file_id=11948&nmm=1).
-   - Install it under the name **[NoDelete] [47] PELTAPALOOZA**
+46.) Download [SD's Horn Candles SE](https://www.nexusmods.com/skyrimspecialedition/mods/40192?tab=files&file_id=159547&nmm=1).
+   - Install it under the name **[NoDelete] [47] SD's Horn Candles**
 
 47.) Download [JS Shrines of the Divines](https://www.nexusmods.com/skyrimspecialedition/mods/33394?tab=files&file_id=282601&nmm=1).
    - Install it under the name **[NoDelete] [48] JS Shrines of the Divines**
@@ -227,4 +227,7 @@ Name it **[NoDelete] [55] Septimus Extended - Textures - Miscellaneous Megapatch
 
 **IMPORTANT** - If updating Septimus (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire series of Texture addons, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
 
-N/A
+1.0.1
+   - Added Splashes Of Skyrim
+   - Removed PELTAPALOOZA as it was already in Septimus 
+   - **Save game safe update.**
