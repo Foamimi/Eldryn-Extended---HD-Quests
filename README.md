@@ -12,7 +12,7 @@ Works on **EXISTING SAVES**.
 
 First of all, we're going to right-click on the left side of MO2 and highlight the "All Mods" option, then click the dropdown of "Create separator above". We'll call it **[NoDelete] SEPTIMUS EXTENDED - TEXTURES**. All of the following mods will be installed under this separator, and the separator itself will go just below the separator called "THE DANGER ZONE". 
 
-All the plugins going forward will be at the very bottom, **below all of the Septimus patches**.
+All the plugins going forward will be at the very bottom, **BELOW all of the Septimus patches** but **BEFORE DynDOLOD.esp**.
 
 ## General (OPTIONAL! FEEL FREE TO SKIP!)
 
@@ -210,8 +210,6 @@ Name it **[NoDelete] [55] Septimus Extended - Textures - Miscellaneous Megapatch
    
 ### Snag the megapatch from here for the **SUPER OPTIONAL** section: [ N/A - NO PATCH NEEDED for this section! ]
 
-Name it **[NoDelete] X**, and place it directly AFTER X. 
-
 ## Super SUPER Optional (FEEL FREE TO SKIP!)
 
 ![Image 5]()
@@ -245,13 +243,16 @@ Name it **[NoDelete] X**, and place it directly AFTER X.
 65.) Download [Footprints - Creation Club - Saturalia Holiday Pack](https://www.nexusmods.com/skyrimspecialedition/mods/77440?tab=files&file_id=325551&nmm=1).
    - Install it under the name **[NoDelete] [66] Footprints - Creation Club - Saturalia Holiday Pack**   
    
-### Snag the megapatch from here for the **SUPER SUPER OPTIONAL** section: [ [DOWNLOAD]() ] ("View raw" button)
+### Snag the megapatch from here for the **SUPER SUPER OPTIONAL** section: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---Textures/blob/master/Septimus%20Extended%20-%20Textures%20-%20Super%20SUPER%20Optional%20Megapatch.7z) ] ("View raw" button)
 
-Name it **[NoDelete] X**, and place it directly AFTER X. 
+Name it **[NoDelete] [67] Septimus Extended - Textures - Super SUPER Optional Megapatch**, and place the .esp directly AFTER FootprintsSand-patch.esp. 
 
 # Last Steps
 
-X
+**My theme of MO2 may be different than yours, but that's okay it'll all work the same!**
+   - Just double-check to make sure your .esps look like this (it may be different depending on which sections you downloaded):
+
+![Image 6](https://i.imgur.com/iG5eq71.png)
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
