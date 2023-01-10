@@ -56,25 +56,40 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
    
 ### Snag the megapatch from here for the **GENERAL** section: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---Textures/blob/master/Septimus%20Extended%20-%20Textures%20-%20General%20Megapatch.7z) ] ("View raw" button)
 
-Name it **[NoDelete] [13] Septimus Extended - Textures - General Megapatch**, and place it directly AFTER HPP - My fixes by Xtudo - Chopping Blocks.esp. 
+Name it **[NoDelete] [13] Septimus Extended - Textures - General Megapatch**, and place it directly AFTER Rudy Nordic Pottery SSE.esp. 
 
 ## Armors (OPTIONAL! FEEL FREE TO SKIP!)
 
 ![Image 2]()
 
-13.) Download [X]().
+13.) Download [RUSTIC ARMOR and WEAPONS](https://www.nexusmods.com/skyrimspecialedition/mods/19666?tab=files&file_id=69261&nmm=1).
+   - Install it under the name **[NoDelete] [14] RUSTIC ARMOR and WEAPONS**
+
+14.) Download [Frankly HD Dawnguard Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/19663?tab=files) under main files named "FranklyHD Dawnguard Armor and Weapons". In the FOMOD, select 2K Resolution, then press Install.
+   - Install it under the name **[NoDelete] [15] Frankly HD Dawnguard Armor and Weapons**
+
+15.) Download [Frankly HD Thieves Guild Armors](https://www.nexusmods.com/skyrimspecialedition/mods/19953?tab=files&file_id=66049&nmm=1). In the FOMOD, select 2K Resolution, then press Install.
+   - Install it under the name **[NoDelete] [16] Frankly HD Thieves Guild Armors**
+
+16.) Download [Frankly HD Nightingale Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/18560?tab=files&file_id=59909&nmm=1). In the FOMOD, select 2K, then press Next. Don't tick any of the options, then press Install. 
+   - Install it under the name **[NoDelete] [17] Frankly HD Nightingale Armor and Weapons**
+
+17.) Download [Frankly HD Nightingale Weapons - LeanWolf's BSW Patch](https://www.nexusmods.com/skyrimspecialedition/mods/18560?tab=files&file_id=66916&nmm=1).
+   - Install it under the name **[NoDelete] [18] Frankly HD Nightingale Weapons - LeanWolf's BSW Patch**
+
+18.) Download [Frankly HD Imperial Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/20848?tab=files&file_id=70590&nmm=1).
+   - Install it under the name **[NoDelete] [19] Frankly HD Imperial Armor and Weapons**
+
+19.) Download [Frankly HD Imperial Weapons - LeanWolf's BSW Patch](https://www.nexusmods.com/skyrimspecialedition/mods/20848?tab=files&file_id=70591&nmm=1).
+   - Install it under the name **[NoDelete] [20] Frankly HD Imperial Weapons - LeanWolf's BSW Patch**
+
+20.) Download [Frankly HD Imperial Armor - Sleeves and Pants Edition](https://www.nexusmods.com/skyrimspecialedition/mods/20848?tab=files&file_id=70592&nmm=1).
+   - Install it under the name **[NoDelete] [21] Frankly HD Imperial Armor - Sleeves and Pants Edition**
+
+21.) Download [X]().
    - Install it under the name **X**
 
-14.) Download [X]().
-   - Install it under the name **X**
-
-15.) Download [X]().
-   - Install it under the name **X**
-
-16.) Download [X]().
-   - Install it under the name **X**
-
-17.) Download [X]().
+22.) Download [X]().
    - Install it under the name **X**
    
 ### Snag the megapatch from here for the **ARMORS** section: [ [DOWNLOAD]() ] ("View raw" button)
