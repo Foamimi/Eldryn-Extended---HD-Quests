@@ -56,7 +56,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
    
 ### Snag the megapatch from here for the **GENERAL** section: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---Textures/blob/master/Septimus%20Extended%20-%20Textures%20-%20General%20Megapatch.7z) ] ("View raw" button)
 
-Name it **[NoDelete] [13] Septimus Extended - Textures - General Megapatch**, and place it directly AFTER Rudy Nordic Pottery SSE.esp. 
+Name it **[NoDelete] [13] Septimus Extended - Textures - General Megapatch**, and place the .esp directly AFTER Rudy Nordic Pottery SSE.esp. 
 
 ## Armors (OPTIONAL! FEEL FREE TO SKIP!)
 
@@ -116,15 +116,82 @@ Name it **[NoDelete] [13] Septimus Extended - Textures - General Megapatch**, an
 30.) Download [Dovah Sonaak - Dragon Priest Masks SE](https://www.nexusmods.com/skyrimspecialedition/mods/23251?tab=files&file_id=81045&nmm=1). In the FOMOD, select Next, select Don't Install and press Next, select Don't Install and press Next, select Don't Install and press Next, press Next, select Konahrik - Frankly HD Gold and press Install.
    - Install it under the name **[NoDelete] [31] Masks of the Dovah Sonaak**
    
-### Snag the megapatch from here for the **ARMORS** section: [ [DOWNLOAD]() ] ("View raw" button)
-
-Name it **[NoDelete] X**, and place it directly AFTER X. 
+### Snag the megapatch from here for the **ARMORS** section: [ N/A - NO PATCH NEEDED for this section! ]
 
 ## Miscellaneous (OPTIONAL! FEEL FREE TO SKIP!)
 
 ![Image 3]()
 
-1.) Download [X]().
+31.) Download [X]().
+   - Install it under the name **X**
+
+32.) Download [X]().
+   - Install it under the name **X**
+
+33.) Download [X]().
+   - Install it under the name **X**
+
+34.) Download [X]().
+   - Install it under the name **X**
+
+35.) Download [X]().
+   - Install it under the name **X**
+
+36.) Download [X]().
+   - Install it under the name **X**
+
+37.) Download [X]().
+   - Install it under the name **X**
+
+38.) Download [X]().
+   - Install it under the name **X**
+
+39.) Download [X]().
+   - Install it under the name **X**
+
+40.) Download [X]().
+   - Install it under the name **X**
+
+41.) Download [X]().
+   - Install it under the name **X**
+
+42.) Download [X]().
+   - Install it under the name **X**
+
+43.) Download [X]().
+   - Install it under the name **X**
+
+44.) Download [X]().
+   - Install it under the name **X**
+
+45.) Download [X]().
+   - Install it under the name **X**
+
+46.) Download [X]().
+   - Install it under the name **X**
+
+47.) Download [X]().
+   - Install it under the name **X**
+
+48.) Download [X]().
+   - Install it under the name **X**
+
+49.) Download [X]().
+   - Install it under the name **X**
+
+50.) Download [X]().
+   - Install it under the name **X**
+
+51.) Download [X]().
+   - Install it under the name **X**
+
+52.) Download [X]().
+   - Install it under the name **X**
+
+53.) Download [X]().
+   - Install it under the name **X**
+
+54.) Download [X]().
    - Install it under the name **X**
    
 ### Snag the megapatch from here for the **MISCELLANEOUS** section: [ [DOWNLOAD]() ] ("View raw" button)
