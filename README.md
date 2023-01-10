@@ -199,19 +199,16 @@ Name it **[NoDelete] [55] Septimus Extended - Textures - Miscellaneous Megapatch
 
 ![Image 4]()
 
-54.) Download [X]().
-   - Install it under the name **X**
+54.) Download [ElSopa - High Quality Doll Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/47703?tab=files&file_id=194275&nmm=1).
+   - Install it under the name **[NoDelete] [56] ElSopa - High Quality Doll Replacer**
 
-55.) Download [X]().
-   - Install it under the name **X**   
+55.) Download [ElSopa - Clavicus Pepe SE](https://www.nexusmods.com/skyrimspecialedition/mods/75147?tab=files&file_id=315348&nmm=1).
+   - Install it under the name **[NoDelete] [57] ElSopa - Clavicus Pepe**   
 
-56.) Download [X]().
-   - Install it under the name **X**
-
-57.) Download [X]().
-   - Install it under the name **X**   
+56.) Download [ElSopa - Pepe Talos Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/66592?tab=files&file_id=277423&nmm=1).
+   - Install it under the name **[NoDelete] [58] ElSopa - Pepe Talos Replacer**
    
-### Snag the megapatch from here for the **SUPER OPTIONAL** section: [ [DOWNLOAD]() ] ("View raw" button)
+### Snag the megapatch from here for the **SUPER OPTIONAL** section: [ N/A - NO PATCH NEEDED for this section! ]
 
 Name it **[NoDelete] X**, and place it directly AFTER X. 
 
@@ -219,8 +216,34 @@ Name it **[NoDelete] X**, and place it directly AFTER X.
 
 ![Image 5]()
 
-1.) Download [X]().
-   - Install it under the name **X**
+**WARNING** - Footprints is a script-heavy mod! You can install it mid-through, but you **CANNOT UNINSTALL mid-playthrough**! Be wise with your choice!
+
+57.) Download [Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/3808?tab=files&file_id=186188&nmm=1).
+   - Install it under the name **[NoDelete] [59] Footprints**   
+
+58.) Download [Footprints - ENB Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3808?tab=files&file_id=186011&nmm=1).
+   - Install it under the name **[NoDelete] [60] Footprints - ENB Fix**   
+
+59.) Download [Footprints - Creation Club - Saturalia Holiday Pack]().
+   - Install it under the name **[NoDelete] [61] Footprints - Creation Club - Saturalia Holiday Pack**   
+
+60.) Download [The Gray Cowl of Nocturnal SE - Addons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19724?tab=files&file_id=245471&nmm=1). In the FOMOD, only tick the Footprints for The Gray Cowl of Nocturnal Addon option, then press Install.
+   - Install it under the name **[NoDelete] [61] The Gray Cowl of Nocturnal - Footprints Patch**   
+
+61.) Download [Footprints Sand Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50484?tab=files&file_id=250175&nmm=1).
+   - Install it under the name **[NoDelete] [62] Footprints Sand Patch**   
+
+62.) Download [SPID for Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/54924?tab=files&file_id=347974&nmm=1).
+   - Install it under the name **[NoDelete] [63] SPID for Footprints**   
+
+63.) Download [SPID for Footprints Fix](https://www.nexusmods.com/skyrimspecialedition/mods/70978?tab=files&file_id=347983&nmm=1).
+   - Install it under the name **[NoDelete] [64] SPID for Footprints Fix**   
+
+64.) Download [SPID for Footprints - Player Footprints Fix](https://www.nexusmods.com/skyrimspecialedition/mods/78957?tab=files&file_id=347982&nmm=1).
+   - Install it under the name **[NoDelete] [65] SPID for Footprints - Player Footprints Fix**   
+
+65.) Download [Footprints - Creation Club - Saturalia Holiday Pack](https://www.nexusmods.com/skyrimspecialedition/mods/77440?tab=files&file_id=325551&nmm=1).
+   - Install it under the name **[NoDelete] [66] Footprints - Creation Club - Saturalia Holiday Pack**   
    
 ### Snag the megapatch from here for the **SUPER SUPER OPTIONAL** section: [ [DOWNLOAD]() ] ("View raw" button)
 
