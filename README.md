@@ -14,11 +14,9 @@ First of all, we're going to right-click on the left side of MO2 and highlight t
 
 All the plugins going forward will be at the very bottom, **BELOW all of the Septimus patches** but **BEFORE DynDOLOD.esp**.
 
-##
+## General (OPTIONAL! FEEL FREE TO SKIP!)
 
 ![Image 1](https://i.imgur.com/yCJC71y.png)
-
-## General (OPTIONAL! FEEL FREE TO SKIP!)
 
 1.) Download [High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/12029?tab=files&file_id=236420&nmm=1). In the FOMOD, select Install Everything. Don't tick anything on the next page, and press Install.
    - Install it under the name **[NoDelete] [01] High Poly Project**
@@ -60,11 +58,9 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Sep
 
 Name it **[NoDelete] [13] Septimus Extended - Textures - General Megapatch**, and place the .esp directly AFTER Rudy Nordic Pottery SSE.esp. 
 
-##
+## Armors (OPTIONAL! FEEL FREE TO SKIP!)
 
 ![Image 2](https://i.imgur.com/uxBofKC.png)
-
-## Armors (OPTIONAL! FEEL FREE TO SKIP!)
 
 13.) Download [RUSTIC ARMOR and WEAPONS](https://www.nexusmods.com/skyrimspecialedition/mods/19666?tab=files&file_id=69261&nmm=1).
    - Install it under the name **[NoDelete] [14] RUSTIC ARMOR and WEAPONS**
@@ -122,11 +118,9 @@ Name it **[NoDelete] [13] Septimus Extended - Textures - General Megapatch**, an
    
 ### Snag the megapatch from here for the **ARMORS** section: [ N/A - NO PATCH NEEDED for this section! ]
 
-##
+## Miscellaneous (OPTIONAL! FEEL FREE TO SKIP!)
 
 ![Image 3](https://i.imgur.com/nDv0CPs.png)
-
-## Miscellaneous (OPTIONAL! FEEL FREE TO SKIP!)
 
 31.) Download [WEBS S.E.](https://www.nexusmods.com/skyrimspecialedition/mods/4873?tab=files&file_id=10208&nmm=1).
    - Install it under the name **[NoDelete] [32] WEBS 2K**
@@ -201,11 +195,9 @@ Name it **[NoDelete] [13] Septimus Extended - Textures - General Megapatch**, an
 
 Name it **[NoDelete] [55] Septimus Extended - Textures - Miscellaneous Megapatch**, and place the .esp directly AFTER GQJ_DG_vampireamuletfix.esp. 
 
-##
+## Super Optional (FEEL FREE TO SKIP!)
 
 ![Image 4](https://i.imgur.com/smFDBmT.png)
-
-## Super Optional (FEEL FREE TO SKIP!)
 
 54.) Download [ElSopa - High Quality Doll Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/47703?tab=files&file_id=194275&nmm=1).
    - Install it under the name **[NoDelete] [56] ElSopa - High Quality Doll Replacer**
