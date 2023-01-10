@@ -122,77 +122,74 @@ Name it **[NoDelete] [13] Septimus Extended - Textures - General Megapatch**, an
 
 ![Image 3]()
 
-31.) Download [X]().
-   - Install it under the name **X**
+31.) Download [WEBS S.E.](https://www.nexusmods.com/skyrimspecialedition/mods/4873?tab=files&file_id=10208&nmm=1).
+   - Install it under the name **[NoDelete] [32] WEBS 2K**
 
-32.) Download [X]().
-   - Install it under the name **X**
+32.) Download [ WEBS 2K - ELFX Patch](https://www.nexusmods.com/skyrimspecialedition/mods/4873?tab=files&file_id=10871&nmm=1).
+   - Install it under the name **[NoDelete] [33] WEBS 2K - ELFX Patch**
 
-33.) Download [X]().
-   - Install it under the name **X**
+33.) Download [DimmerFog 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/7397?tab=files&file_id=20517&nmm=1). In the FOMOD, select Main Not Installed in the top portion, then in the bottom portion, select Optionals Reduced, then press Install. 
+   - Install it under the name **[NoDelete] [34] DimmerFog 2.0**
 
-34.) Download [X]().
-   - Install it under the name **X**
+34.) Download [Deadly Spell Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/12939?tab=files&file_id=36481&nmm=1). In the FOMOD, select Custom and press Next. Select One Fire Impact (Default), Alternative 1, Default, Alternative 1, then press Install.
+   - Install it under the name **[NoDelete] [35] Deadly Spell Impacts**
 
-35.) Download [X]().
-   - Install it under the name **X**
+35.) Download [Deadly Spell Impacts Transparency Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41284?tab=files&file_id=251343&nmm=1).
+   - Install it under the name **[NoDelete] [36] Deadly Spell Impacts Transparency Fix for ENB**
 
-36.) Download [X]().
-   - Install it under the name **X**
+36.) Download [Deadly Spell Impacts for Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/71724?tab=files&file_id=300447&nmm=1).
+   - Install it under the name **[NoDelete] [37] Deadly Spell Impacts for Mysticism**
 
-37.) Download [X]().
-   - Install it under the name **X**
+37.) Download [Inferno - Fire Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files&file_id=317399&nmm=1). In the FOMOD, select Next, ENB Light, 2x, Normal, Realistic Hue, 1x, Ember HD, and tick the Flame Meshes Patch (ESL-Tagged) option, then press Install. 
+   - Install it under the name **[NoDelete] [38] Inferno - Fire Effects Redux**
 
-38.) Download [X]().
-   - Install it under the name **X**
+38.) Download [Arctic - Frost Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29817?tab=files&file_id=316576&nmm=1). In the FOMOD, select Next, ENB Light, 2x, Realistic Hue, 1x, Frost Meshes Patch (ESL-Tagged), then press Install.
+   - Install it under the name **[NoDelete] [39] Arctic - Frost Effects Redux**
 
-39.) Download [X]().
-   - Install it under the name **X**
+39.) Download [Thunderbolt - HD Lightning](https://www.nexusmods.com/skyrimspecialedition/mods/46024?tab=files&file_id=187303&nmm=1).
+   - Install it under the name **[NoDelete] [40] Thunderbolt - HD Lightning**
 
-40.) Download [X]().
-   - Install it under the name **X**
+40.) Download [Remove Small Rocks](https://www.nexusmods.com/skyrimspecialedition/mods/8733?tab=files&file_id=150621&nmm=1).
+   - Install it under the name **[NoDelete] [41] Remove Small Rocks**
 
-41.) Download [X]().
-   - Install it under the name **X**
+41.) Download [Remove Small Rocks - Depths of Skyrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/8733?tab=files&file_id=234997&nmm=1).
+   - Install it under the name **[NoDelete] [42] Remove Small Rocks - Depths of Skyrim Patch**
 
-42.) Download [X]().
-   - Install it under the name **X**
+42.) Download [Remove Small Rocks - Folkvangr Patch](https://www.nexusmods.com/skyrimspecialedition/mods/8733?tab=files&file_id=281380&nmm=1).
+   - Install it under the name **[NoDelete] [43] Remove Small Rocks - Folkvangr Patch**
 
-43.) Download [X]().
-   - Install it under the name **X**
+43.) Download [Mari's Flora](https://www.nexusmods.com/skyrimspecialedition/mods/45952?tab=files&file_id=197655&nmm=1). In the FOMOD, select Vanilla, Vanilla meshes, for ENB, Blue, Green, Bright, Green, Dark, Purple, Dead, then press Install.
+   - Install it under the name **[NoDelete] [44] Mari's Flora**
 
-44.) Download [X]().
-   - Install it under the name **X**
+44.) Download [Medieval Candlehorns and Sconces](https://www.nexusmods.com/skyrimspecialedition/mods/24324?tab=files&file_id=97446&nmm=1). In the FOMOD, select No Smoke Effect, Version 1, then press Install.
+   - Install it under the name **[NoDelete] [45] Medieval Candlehorns and Sconces**
 
-45.) Download [X]().
-   - Install it under the name **X**
+45.) Download [SD's Horn Candles SE](https://www.nexusmods.com/skyrimspecialedition/mods/40192?tab=files&file_id=159547&nmm=1).
+   - Install it under the name **[NoDelete] [46] SD's Horn Candles**
 
-46.) Download [X]().
-   - Install it under the name **X**
+46.) Download [PELTAPALOOZA](https://www.nexusmods.com/skyrimspecialedition/mods/5442?tab=files&file_id=11948&nmm=1).
+   - Install it under the name **[NoDelete] [47] PELTAPALOOZA**
 
-47.) Download [X]().
-   - Install it under the name **X**
+47.) Download [JS Shrines of the Divines](https://www.nexusmods.com/skyrimspecialedition/mods/33394?tab=files&file_id=282601&nmm=1).
+   - Install it under the name **[NoDelete] [48] JS Shrines of the Divines**
 
-48.) Download [X]().
-   - Install it under the name **X**
+48.) Download [JS Instruments of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/51959?tab=files&file_id=213096&nmm=1).
+   - Install it under the name **[NoDelete] [49] JS Instruments of Skyrim**
 
-49.) Download [X]().
-   - Install it under the name **X**
+49.) Download [Gemling Queen Jewelry SE](https://www.nexusmods.com/skyrimspecialedition/mods/4294?tab=files&file_id=9441&nmm=1). In the FOMOD, tick everything on the first page, then press Next. Select Gamwich Amulet Textures - 1024, then in the top part of the next page, select Gamwich Ring Textures - Combined - 1k under the "Ring Texture Options". Select None in the bottom section and do not tick the bottom box, then press Install. 
+   - Install it under the name **[NoDelete] [50] Gemling Queen Jewelry**
 
-50.) Download [X]().
-   - Install it under the name **X**
+50.) Download [Beyond Skyrim - Bruma - Gemling Queen Jewelry Patch](https://www.nexusmods.com/skyrimspecialedition/mods/35876?tab=files&file_id=139545&nmm=1).
+   - Install it under the name **[NoDelete] [51] Beyond Skyrim - Bruma - Gemling Queen Jewelry Patch**
 
-51.) Download [X]().
-   - Install it under the name **X**
+51.) Download [RUSTIC AMULETS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/35485?tab=files&file_id=144580&nmm=1).
+   - Install it under the name **[NoDelete] [52] RUSTIC AMULETS**
 
-52.) Download [X]().
-   - Install it under the name **X**
+52.) Download [Dressed Hearthfire Doll](https://www.nexusmods.com/skyrimspecialedition/mods/493?tab=files&file_id=13540&nmm=1). In the FOMOD, select Smaller Eyes, 2 (human), Red, then press Install.
+   - Install it under the name **[NoDelete] [53] Dressed Hearthfire Doll**
 
-53.) Download [X]().
-   - Install it under the name **X**
-
-54.) Download [X]().
-   - Install it under the name **X**
+53.) Download [Serana Doll Replacer for Bloodchill Manor's Vampire Doll](https://www.nexusmods.com/skyrimspecialedition/mods/73501?tab=files&file_id=308066&nmm=1).
+   - Install it under the name **[NoDelete] [54] Serana Doll Replacer for Bloodchill Manor's Vampire Doll**
    
 ### Snag the megapatch from here for the **MISCELLANEOUS** section: [ [DOWNLOAD]() ] ("View raw" button)
 
@@ -202,8 +199,17 @@ Name it **[NoDelete] X**, and place it directly AFTER X.
 
 ![Image 4]()
 
-1.) Download [X]().
+54.) Download [X]().
    - Install it under the name **X**
+
+55.) Download [X]().
+   - Install it under the name **X**   
+
+56.) Download [X]().
+   - Install it under the name **X**
+
+57.) Download [X]().
+   - Install it under the name **X**   
    
 ### Snag the megapatch from here for the **SUPER OPTIONAL** section: [ [DOWNLOAD]() ] ("View raw" button)
 
