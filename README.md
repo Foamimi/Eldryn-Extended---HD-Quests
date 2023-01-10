@@ -191,9 +191,9 @@ Name it **[NoDelete] [13] Septimus Extended - Textures - General Megapatch**, an
 53.) Download [Serana Doll Replacer for Bloodchill Manor's Vampire Doll](https://www.nexusmods.com/skyrimspecialedition/mods/73501?tab=files&file_id=308066&nmm=1).
    - Install it under the name **[NoDelete] [54] Serana Doll Replacer for Bloodchill Manor's Vampire Doll**
    
-### Snag the megapatch from here for the **MISCELLANEOUS** section: [ [DOWNLOAD]() ] ("View raw" button)
+### Snag the megapatch from here for the **MISCELLANEOUS** section: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---Textures/blob/master/Septimus%20Extended%20-%20Textures%20-%20Miscellaneous%20Megapatch.7z) ] ("View raw" button)
 
-Name it **[NoDelete] X**, and place it directly AFTER X. 
+Name it **[NoDelete] [55] Septimus Extended - Textures - Miscellaneous Megapatch**, and place the .esp directly AFTER GQJ_DG_vampireamuletfix.esp. 
 
 ## Super Optional (FEEL FREE TO SKIP!)
 
