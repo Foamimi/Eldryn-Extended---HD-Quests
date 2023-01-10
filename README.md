@@ -18,8 +18,8 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 ![Image 1]()
 
-1.) Download [X]().
-   - Install it under the name **X**
+1.) Download [High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/12029?tab=files&file_id=236420&nmm=1). In the FOMOD, select Install Everything. Don't tick anything on the next page, and press Install.
+   - Install it under the name **[NoDelete] [01] High Poly Project**
 
 1.) Download [X]().
    - Install it under the name **X**
@@ -85,12 +85,23 @@ Name it **[NoDelete] X**, and place it directly AFTER X.
 
 ## Super Optional (FEEL FREE TO SKIP!)
 
-![Image 3]()
+![Image 4]()
 
 1.) Download [X]().
    - Install it under the name **X**
    
 ### Snag the megapatch from here for the **SUPER OPTIONAL** section: [ [DOWNLOAD]() ] ("View raw" button)
+
+Name it **[NoDelete] X**, and place it directly AFTER X. 
+
+## Super SUPER Optional (FEEL FREE TO SKIP!)
+
+![Image 5]()
+
+1.) Download [X]().
+   - Install it under the name **X**
+   
+### Snag the megapatch from here for the **SUPER SUPER OPTIONAL** section: [ [DOWNLOAD]() ] ("View raw" button)
 
 Name it **[NoDelete] X**, and place it directly AFTER X. 
 
