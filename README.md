@@ -86,11 +86,35 @@ Name it **[NoDelete] [13] Septimus Extended - Textures - General Megapatch**, an
 20.) Download [Frankly HD Imperial Armor - Sleeves and Pants Edition](https://www.nexusmods.com/skyrimspecialedition/mods/20848?tab=files&file_id=70592&nmm=1).
    - Install it under the name **[NoDelete] [21] Frankly HD Imperial Armor - Sleeves and Pants Edition**
 
-21.) Download [X]().
-   - Install it under the name **X**
+21.) Download [Frankly HD Dragonbone and Dragonscale - Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/25110?tab=files&file_id=88740&nmm=1).
+   - Install it under the name **[NoDelete] [22] Frankly HD Dragonbone and Dragonscale - Armor and Weapons**
 
-22.) Download [X]().
-   - Install it under the name **X**
+22.) Download [Frankly HD Dragonbone and Dragonscale - Mesh Fix](https://www.nexusmods.com/skyrimspecialedition/mods/25110?tab=files&file_id=88745&nmm=1).
+   - Install it under the name **[NoDelete] [23] Frankly HD Dragonbone and Dragonscale - Mesh Fix**
+   
+23.) Download [Frankly HD Miraak](https://www.nexusmods.com/skyrimspecialedition/mods/19699?tab=files&file_id=64768&nmm=1). In the FOMOD, select 2K, then press Next. Select Vanilla Green and don't tick the bottom box, then press Install.
+   - Install it under the name **[NoDelete] [24] Frankly HD Miraak**
+
+24.) Download [Frankly HD Miraak - Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/19699?tab=files&file_id=64820&nmm=1).
+   - Install it under the name **[NoDelete] [25] Frankly HD Miraak - Hotfix**
+
+25.) Download [Frankly HD Shrouded Armor](https://www.nexusmods.com/skyrimspecialedition/mods/18785?tab=files&file_id=61496&nmm=1). In the FOMOD, select 2K, then press Next. Don't tick anything and press Install.
+   - Install it under the name **[NoDelete] [26] Frankly HD Shrouded Armor**
+
+26.) Download [Frankly HD Stormcloak and City Guards](https://www.nexusmods.com/skyrim/mods/42404?tab=files&file_id=1000055974&nmm=1).
+   - Install it under the name **[NoDelete] [27] Frankly HD Stormcloak and City Guards**
+   
+27.) Download [Frankly HD Stormcloak and City Guards - Fix](https://www.nexusmods.com/skyrim/mods/42404?tab=files&file_id=1000099270&nmm=1).
+   - Install it under the name **[NoDelete] [28] Frankly HD Stormcloak and City Guards - Fix**
+
+28.) Download [Frankly HD Stormcloak and City Guards - Fixed Falkreath Matched Color Fix](https://www.nexusmods.com/skyrim/mods/105845?tab=files&file_id=1000329626&nmm=1).
+   - Install it under the name **[NoDelete] [29] Frankly HD Stormcloak and City Guards - Fixed Fix**
+
+29.) Download [Open Face Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/13943?tab=files&file_id=120563&nmm=1).
+   - Install it under the name **[NoDelete] [30] Open Face Guard Helmets**
+
+30.) Download [Dovah Sonaak - Dragon Priest Masks SE](https://www.nexusmods.com/skyrimspecialedition/mods/23251?tab=files&file_id=81045&nmm=1). In the FOMOD, select Next, select Don't Install and press Next, select Don't Install and press Next, select Don't Install and press Next, press Next, select Konahrik - Frankly HD Gold and press Install.
+   - Install it under the name **[NoDelete] [31] Masks of the Dovah Sonaak**
    
 ### Snag the megapatch from here for the **ARMORS** section: [ [DOWNLOAD]() ] ("View raw" button)
 
