@@ -1,4 +1,4 @@
-# Septimus-Extended---TEXTURES ADDON
+# Septimus-Extended---Textures Addon
 
 ![Image 0](https://i.imgur.com/WwwGBD8.png)
 
