@@ -14,6 +14,8 @@ First of all, we're going to right-click on the left side of MO2 and highlight t
 
 All the plugins going forward will be at the very bottom, **BELOW all of the Septimus patches** but **BEFORE DynDOLOD.esp**.
 
+##
+
 ![Image 1](https://i.imgur.com/yCJC71y.png)
 
 ## General (OPTIONAL! FEEL FREE TO SKIP!)
@@ -57,6 +59,8 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Sep
 ### Snag the megapatch from here for the **GENERAL** section: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---Textures/blob/master/Septimus%20Extended%20-%20Textures%20-%20General%20Megapatch.7z) ] ("View raw" button)
 
 Name it **[NoDelete] [13] Septimus Extended - Textures - General Megapatch**, and place the .esp directly AFTER Rudy Nordic Pottery SSE.esp. 
+
+##
 
 ![Image 2](https://i.imgur.com/uxBofKC.png)
 
@@ -117,6 +121,8 @@ Name it **[NoDelete] [13] Septimus Extended - Textures - General Megapatch**, an
    - Install it under the name **[NoDelete] [31] Masks of the Dovah Sonaak**
    
 ### Snag the megapatch from here for the **ARMORS** section: [ N/A - NO PATCH NEEDED for this section! ]
+
+##
 
 ![Image 3](https://i.imgur.com/nDv0CPs.png)
 
@@ -194,6 +200,8 @@ Name it **[NoDelete] [13] Septimus Extended - Textures - General Megapatch**, an
 ### Snag the megapatch from here for the **MISCELLANEOUS** section: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---Textures/blob/master/Septimus%20Extended%20-%20Textures%20-%20Miscellaneous%20Megapatch.7z) ] ("View raw" button)
 
 Name it **[NoDelete] [55] Septimus Extended - Textures - Miscellaneous Megapatch**, and place the .esp directly AFTER GQJ_DG_vampireamuletfix.esp. 
+
+##
 
 ![Image 4](https://i.imgur.com/smFDBmT.png)
 
