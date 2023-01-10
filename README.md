@@ -1,6 +1,6 @@
 # Septimus-Extended---TEXTURES ADDON
 
-![Image 0]()
+![Image 0](https://i.imgur.com/WwwGBD8.png)
 
 # Introduction
 
@@ -16,7 +16,7 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Sep
 
 ## General (OPTIONAL! FEEL FREE TO SKIP!)
 
-![Image 1]()
+![Image 1](https://i.imgur.com/yCJC71y.png)
 
 1.) Download [High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/12029?tab=files&file_id=236420&nmm=1). In the FOMOD, select Install Everything. Don't tick anything on the next page, and press Install.
    - Install it under the name **[NoDelete] [01] High Poly Project**
@@ -60,7 +60,7 @@ Name it **[NoDelete] [13] Septimus Extended - Textures - General Megapatch**, an
 
 ## Armors (OPTIONAL! FEEL FREE TO SKIP!)
 
-![Image 2]()
+![Image 2](https://i.imgur.com/uxBofKC.png)
 
 13.) Download [RUSTIC ARMOR and WEAPONS](https://www.nexusmods.com/skyrimspecialedition/mods/19666?tab=files&file_id=69261&nmm=1).
    - Install it under the name **[NoDelete] [14] RUSTIC ARMOR and WEAPONS**
@@ -120,7 +120,7 @@ Name it **[NoDelete] [13] Septimus Extended - Textures - General Megapatch**, an
 
 ## Miscellaneous (OPTIONAL! FEEL FREE TO SKIP!)
 
-![Image 3]()
+![Image 3](https://i.imgur.com/nDv0CPs.png)
 
 31.) Download [WEBS S.E.](https://www.nexusmods.com/skyrimspecialedition/mods/4873?tab=files&file_id=10208&nmm=1).
    - Install it under the name **[NoDelete] [32] WEBS 2K**
@@ -197,7 +197,7 @@ Name it **[NoDelete] [55] Septimus Extended - Textures - Miscellaneous Megapatch
 
 ## Super Optional (FEEL FREE TO SKIP!)
 
-![Image 4]()
+![Image 4](https://i.imgur.com/smFDBmT.png)
 
 54.) Download [ElSopa - High Quality Doll Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/47703?tab=files&file_id=194275&nmm=1).
    - Install it under the name **[NoDelete] [56] ElSopa - High Quality Doll Replacer**
@@ -210,49 +210,12 @@ Name it **[NoDelete] [55] Septimus Extended - Textures - Miscellaneous Megapatch
    
 ### Snag the megapatch from here for the **SUPER OPTIONAL** section: [ N/A - NO PATCH NEEDED for this section! ]
 
-## Super SUPER Optional (FEEL FREE TO SKIP!)
-
-![Image 5]()
-
-**WARNING** - Footprints is a script-heavy mod! You can install it mid-through, but you **CANNOT UNINSTALL mid-playthrough**! Be wise with your choice!
-
-57.) Download [Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/3808?tab=files&file_id=186188&nmm=1).
-   - Install it under the name **[NoDelete] [59] Footprints**   
-
-58.) Download [Footprints - ENB Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3808?tab=files&file_id=186011&nmm=1).
-   - Install it under the name **[NoDelete] [60] Footprints - ENB Fix**   
-
-59.) Download [Footprints - Creation Club - Saturalia Holiday Pack]().
-   - Install it under the name **[NoDelete] [61] Footprints - Creation Club - Saturalia Holiday Pack**   
-
-60.) Download [The Gray Cowl of Nocturnal SE - Addons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19724?tab=files&file_id=245471&nmm=1). In the FOMOD, only tick the Footprints for The Gray Cowl of Nocturnal Addon option, then press Install.
-   - Install it under the name **[NoDelete] [61] The Gray Cowl of Nocturnal - Footprints Patch**   
-
-61.) Download [Footprints Sand Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50484?tab=files&file_id=250175&nmm=1).
-   - Install it under the name **[NoDelete] [62] Footprints Sand Patch**   
-
-62.) Download [SPID for Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/54924?tab=files&file_id=347974&nmm=1).
-   - Install it under the name **[NoDelete] [63] SPID for Footprints**   
-
-63.) Download [SPID for Footprints Fix](https://www.nexusmods.com/skyrimspecialedition/mods/70978?tab=files&file_id=347983&nmm=1).
-   - Install it under the name **[NoDelete] [64] SPID for Footprints Fix**   
-
-64.) Download [SPID for Footprints - Player Footprints Fix](https://www.nexusmods.com/skyrimspecialedition/mods/78957?tab=files&file_id=347982&nmm=1).
-   - Install it under the name **[NoDelete] [65] SPID for Footprints - Player Footprints Fix**   
-
-65.) Download [Footprints - Creation Club - Saturalia Holiday Pack](https://www.nexusmods.com/skyrimspecialedition/mods/77440?tab=files&file_id=325551&nmm=1).
-   - Install it under the name **[NoDelete] [66] Footprints - Creation Club - Saturalia Holiday Pack**   
-   
-### Snag the megapatch from here for the **SUPER SUPER OPTIONAL** section: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---Textures/blob/master/Septimus%20Extended%20-%20Textures%20-%20Super%20SUPER%20Optional%20Megapatch.7z) ] ("View raw" button)
-
-Name it **[NoDelete] [67] Septimus Extended - Textures - Super SUPER Optional Megapatch**, and place the .esp directly AFTER FootprintsSand-patch.esp. 
-
 # Last Steps
 
 **My theme of MO2 may be different than yours, but that's okay it'll all work the same!**
    - Just double-check to make sure your .esps look like this (it may be different depending on which sections you downloaded):
 
-![Image 6](https://i.imgur.com/iG5eq71.png)
+![Image 6](https://i.imgur.com/01av2Wf.png)
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
