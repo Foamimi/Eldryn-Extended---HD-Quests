@@ -14,9 +14,45 @@ First of all, we're going to right-click on the left side of MO2 and highlight t
 
 All the plugins going forward will be at the very bottom, **below all of the Septimus patches**.
 
-## General
+## General (OPTIONAL! FEEL FREE TO SKIP!)
 
 ![Image 1]()
+
+1.) Download [X]().
+   - Install it under the name **X**
+
+1.) Download [X]().
+   - Install it under the name **X**
+
+1.) Download [X]().
+   - Install it under the name **X**
+
+1.) Download [X]().
+   - Install it under the name **X**
+
+1.) Download [X]().
+   - Install it under the name **X**
+
+1.) Download [X]().
+   - Install it under the name **X**
+
+1.) Download [X]().
+   - Install it under the name **X**
+
+1.) Download [X]().
+   - Install it under the name **X**
+
+1.) Download [X]().
+   - Install it under the name **X**
+
+1.) Download [X]().
+   - Install it under the name **X**
+
+1.) Download [X]().
+   - Install it under the name **X**
+
+1.) Download [X]().
+   - Install it under the name **X**
 
 1.) Download [X]().
    - Install it under the name **X**
@@ -25,7 +61,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 Name it **[NoDelete] X**, and place it directly AFTER X. 
 
-## Armors
+## Armors (OPTIONAL! FEEL FREE TO SKIP!)
 
 ![Image 2]()
 
@@ -36,7 +72,7 @@ Name it **[NoDelete] X**, and place it directly AFTER X.
 
 Name it **[NoDelete] X**, and place it directly AFTER X. 
 
-## Miscellaneous
+## Miscellaneous (OPTIONAL! FEEL FREE TO SKIP!)
 
 ![Image 3]()
 
@@ -44,6 +80,17 @@ Name it **[NoDelete] X**, and place it directly AFTER X.
    - Install it under the name **X**
    
 ### Snag the megapatch from here for the **MISCELLANEOUS** section: [ [DOWNLOAD]() ] ("View raw" button)
+
+Name it **[NoDelete] X**, and place it directly AFTER X. 
+
+## Super Optional (FEEL FREE TO SKIP!)
+
+![Image 3]()
+
+1.) Download [X]().
+   - Install it under the name **X**
+   
+### Snag the megapatch from here for the **SUPER OPTIONAL** section: [ [DOWNLOAD]() ] ("View raw" button)
 
 Name it **[NoDelete] X**, and place it directly AFTER X. 
 
