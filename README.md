@@ -195,17 +195,95 @@ Name it **[NoDelete] [13] Septimus Extended - Textures - General Megapatch**, an
 
 Name it **[NoDelete] [55] Septimus Extended - Textures - Miscellaneous Megapatch**, and place the .esp directly AFTER GQJ_DG_vampireamuletfix.esp. 
 
+## Dwemer Textures (FEEL FREE TO SKIP!)
+
+![Image 4]()
+
+54.) Download [Ancient Dwemer Metal](https://www.nexusmods.com/skyrim/mods/75610?tab=files&file_id=1000213510&nmm=1).
+   - Install it under the name **[NoDelete] [56] Ancient Dwemer Metal**
+
+55.) Download [Ancient Dwemer Metal - Automatons](https://www.nexusmods.com/skyrim/mods/75610?tab=files&file_id=1000213502&nmm=1).
+   - Install it under the name **[NoDelete] [57] Ancient Dwemer Metal - Automatons**
+
+56.) Download [Dwemer bronze and steel - Dwarven weapons recolor](https://www.nexusmods.com/skyrim/mods/30998?tab=files&file_id=1000007077&nmm=1).
+   - Install it under the name **[NoDelete] [58] Dwemer Bronze and Steel - Dwarven Weapons Recolor**
+
+57.) Download [Ancient Dwemer Metal - Converted Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=268909&nmm=1).
+   - Install it under the name **[NoDelete] [59] Ancient Dwemer Metal - Converted Meshes**
+
+58.) Download [Ancient Dwemer Metal - Vanilla - DLC - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=180928&nmm=1).
+   - Install it under the name **[NoDelete] [60] Ancient Dwemer Metal - Vanilla - DLC - SMIM**
+
+59.) Download [Ancient Dwemer Metal - ANNIVERSARY EDITION](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=290809&nmm=1).
+   - Install it under the name **[NoDelete] [61] Ancient Dwemer Metal - ANNIVERSARY EDITION**
+
+60.) Download [Ancient Dwemer Metal - FINAL VERSION Update](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=332796&nmm=1).
+   - Install it under the name **[NoDelete] [62] Ancient Dwemer Metal - FINAL VERSION Update**
+
+61.) Download [X]().
+   - Install it under the name **X**
+
+62.) Download [X]().
+   - Install it under the name **X**
+
+63.) Download [X]().
+   - Install it under the name **X**
+
+64.) Download [X]().
+   - Install it under the name **X**
+
+65.) Download [X]().
+   - Install it under the name **X**
+
+66.) Download [X]().
+   - Install it under the name **X**
+
+67.) Download [X]().
+   - Install it under the name **X**
+
+68.) Download [X]().
+   - Install it under the name **X**
+
+69.) Download [X]().
+   - Install it under the name **X**
+
+70.) Download [X]().
+   - Install it under the name **X**
+
+71.) Download [X]().
+   - Install it under the name **X**
+
+72.) Download [X]().
+   - Install it under the name **X**
+
+73.) Download [X]().
+   - Install it under the name **X**
+
+74.) Download [X]().
+   - Install it under the name **X**
+
+75.) Download [X]().
+   - Install it under the name **X**
+
+76.) Download [X]().
+   - Install it under the name **X**
+
+77.) Download [X]().
+   - Install it under the name **X**
+
+### Snag the megapatch from here for the **SUPER OPTIONAL** section: [ N/A - NO PATCH NEEDED for this section! ]
+
 ## Super Optional (FEEL FREE TO SKIP!)
 
-![Image 4](https://i.imgur.com/smFDBmT.png)
+![Image 5](https://i.imgur.com/smFDBmT.png)
 
-54.) Download [ElSopa - High Quality Doll Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/47703?tab=files&file_id=194275&nmm=1).
+X.) Download [ElSopa - High Quality Doll Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/47703?tab=files&file_id=194275&nmm=1).
    - Install it under the name **[NoDelete] [56] ElSopa - High Quality Doll Replacer**
 
-55.) Download [ElSopa - Clavicus Pepe SE](https://www.nexusmods.com/skyrimspecialedition/mods/75147?tab=files&file_id=315348&nmm=1).
+X.) Download [ElSopa - Clavicus Pepe SE](https://www.nexusmods.com/skyrimspecialedition/mods/75147?tab=files&file_id=315348&nmm=1).
    - Install it under the name **[NoDelete] [57] ElSopa - Clavicus Pepe**   
 
-56.) Download [ElSopa - Pepe Talos Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/66592?tab=files&file_id=277423&nmm=1).
+X.) Download [ElSopa - Pepe Talos Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/66592?tab=files&file_id=277423&nmm=1).
    - Install it under the name **[NoDelete] [58] ElSopa - Pepe Talos Replacer**
    
 ### Snag the megapatch from here for the **SUPER OPTIONAL** section: [ N/A - NO PATCH NEEDED for this section! ]
