@@ -195,7 +195,7 @@ Name it **[NoDelete] [13c] Septimus Extended - Textures - General Megapatch**, a
 
 Name it **[NoDelete] [55c] Septimus Extended - Textures - Miscellaneous Megapatch**, and place the .esp directly AFTER GQJ_DG_vampireamuletfix.esp. 
 
-## Dwemer Textures (FEEL FREE TO SKIP!)
+## Dwemer Textures (OPTIONAL! FEEL FREE TO SKIP!)
 
 ![Image 4](https://i.imgur.com/K5fFPal.png)
 
