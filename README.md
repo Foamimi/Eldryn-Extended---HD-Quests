@@ -344,6 +344,15 @@ Name it **[NoDelete] [88] Septimus Extended - Textures - Super SUPER Optional Me
 
 **IMPORTANT** - If updating Septimus (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire series of Texture addons, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
 
+1.0.2 
+   - Added new "Dwemer Textures" optional section
+   - Added Ancient Dwemer Metal
+   - Added Ancient Dwemer Metal (various patches and addons
+   - Added new "Super SUPER Optional" optional section
+   - Added Footprints
+   - Added Footprints SPID (various fixes and addons)
+   -  **Save game safe update.**
+
 1.0.1
    - Added Splashes Of Skyrim
    - Removed PELTAPALOOZA as it was already in Septimus 
