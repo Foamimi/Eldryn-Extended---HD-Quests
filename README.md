@@ -275,7 +275,7 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 
 ### Snag the megapatch from here for the **SUPER OPTIONAL** section: [ N/A - NO PATCH NEEDED for this section! ]
 
-## Super Optional (FEEL FREE TO SKIP!)
+## Super Optional (OPTIONAL! FEEL FREE TO SKIP!)
 
 ![Image 8](https://i.imgur.com/smFDBmT.png)
 
@@ -290,7 +290,7 @@ It should then look like the image below. Once the pop-up says, "The Content of 
    
 ### Snag the megapatch from here for the **SUPER OPTIONAL** section: [ N/A - NO PATCH NEEDED for this section! ]
 
-## Super SUPER Optional (FEEL FREE TO SKIP!)
+## Super SUPER Optional (OPTIONAL! FEEL FREE TO SKIP!)
 
 ![Image 9](https://i.imgur.com/ZXERKAu.png)
 
