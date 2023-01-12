@@ -220,32 +220,43 @@ Name it **[NoDelete] [55] Septimus Extended - Textures - Miscellaneous Megapatch
 60.) Download [Ancient Dwemer Metal - FINAL VERSION Update](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=332796&nmm=1).
    - Install it under the name **[NoDelete] [62] Ancient Dwemer Metal - FINAL VERSION Update**
 
-61.) Download [X]().
-   - Install it under the name **X**
+61.) Download [Ancient Dwemer Metal - Forgotten Retex Project Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=195686&nmm=1).
+   - **IMPORTANT** - SKIP THIS PORTION IF you did NOT download Forgotten Retex Project from the first portion of the guide. If you DID download it, then this patch is for you.
+   - Install it under the name **[NoDelete] [63] Ancient Dwemer Metal - Forgotten Retex Project Patch**
 
-62.) Download [X]().
-   - Install it under the name **X**
+62.) Download [Ancient Dwemer Metal - Cathedral - Armory Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=348695&nmm=1).
+   - Install it under the name **[NoDelete] [64] Ancient Dwemer Metal - Cathedral - Armory Patch**
 
-63.) Download [X]().
-   - Install it under the name **X**
+63.) Download [Ancient Dwemer Metal - Kthonia's Unique Weapon Pack Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=289608&nmm=1). A window should appear saying "BAIN Package Installer". Make sure the 2K option is ticked, then press Ok.
 
-64.) Download [X]().
-   - Install it under the name **X**
+![Image 5](https://i.imgur.com/PH9ifVr.png)
 
-65.) Download [X]().
-   - Install it under the name **X**
+   - Install it under the name **[NoDelete] [65] Ancient Dwemer Metal - Kthonia's Unique Weapon Pack Patch**
 
-66.) Download [X]().
-   - Install it under the name **X**
+64.) Download [Ancient Dwemer Metal - Moon and Star Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=275272&nmm=1).
+   - Install it under the name **[NoDelete] [66] Ancient Dwemer Metal - Moon and Star Patch**
 
-67.) Download [X]().
-   - Install it under the name **X**
+65.) Download [Ancient Dwemer Metal - Security Overhaul SKSE - Lock Variations Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=240544&nmm=1). In the BAIN Installer, tick the 2K option, then press Ok.
+   - Install it under the name **[NoDelete] [67] Ancient Dwemer Metal - Security Overhaul SKSE - Lock Variations Patch**
 
-68.) Download [X]().
-   - Install it under the name **X**
+66.) Download [Ancient Dwemer Metal - Security Overhaul SKSE - Regional Locks Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=260810&nmm=1). In the BAIN Installer, tick the 2K option, then press Ok.
+   - Install it under the name **[NoDelete] [68] Ancient Dwemer Metal - Security Overhaul SKSE - Regional Locks Patch**
 
-69.) Download [X]().
-   - Install it under the name **X**
+67.) Download [Ancient Dwemer Metal - Skyland Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=323704&nmm=1).
+   - Install it under the name **[NoDelete] [69] Ancient Dwemer Metal - Skyland Patch**
+
+68.) Download [Ancient Dwemer Metal - Skyland Dragonborn Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=322874&nmm=1).
+   - Install it under the name **[NoDelete] [70] Ancient Dwemer Metal - Skyland Dragonborn Patch**
+
+69.) Download [Ancient Dwemer Metal - GDOS Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=178217&nmm=1). You should see a pop-up that says, "The content of data does not look valid". Click the arrow to expand the "2K" option, and you should see a Data box. Right-click it, and press "Set as data directory".
+
+![Image 6](https://i.imgur.com/dg9FTRh.png)
+
+It should then look like the image below. Once the pop-up says, "The Content of data looks valid", press Ok.
+
+![Image 7](https://i.imgur.com/UfNq4m9.png)
+
+   - Install it under the name **[NoDelete] [71] Ancient Dwemer Metal - GDOS Patch**
 
 70.) Download [X]().
    - Install it under the name **X**
@@ -275,7 +286,7 @@ Name it **[NoDelete] [55] Septimus Extended - Textures - Miscellaneous Megapatch
 
 ## Super Optional (FEEL FREE TO SKIP!)
 
-![Image 5](https://i.imgur.com/smFDBmT.png)
+![Image 8](https://i.imgur.com/smFDBmT.png)
 
 X.) Download [ElSopa - High Quality Doll Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/47703?tab=files&file_id=194275&nmm=1).
    - Install it under the name **[NoDelete] [56] ElSopa - High Quality Doll Replacer**
