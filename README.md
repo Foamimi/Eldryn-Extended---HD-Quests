@@ -197,7 +197,7 @@ Name it **[NoDelete] [55] Septimus Extended - Textures - Miscellaneous Megapatch
 
 ## Dwemer Textures (FEEL FREE TO SKIP!)
 
-![Image 4]()
+![Image 4](https://i.imgur.com/K5fFPal.png)
 
 54.) Download [Ancient Dwemer Metal](https://www.nexusmods.com/skyrim/mods/75610?tab=files&file_id=1000213510&nmm=1).
    - Install it under the name **[NoDelete] [56] Ancient Dwemer Metal**
@@ -292,7 +292,7 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 
 ## Super SUPER Optional (FEEL FREE TO SKIP!)
 
-![Image 9]()
+![Image 9](https://i.imgur.com/ZXERKAu.png)
 
 **WARNING** - Footprints is a script-heavy mod! You can install it mid-through, but you **CANNOT UNINSTALL mid-playthrough**! Be wise with your choice! You also must **COMPLETE the quest UNBOUND** for it to show up in-game!
 
