@@ -258,29 +258,20 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 
    - Install it under the name **[NoDelete] [71] Ancient Dwemer Metal - GDOS Patch**
 
-70.) Download [X]().
-   - Install it under the name **X**
+70.) Download [Ancient Dwemer Metal - Skyrim Sewers Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=196164&nmm=1).
+   - Install it under the name **[NoDelete] [72] Ancient Dwemer Metal - Skyrim Sewers Patch**
 
-71.) Download [X]().
-   - Install it under the name **X**
+71.) Download [Ancient Dwemer Metal - The Forgotten City Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=248320&nmm=1). In the BAIN Installer, tick the 2K option, then press Ok.
+   - Install it under the name **[NoDelete] [73] Ancient Dwemer Metal - The Forgotten City Patch**
 
-72.) Download [X]().
-   - Install it under the name **X**
+72.) Download [Ancient Dwemer Metal - The Tools of Kagrenac Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=249458&nmm=1).
+   - Install it under the name **[NoDelete] [74] Ancient Dwemer Metal - The Tools of Kagrenac Patch**
 
-73.) Download [X]().
-   - Install it under the name **X**
+73.) Download [Ancient Dwemer Metal - Missing Forgemaster Fix](https://www.nexusmods.com/skyrimspecialedition/mods/38216?tab=files&file_id=150046&nmm=1).
+   - Install it under the name **[NoDelete] [75] Ancient Dwemer Metal - Missing Forgemaster Fix**
 
-74.) Download [X]().
-   - Install it under the name **X**
-
-75.) Download [X]().
-   - Install it under the name **X**
-
-76.) Download [X]().
-   - Install it under the name **X**
-
-77.) Download [X]().
-   - Install it under the name **X**
+74.) Download [Ancient Dwemer Metal - Spider Gem Restored](https://www.nexusmods.com/skyrimspecialedition/mods/72640?tab=files&file_id=304455&nmm=1).
+   - Install it under the name **[NoDelete] [76] Ancient Dwemer Metal - Spider Gem Restored**
 
 ### Snag the megapatch from here for the **SUPER OPTIONAL** section: [ N/A - NO PATCH NEEDED for this section! ]
 
@@ -288,16 +279,53 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 
 ![Image 8](https://i.imgur.com/smFDBmT.png)
 
-X.) Download [ElSopa - High Quality Doll Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/47703?tab=files&file_id=194275&nmm=1).
-   - Install it under the name **[NoDelete] [56] ElSopa - High Quality Doll Replacer**
+75.) Download [ElSopa - High Quality Doll Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/47703?tab=files&file_id=194275&nmm=1).
+   - Install it under the name **[NoDelete] [77] ElSopa - High Quality Doll Replacer**
 
-X.) Download [ElSopa - Clavicus Pepe SE](https://www.nexusmods.com/skyrimspecialedition/mods/75147?tab=files&file_id=315348&nmm=1).
-   - Install it under the name **[NoDelete] [57] ElSopa - Clavicus Pepe**   
+76.) Download [ElSopa - Clavicus Pepe SE](https://www.nexusmods.com/skyrimspecialedition/mods/75147?tab=files&file_id=315348&nmm=1).
+   - Install it under the name **[NoDelete] [78] ElSopa - Clavicus Pepe**   
 
-X.) Download [ElSopa - Pepe Talos Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/66592?tab=files&file_id=277423&nmm=1).
-   - Install it under the name **[NoDelete] [58] ElSopa - Pepe Talos Replacer**
+77.) Download [ElSopa - Pepe Talos Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/66592?tab=files&file_id=277423&nmm=1).
+   - Install it under the name **[NoDelete] [79] ElSopa - Pepe Talos Replacer**
    
 ### Snag the megapatch from here for the **SUPER OPTIONAL** section: [ N/A - NO PATCH NEEDED for this section! ]
+
+## Super SUPER Optional (FEEL FREE TO SKIP!)
+
+![Image 9]()
+
+**WARNING** - Footprints is a script-heavy mod! You can install it mid-through, but you **CANNOT UNINSTALL mid-playthrough**! Be wise with your choice! You also must **COMPLETE the quest UNBOUND** for it to show up in-game!
+
+78.) Download [Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/3808?tab=files&file_id=186188&nmm=1).
+   - Install it under the name **[NoDelete] [80] Footprints**   
+
+79.) Download [Footprints - ENB Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3808?tab=files&file_id=186011&nmm=1).
+   - Install it under the name **[NoDelete] [81] Footprints - ENB Fix**   
+
+80.) Download [Footprints - Creation Club - Saturalia Holiday Pack]().
+   - Install it under the name **[NoDelete] [82] Footprints - Creation Club - Saturalia Holiday Pack**   
+
+81.) Download [The Gray Cowl of Nocturnal SE - Addons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19724?tab=files&file_id=245471&nmm=1). In the FOMOD, only tick the Footprints for The Gray Cowl of Nocturnal Addon option, then press Install.
+   - Install it under the name **[NoDelete] [83] The Gray Cowl of Nocturnal - Footprints Patch**   
+
+82.) Download [Footprints Sand Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50484?tab=files&file_id=250175&nmm=1).
+   - Install it under the name **[NoDelete] [84] Footprints Sand Patch**   
+
+83.) Download [SPID for Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/54924?tab=files&file_id=347974&nmm=1).
+   - Install it under the name **[NoDelete] [85] SPID for Footprints**   
+
+84.) Download [SPID for Footprints Fix](https://www.nexusmods.com/skyrimspecialedition/mods/70978?tab=files&file_id=347983&nmm=1).
+   - Install it under the name **[NoDelete] [86] SPID for Footprints Fix**   
+
+85.) Download [SPID for Footprints - Player Footprints Fix](https://www.nexusmods.com/skyrimspecialedition/mods/78957?tab=files&file_id=348371&nmm=1).
+   - Install it under the name **[NoDelete] [87] SPID for Footprints - Player Footprints Fix**   
+
+86.) Download [Footprints - Creation Club - Saturalia Holiday Pack](https://www.nexusmods.com/skyrimspecialedition/mods/77440?tab=files&file_id=325551&nmm=1).
+   - Install it under the name **[NoDelete] [88] Footprints - Creation Club - Saturalia Holiday Pack**   
+
+### Snag the megapatch from here for the **SUPER SUPER OPTIONAL** section: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---Textures/blob/master/Septimus%20Extended%20-%20Textures%20-%20Super%20SUPER%20Optional%20Megapatch.7z) ] ("View raw" button)
+
+Name it **[NoDelete] [88] Septimus Extended - Textures - Super SUPER Optional Megapatch**, and place the .esp directly AFTER FootprintsSand-patch.esp. 
 
 # Last Steps
 
