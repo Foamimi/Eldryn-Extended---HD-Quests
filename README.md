@@ -336,7 +336,7 @@ Name it **[NoDelete] [88c] Septimus Extended - Textures - Super SUPER Optional M
    - **Currently in the process of testing with version 1.0.8+ of Septimus.**
    - **Currently works with [Septimus-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md).**
    - **Currently works with [Septimus-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/README.md).**
-   - **Currently works with [Septimus-Extended - 3DNPC Addon](https://github.com/Foamimi/Septimus---3DNPC-Addon/blob/main/README.md). 
+   - **Currently works with [Septimus-Extended - 3DNPC Addon](https://github.com/Foamimi/Septimus---3DNPC-Addon/blob/main/README.md).**
 
 # Changelog
 
