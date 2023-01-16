@@ -400,22 +400,22 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 107.) Download [Wyrmstooth Animated ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/72668?tab=files&file_id=304530&nmm=1).
    - Install it under the name **[NoDelete] [030.16] Wyrmstooth Animated ENB Light**
 
-### Snag the megapatch from here for the **ENB LIGHTS** section: [ [DOWNLOAD](X) ] ("View raw" button)
+### Snag the megapatch from here for the **ENB LIGHTS** section: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---Textures/blob/master/Septimus%20Extended%20-%20Textures%20-%20ENB%20Lights%20Megapatch.7z) ] ("View raw" button)
 
-Name it **X**, and place the .esp directly AFTER Ghosts of the Tribunal - ENB Light.esp.
+Name it **[NoDelete] [030.17] Septimus Extended - Textures - ENB Lights Megapatch**, and place the .esp directly AFTER Elytra ENB Light.esp.
 
 ## Super Optional (OPTIONAL! FEEL FREE TO SKIP!)
 
 ![Image 9](https://i.imgur.com/smFDBmT.png)
 
-75.) Download [ElSopa - High Quality Doll Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/47703?tab=files&file_id=194275&nmm=1).
-   - Install it under the name **[NoDelete] [77c] ElSopa - High Quality Doll Replacer**
+108.) Download [ElSopa - High Quality Doll Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/47703?tab=files&file_id=194275&nmm=1).
+   - Install it under the name **[NoDelete] [030.18] ElSopa - High Quality Doll Replacer**
 
-76.) Download [ElSopa - Clavicus Pepe SE](https://www.nexusmods.com/skyrimspecialedition/mods/75147?tab=files&file_id=315348&nmm=1).
-   - Install it under the name **[NoDelete] [78c] ElSopa - Clavicus Pepe**   
+109.) Download [ElSopa - Clavicus Pepe SE](https://www.nexusmods.com/skyrimspecialedition/mods/75147?tab=files&file_id=315348&nmm=1).
+   - Install it under the name **[NoDelete] [030.19] ElSopa - Clavicus Pepe**   
 
-77.) Download [ElSopa - Pepe Talos Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/66592?tab=files&file_id=277423&nmm=1).
-   - Install it under the name **[NoDelete] [79c] ElSopa - Pepe Talos Replacer**
+110.) Download [ElSopa - Pepe Talos Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/66592?tab=files&file_id=277423&nmm=1).
+   - Install it under the name **[NoDelete] [030.20] ElSopa - Pepe Talos Replacer**
    
 ### Snag the megapatch from here for the **SUPER OPTIONAL** section: [ N/A - NO PATCH NEEDED for this section! ]
 
@@ -425,33 +425,33 @@ Name it **X**, and place the .esp directly AFTER Ghosts of the Tribunal - ENB Li
 
 **WARNING** - Footprints is a script-heavy mod! You can install it mid-through, but you **CANNOT UNINSTALL mid-playthrough**! Be wise with your choice! You also must **COMPLETE the quest UNBOUND** for it to show up in-game!
 
-78.) Download [Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/3808?tab=files&file_id=186188&nmm=1).
-   - Install it under the name **[NoDelete] [80c] Footprints**   
+111.) Download [Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/3808?tab=files&file_id=186188&nmm=1).
+   - Install it under the name **[NoDelete] [030.21] Footprints**   
 
-79.) Download [Footprints - ENB Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3808?tab=files&file_id=186011&nmm=1).
-   - Install it under the name **[NoDelete] [81c] Footprints - ENB Fix**   
+112.) Download [Footprints - ENB Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3808?tab=files&file_id=186011&nmm=1).
+   - Install it under the name **[NoDelete] [030.22] Footprints - ENB Fix**   
 
-80.) Download [The Gray Cowl of Nocturnal SE - Addons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19724?tab=files&file_id=245471&nmm=1). In the FOMOD, only tick the Footprints for The Gray Cowl of Nocturnal Addon option, then press Install.
-   - Install it under the name **[NoDelete] [82c] The Gray Cowl of Nocturnal - Footprints Patch**   
+113.) Download [The Gray Cowl of Nocturnal SE - Addons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19724?tab=files&file_id=245471&nmm=1). In the FOMOD, only tick the Footprints for The Gray Cowl of Nocturnal Addon option, then press Install.
+   - Install it under the name **[NoDelete] [030.23] The Gray Cowl of Nocturnal - Footprints Patch**   
 
-81.) Download [Footprints Sand Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50484?tab=files&file_id=250175&nmm=1).
-   - Install it under the name **[NoDelete] [83c] Footprints Sand Patch**   
+114.) Download [Footprints Sand Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50484?tab=files&file_id=250175&nmm=1).
+   - Install it under the name **[NoDelete] [030.24] Footprints Sand Patch**   
 
-82.) Download [SPID for Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/54924?tab=files&file_id=347974&nmm=1).
-   - Install it under the name **[NoDelete] [84c] SPID for Footprints**   
+115.) Download [SPID for Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/54924?tab=files&file_id=347974&nmm=1).
+   - Install it under the name **[NoDelete] [030.25] SPID for Footprints**   
 
-83.) Download [SPID for Footprints Fix](https://www.nexusmods.com/skyrimspecialedition/mods/70978?tab=files&file_id=347983&nmm=1).
-   - Install it under the name **[NoDelete] [85c] SPID for Footprints Fix**   
+116.) Download [SPID for Footprints Fix](https://www.nexusmods.com/skyrimspecialedition/mods/70978?tab=files&file_id=347983&nmm=1).
+   - Install it under the name **[NoDelete] [030.26] SPID for Footprints Fix**   
 
-84.) Download [SPID for Footprints - Player Footprints Fix](https://www.nexusmods.com/skyrimspecialedition/mods/78957?tab=files&file_id=348371&nmm=1).
-   - Install it under the name **[NoDelete] [86c] SPID for Footprints - Player Footprints Fix**   
+117.) Download [SPID for Footprints - Player Footprints Fix](https://www.nexusmods.com/skyrimspecialedition/mods/78957?tab=files&file_id=348371&nmm=1).
+   - Install it under the name **[NoDelete] [030.27] SPID for Footprints - Player Footprints Fix**   
 
-85.) Download [Footprints - Creation Club - Saturalia Holiday Pack](https://www.nexusmods.com/skyrimspecialedition/mods/77440?tab=files&file_id=325551&nmm=1).
-   - Install it under the name **[NoDelete] [87c] Footprints - Creation Club - Saturalia Holiday Pack**   
+118.) Download [Footprints - Creation Club - Saturalia Holiday Pack](https://www.nexusmods.com/skyrimspecialedition/mods/77440?tab=files&file_id=325551&nmm=1).
+   - Install it under the name **[NoDelete] [030.28] Footprints - Creation Club - Saturalia Holiday Pack**   
 
 ### Snag the megapatch from here for the **SUPER SUPER OPTIONAL** section: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---Textures/blob/master/Septimus%20Extended%20-%20Textures%20-%20Super%20SUPER%20Optional%20Megapatch.7z) ] ("View raw" button)
 
-Name it **[NoDelete] [88c] Septimus Extended - Textures - Super SUPER Optional Megapatch**, and place the .esp directly AFTER FootprintsSand-patch.esp. 
+Name it **[NoDelete] [030.29] Septimus Extended - Textures - Super SUPER Optional Megapatch**, and place the .esp directly AFTER FootprintsSand-patch.esp. 
 
 # Last Steps
 
@@ -472,10 +472,10 @@ Name it **[NoDelete] [88c] Septimus Extended - Textures - Super SUPER Optional M
 **IMPORTANT** - If updating Septimus (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire series of Texture addons, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
 
 1.0.3
-   - Added new "ENB Lights" optional section
    - Added SMIM - Alternate Retextures for Wood in Mines Patch
    - Added Spiders of Solstheim - Transparency Fix
    - Added Ancient Amidianborn Dwarven Metal Armory
+   - Added new "ENB Lights" optional section
    - Removed Mari's Flora as the setup for Septimus is great on it's own anyway.
    - Renamed everything (again) to actually sort correctly when using multiple addons. SORRY FOR ALL THE RENAMING! This should be the last renaming thing for a while.
 
