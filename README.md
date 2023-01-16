@@ -117,10 +117,10 @@ Name it **[NoDelete] [003.15] Septimus Extended - Textures - General Megapatch**
    - Install it under the name **[NoDelete] [003.31] Frankly HD Stormcloak and City Guards - Fixed Fix**
 
 31.) Download [Open Face Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/13943?tab=files&file_id=120563&nmm=1).
-   - Install it under the name **[NoDelete] [30c] Open Face Guard Helmets**
+   - Install it under the name **[NoDelete] [003.32] Open Face Guard Helmets**
 
 32.) Download [Dovah Sonaak - Dragon Priest Masks SE](https://www.nexusmods.com/skyrimspecialedition/mods/23251?tab=files&file_id=81045&nmm=1). In the FOMOD, select Next, select Don't Install and press Next, select Don't Install and press Next, select Don't Install and press Next, press Next, select Konahrik - Frankly HD Gold and press Install.
-   - Install it under the name **[NoDelete] [003.32] Open Face Guard Helmets**
+   - Install it under the name **[NoDelete] [003.33] Masks of the ﻿Dovah Sonaak**
    
 ### Snag the megapatch from here for the **ARMORS** section: [ N/A - NO PATCH NEEDED for this section! ]
 
@@ -128,133 +128,130 @@ Name it **[NoDelete] [003.15] Septimus Extended - Textures - General Megapatch**
 
 ![Image 3](https://i.imgur.com/nDv0CPs.png)
 
-31.) Download [WEBS S.E.](https://www.nexusmods.com/skyrimspecialedition/mods/4873?tab=files&file_id=10208&nmm=1).
-   - Install it under the name **[NoDelete] [32c] WEBS 2K**
+33.) Download [WEBS S.E.](https://www.nexusmods.com/skyrimspecialedition/mods/4873?tab=files&file_id=10208&nmm=1).
+   - Install it under the name **[NoDelete] [003.34] WEBS 2K**
 
-32.) Download [ WEBS 2K - ELFX Patch](https://www.nexusmods.com/skyrimspecialedition/mods/4873?tab=files&file_id=10871&nmm=1).
-   - Install it under the name **[NoDelete] [33c] WEBS 2K - ELFX Patch**
+34.) Download [ WEBS 2K - ELFX Patch](https://www.nexusmods.com/skyrimspecialedition/mods/4873?tab=files&file_id=10871&nmm=1).
+   - Install it under the name **[NoDelete] [003.35] WEBS 2K - ELFX Patch**
 
-33.) Download [DimmerFog 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/7397?tab=files&file_id=20517&nmm=1). In the FOMOD, select Main Not Installed in the top portion, then in the bottom portion, select Optionals Reduced, then press Install. 
-   - Install it under the name **[NoDelete] [34c] DimmerFog 2.0**
+35.) Download [DimmerFog 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/7397?tab=files&file_id=20517&nmm=1). In the FOMOD, select Main Not Installed in the top portion, then in the bottom portion, select Optionals Reduced, then press Install. 
+   - Install it under the name **[NoDelete] [003.36] DimmerFog 2.0**
 
-34.) Download [Deadly Spell Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/12939?tab=files&file_id=36481&nmm=1). In the FOMOD, select Custom and press Next. Select One Fire Impact (Default), Alternative 1, Default, Alternative 1, then press Install.
-   - Install it under the name **[NoDelete] [35c] Deadly Spell Impacts**
+36.) Download [Deadly Spell Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/12939?tab=files&file_id=36481&nmm=1). In the FOMOD, select Custom and press Next. Select One Fire Impact (Default), Alternative 1, Default, Alternative 1, then press Install.
+   - Install it under the name **[NoDelete] [003.37] Deadly Spell Impacts**
 
-35.) Download [Deadly Spell Impacts Transparency Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41284?tab=files&file_id=251343&nmm=1).
-   - Install it under the name **[NoDelete] [36c] Deadly Spell Impacts Transparency Fix for ENB**
+37.) Download [Deadly Spell Impacts Transparency Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41284?tab=files&file_id=251343&nmm=1).
+   - Install it under the name **[NoDelete] [003.38] Deadly Spell Impacts Transparency Fix for ENB**
 
-36.) Download [Deadly Spell Impacts for Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/71724?tab=files&file_id=300447&nmm=1).
-   - Install it under the name **[NoDelete] [37c] Deadly Spell Impacts for Mysticism**
+38.) Download [Deadly Spell Impacts for Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/71724?tab=files&file_id=300447&nmm=1).
+   - Install it under the name **[NoDelete] [003.39] Deadly Spell Impacts for Mysticism**
 
-37.) Download [Inferno - Fire Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files&file_id=317399&nmm=1). In the FOMOD, select Next, ENB Light, 2x, Normal, Realistic Hue, 1x, Ember HD, and tick the Flame Meshes Patch (ESL-Tagged) option, then press Install. 
-   - Install it under the name **[NoDelete] [38c] Inferno - Fire Effects Redux**
+39.) Download [Inferno - Fire Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files&file_id=317399&nmm=1). In the FOMOD, select Next, ENB Light, 2x, Normal, Realistic Hue, 1x, Ember HD, and tick the Flame Meshes Patch (ESL-Tagged) option, then press Install. 
+   - Install it under the name **[NoDelete] [003.40] Inferno - Fire Effects Redux**
 
-38.) Download [Arctic - Frost Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29817?tab=files&file_id=316576&nmm=1). In the FOMOD, select Next, ENB Light, 2x, Realistic Hue, 1x, Frost Meshes Patch (ESL-Tagged), then press Install.
-   - Install it under the name **[NoDelete] [39c] Arctic - Frost Effects Redux**
+40.) Download [Arctic - Frost Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29817?tab=files&file_id=316576&nmm=1). In the FOMOD, select Next, ENB Light, 2x, Realistic Hue, 1x, Frost Meshes Patch (ESL-Tagged), then press Install.
+   - Install it under the name **[NoDelete] [003.41] Arctic - Frost Effects Redux**
 
-39.) Download [Thunderbolt - HD Lightning](https://www.nexusmods.com/skyrimspecialedition/mods/46024?tab=files&file_id=187303&nmm=1).
-   - Install it under the name **[NoDelete] [40c] Thunderbolt - HD Lightning**
+41.) Download [Thunderbolt - HD Lightning](https://www.nexusmods.com/skyrimspecialedition/mods/46024?tab=files&file_id=187303&nmm=1).
+   - Install it under the name **[NoDelete] [003.42] Thunderbolt - HD Lightning**
 
-40.) Download [Splashes Of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files&file_id=322517&nmm=1). In the FOMOD, select SSE v1.6.629+ ("Anniversary Edition"), then press Install.
-   - Install it under the name **[NoDelete] [41c] Splashes of Skyrim**
+42.) Download [Splashes Of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files&file_id=322517&nmm=1). In the FOMOD, select SSE v1.6.629+ ("Anniversary Edition"), then press Install.
+   - Install it under the name **[NoDelete] [003.43] Splashes of Skyrim**
 
-41.) Download [Remove Small Rocks](https://www.nexusmods.com/skyrimspecialedition/mods/8733?tab=files&file_id=150621&nmm=1).
-   - Install it under the name **[NoDelete] [42c] Remove Small Rocks**
+43.) Download [Remove Small Rocks](https://www.nexusmods.com/skyrimspecialedition/mods/8733?tab=files&file_id=150621&nmm=1).
+   - Install it under the name **[NoDelete] [003.44] Remove Small Rocks**
 
-42.) Download [Remove Small Rocks - Depths of Skyrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/8733?tab=files&file_id=234997&nmm=1).
-   - Install it under the name **[NoDelete] [43c] Remove Small Rocks - Depths of Skyrim Patch**
+44.) Download [Remove Small Rocks - Depths of Skyrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/8733?tab=files&file_id=234997&nmm=1).
+   - Install it under the name **[NoDelete] [003.45] Remove Small Rocks - Depths of Skyrim Patch**
 
-43.) Download [Remove Small Rocks - Folkvangr Patch](https://www.nexusmods.com/skyrimspecialedition/mods/8733?tab=files&file_id=281380&nmm=1).
-   - Install it under the name **[NoDelete] [44c] Remove Small Rocks - Folkvangr Patch**
+45.) Download [Remove Small Rocks - Folkvangr Patch](https://www.nexusmods.com/skyrimspecialedition/mods/8733?tab=files&file_id=281380&nmm=1).
+   - Install it under the name **[NoDelete] [003.46] Remove Small Rocks - Folkvangr Patch**
 
-44.) Download [Mari's Flora](https://www.nexusmods.com/skyrimspecialedition/mods/45952?tab=files&file_id=197655&nmm=1). In the FOMOD, select Vanilla, Vanilla meshes, for ENB, Blue, Green, Bright, Green, Dark, Purple, Dead, then press Install.
-   - Install it under the name **[NoDelete] [45c] Mari's Flora**
+46.) Download [Medieval Candlehorns and Sconces](https://www.nexusmods.com/skyrimspecialedition/mods/24324?tab=files&file_id=97446&nmm=1). In the FOMOD, select No Smoke Effect, Version 1, then press Install.
+   - Install it under the name **[NoDelete] [003.47] Medieval Candlehorns and Sconces**
 
-45.) Download [Medieval Candlehorns and Sconces](https://www.nexusmods.com/skyrimspecialedition/mods/24324?tab=files&file_id=97446&nmm=1). In the FOMOD, select No Smoke Effect, Version 1, then press Install.
-   - Install it under the name **[NoDelete] [46c] Medieval Candlehorns and Sconces**
+47.) Download [SD's Horn Candles SE](https://www.nexusmods.com/skyrimspecialedition/mods/40192?tab=files&file_id=159547&nmm=1).
+   - Install it under the name **[NoDelete] [003.48] SD's Horn Candles**
 
-46.) Download [SD's Horn Candles SE](https://www.nexusmods.com/skyrimspecialedition/mods/40192?tab=files&file_id=159547&nmm=1).
-   - Install it under the name **[NoDelete] [47c] SD's Horn Candles**
+48.) Download [JS Shrines of the Divines](https://www.nexusmods.com/skyrimspecialedition/mods/33394?tab=files&file_id=282601&nmm=1).
+   - Install it under the name **[NoDelete] [003.49] JS Shrines of the Divines**
 
-47.) Download [JS Shrines of the Divines](https://www.nexusmods.com/skyrimspecialedition/mods/33394?tab=files&file_id=282601&nmm=1).
-   - Install it under the name **[NoDelete] [48c] JS Shrines of the Divines**
+49.) Download [JS Instruments of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/51959?tab=files&file_id=213096&nmm=1).
+   - Install it under the name **[NoDelete] [003.50] JS Instruments of Skyrim**
 
-48.) Download [JS Instruments of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/51959?tab=files&file_id=213096&nmm=1).
-   - Install it under the name **[NoDelete] [49c] JS Instruments of Skyrim**
+50.) Download [Gemling Queen Jewelry SE](https://www.nexusmods.com/skyrimspecialedition/mods/4294?tab=files&file_id=9441&nmm=1). In the FOMOD, tick everything on the first page, then press Next. Select Gamwich Amulet Textures - 1024, then in the top part of the next page, select Gamwich Ring Textures - Combined - 1k under the "Ring Texture Options". Select None in the bottom section and do not tick the bottom box, then press Install. 
+   - Install it under the name **[NoDelete] [003.51] Gemling Queen Jewelry**
 
-49.) Download [Gemling Queen Jewelry SE](https://www.nexusmods.com/skyrimspecialedition/mods/4294?tab=files&file_id=9441&nmm=1). In the FOMOD, tick everything on the first page, then press Next. Select Gamwich Amulet Textures - 1024, then in the top part of the next page, select Gamwich Ring Textures - Combined - 1k under the "Ring Texture Options". Select None in the bottom section and do not tick the bottom box, then press Install. 
-   - Install it under the name **[NoDelete] [50c] Gemling Queen Jewelry**
+51.) Download [Beyond Skyrim - Bruma - Gemling Queen Jewelry Patch](https://www.nexusmods.com/skyrimspecialedition/mods/35876?tab=files&file_id=139545&nmm=1).
+   - Install it under the name **[NoDelete] [003.52] Beyond Skyrim - Bruma - Gemling Queen Jewelry Patch**
 
-50.) Download [Beyond Skyrim - Bruma - Gemling Queen Jewelry Patch](https://www.nexusmods.com/skyrimspecialedition/mods/35876?tab=files&file_id=139545&nmm=1).
-   - Install it under the name **[NoDelete] [51c] Beyond Skyrim - Bruma - Gemling Queen Jewelry Patch**
+52.) Download [RUSTIC AMULETS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/35485?tab=files&file_id=144580&nmm=1).
+   - Install it under the name **[NoDelete] [003.53] RUSTIC AMULETS**
 
-51.) Download [RUSTIC AMULETS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/35485?tab=files&file_id=144580&nmm=1).
-   - Install it under the name **[NoDelete] [52c] RUSTIC AMULETS**
+53.) Download [Dressed Hearthfire Doll](https://www.nexusmods.com/skyrimspecialedition/mods/493?tab=files&file_id=13540&nmm=1). In the FOMOD, select Smaller Eyes, 2 (human), Red, then press Install.
+   - Install it under the name **[NoDelete] [003.54] Dressed Hearthfire Doll**
 
-52.) Download [Dressed Hearthfire Doll](https://www.nexusmods.com/skyrimspecialedition/mods/493?tab=files&file_id=13540&nmm=1). In the FOMOD, select Smaller Eyes, 2 (human), Red, then press Install.
-   - Install it under the name **[NoDelete] [53c] Dressed Hearthfire Doll**
-
-53.) Download [Serana Doll Replacer for Bloodchill Manor's Vampire Doll](https://www.nexusmods.com/skyrimspecialedition/mods/73501?tab=files&file_id=308066&nmm=1).
-   - Install it under the name **[NoDelete] [54c] Serana Doll Replacer for Bloodchill Manor's Vampire Doll**
+54.) Download [Serana Doll Replacer for Bloodchill Manor's Vampire Doll](https://www.nexusmods.com/skyrimspecialedition/mods/73501?tab=files&file_id=308066&nmm=1).
+   - Install it under the name **[NoDelete] [003.55] Serana Doll Replacer for Bloodchill Manor's Vampire Doll**
    
 ### Snag the megapatch from here for the **MISCELLANEOUS** section: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---Textures/blob/master/Septimus%20Extended%20-%20Textures%20-%20Miscellaneous%20Megapatch.7z) ] ("View raw" button)
 
-Name it **[NoDelete] [55c] Septimus Extended - Textures - Miscellaneous Megapatch**, and place the .esp directly AFTER GQJ_DG_vampireamuletfix.esp. 
+Name it **[NoDelete] [003.56] Septimus Extended - Textures - Miscellaneous Megapatch**, and place the .esp directly AFTER GQJ_DG_vampireamuletfix.esp. 
 
 ## Dwemer Textures (OPTIONAL! FEEL FREE TO SKIP!)
 
 ![Image 4](https://i.imgur.com/K5fFPal.png)
 
-54.) Download [Ancient Dwemer Metal](https://www.nexusmods.com/skyrim/mods/75610?tab=files&file_id=1000213510&nmm=1).
-   - Install it under the name **[NoDelete] [56c] Ancient Dwemer Metal**
+55.) Download [Ancient Dwemer Metal](https://www.nexusmods.com/skyrim/mods/75610?tab=files&file_id=1000213510&nmm=1).
+   - Install it under the name **[NoDelete] [003.57] Ancient Dwemer Metal**
 
-55.) Download [Ancient Dwemer Metal - Automatons](https://www.nexusmods.com/skyrim/mods/75610?tab=files&file_id=1000213502&nmm=1).
-   - Install it under the name **[NoDelete] [57c] Ancient Dwemer Metal - Automatons**
+56.) Download [Ancient Dwemer Metal - Automatons](https://www.nexusmods.com/skyrim/mods/75610?tab=files&file_id=1000213502&nmm=1).
+   - Install it under the name **[NoDelete] [003.58] Ancient Dwemer Metal - Automatons**
 
-56.) Download [Dwemer bronze and steel - Dwarven weapons recolor](https://www.nexusmods.com/skyrim/mods/30998?tab=files&file_id=1000007077&nmm=1).
-   - Install it under the name **[NoDelete] [58c] Dwemer Bronze and Steel - Dwarven Weapons Recolor**
+57.) Download [Dwemer bronze and steel - Dwarven weapons recolor](https://www.nexusmods.com/skyrim/mods/30998?tab=files&file_id=1000007077&nmm=1).
+   - Install it under the name **[NoDelete] [003.59] Dwemer Bronze and Steel - Dwarven Weapons Recolor**
 
-57.) Download [Ancient Dwemer Metal - Converted Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=268909&nmm=1).
-   - Install it under the name **[NoDelete] [59c] Ancient Dwemer Metal - Converted Meshes**
+58.) Download [Ancient Dwemer Metal - Converted Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=268909&nmm=1).
+   - Install it under the name **[NoDelete] [003.60] Ancient Dwemer Metal - Converted Meshes**
 
-58.) Download [Ancient Dwemer Metal - Vanilla - DLC - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=180928&nmm=1).
-   - Install it under the name **[NoDelete] [60c] Ancient Dwemer Metal - Vanilla - DLC - SMIM**
+59.) Download [Ancient Dwemer Metal - Vanilla - DLC - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=180928&nmm=1).
+   - Install it under the name **[NoDelete] [003.61] Ancient Dwemer Metal - Vanilla - DLC - SMIM**
 
-59.) Download [Ancient Dwemer Metal - ANNIVERSARY EDITION](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=290809&nmm=1).
-   - Install it under the name **[NoDelete] [61c] Ancient Dwemer Metal - ANNIVERSARY EDITION**
+60.) Download [Ancient Dwemer Metal - ANNIVERSARY EDITION](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=290809&nmm=1).
+   - Install it under the name **[NoDelete] [003.62] Ancient Dwemer Metal - ANNIVERSARY EDITION**
 
-60.) Download [Ancient Dwemer Metal - FINAL VERSION Update](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=332796&nmm=1).
-   - Install it under the name **[NoDelete] [62c] Ancient Dwemer Metal - FINAL VERSION Update**
+61.) Download [Ancient Dwemer Metal - FINAL VERSION Update](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=332796&nmm=1).
+   - Install it under the name **[NoDelete] [003.63] Ancient Dwemer Metal - FINAL VERSION Update**
 
-61.) Download [Ancient Dwemer Metal - Forgotten Retex Project Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=195686&nmm=1).
+62.) Download [Ancient Dwemer Metal - Forgotten Retex Project Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=195686&nmm=1).
    - **IMPORTANT** - SKIP THIS PORTION IF you did NOT download Forgotten Retex Project from the first portion of the guide. If you DID download it, then this patch is for you.
-   - Install it under the name **[NoDelete] [63c] Ancient Dwemer Metal - Forgotten Retex Project Patch**
+   - Install it under the name **[NoDelete] [003.64] Ancient Dwemer Metal - Forgotten Retex Project Patch**
 
-62.) Download [Ancient Dwemer Metal - Cathedral - Armory Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=348695&nmm=1).
-   - Install it under the name **[NoDelete] [64c] Ancient Dwemer Metal - Cathedral - Armory Patch**
+63.) Download [Ancient Dwemer Metal - Cathedral - Armory Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=348695&nmm=1).
+   - Install it under the name **[NoDelete] [003.65] Ancient Dwemer Metal - Cathedral - Armory Patch**
 
-63.) Download [Ancient Dwemer Metal - Kthonia's Unique Weapon Pack Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=289608&nmm=1). A window should appear saying "BAIN Package Installer". Make sure the 2K option is ticked, then press Ok.
+64.) Download [Ancient Dwemer Metal - Kthonia's Unique Weapon Pack Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=289608&nmm=1). A window should appear saying "BAIN Package Installer". Make sure the 2K option is ticked, then press Ok.
 
 ![Image 5](https://i.imgur.com/PH9ifVr.png)
 
-   - Install it under the name **[NoDelete] [65c] Ancient Dwemer Metal - Kthonia's Unique Weapon Pack Patch**
+   - Install it under the name **[NoDelete] [003.66] Ancient Dwemer Metal - Kthonia's Unique Weapon Pack Patch**
 
-64.) Download [Ancient Dwemer Metal - Moon and Star Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=275272&nmm=1).
-   - Install it under the name **[NoDelete] [66c] Ancient Dwemer Metal - Moon and Star Patch**
+65.) Download [Ancient Dwemer Metal - Moon and Star Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=275272&nmm=1).
+   - Install it under the name **[NoDelete] [003.67] Ancient Dwemer Metal - Moon and Star Patch**
 
-65.) Download [Ancient Dwemer Metal - Security Overhaul SKSE - Lock Variations Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=240544&nmm=1). In the BAIN Installer, tick the 2K option, then press Ok.
-   - Install it under the name **[NoDelete] [67c] Ancient Dwemer Metal - Security Overhaul SKSE - Lock Variations Patch**
+66.) Download [Ancient Dwemer Metal - Security Overhaul SKSE - Lock Variations Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=240544&nmm=1). In the BAIN Installer, tick the 2K option, then press Ok.
+   - Install it under the name **[NoDelete] [003.68] Ancient Dwemer Metal - Security Overhaul SKSE - Lock Variations Patch**
 
-66.) Download [Ancient Dwemer Metal - Security Overhaul SKSE - Regional Locks Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=260810&nmm=1). In the BAIN Installer, tick the 2K option, then press Ok.
-   - Install it under the name **[NoDelete] [68c] Ancient Dwemer Metal - Security Overhaul SKSE - Regional Locks Patch**
+67.) Download [Ancient Dwemer Metal - Security Overhaul SKSE - Regional Locks Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=260810&nmm=1). In the BAIN Installer, tick the 2K option, then press Ok.
+   - Install it under the name **[NoDelete] [003.69] Ancient Dwemer Metal - Security Overhaul SKSE - Regional Locks Patch**
 
-67.) Download [Ancient Dwemer Metal - Skyland Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=323704&nmm=1).
-   - Install it under the name **[NoDelete] [69c] Ancient Dwemer Metal - Skyland Patch**
+68.) Download [Ancient Dwemer Metal - Skyland Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=323704&nmm=1).
+   - Install it under the name **[NoDelete] [003.70] Ancient Dwemer Metal - Skyland Patch**
 
-68.) Download [Ancient Dwemer Metal - Skyland Dragonborn Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=322874&nmm=1).
-   - Install it under the name **[NoDelete] [70c] Ancient Dwemer Metal - Skyland Dragonborn Patch**
+69.) Download [Ancient Dwemer Metal - Skyland Dragonborn Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=322874&nmm=1).
+   - Install it under the name **[NoDelete] [003.71] Ancient Dwemer Metal - Skyland Dragonborn Patch**
 
-69.) Download [Ancient Dwemer Metal - GDOS Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=178217&nmm=1). You should see a pop-up that says, "The content of data does not look valid". Click the arrow to expand the "2K" option, and you should see a Data box. Right-click it, and press "Set as data directory".
+70.) Download [Ancient Dwemer Metal - GDOS Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=178217&nmm=1). You should see a pop-up that says, "The content of data does not look valid". Click the arrow to expand the "2K" option, and you should see a Data box. Right-click it, and press "Set as data directory".
 
 ![Image 6](https://i.imgur.com/dg9FTRh.png)
 
@@ -262,22 +259,25 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 
 ![Image 7](https://i.imgur.com/UfNq4m9.png)
 
-   - Install it under the name **[NoDelete] [71c] Ancient Dwemer Metal - GDOS Patch**
+   - Install it under the name **[NoDelete] [003.72] Ancient Dwemer Metal - GDOS Patch**
 
-70.) Download [Ancient Dwemer Metal - Skyrim Sewers Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=196164&nmm=1).
-   - Install it under the name **[NoDelete] [72c] Ancient Dwemer Metal - Skyrim Sewers Patch**
+71.) Download [Ancient Dwemer Metal - Skyrim Sewers Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=196164&nmm=1).
+   - Install it under the name **[NoDelete] [003.73] Ancient Dwemer Metal - Skyrim Sewers Patch**
 
-71.) Download [Ancient Dwemer Metal - The Forgotten City Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=248320&nmm=1). In the BAIN Installer, tick the 2K option, then press Ok.
-   - Install it under the name **[NoDelete] [73c] Ancient Dwemer Metal - The Forgotten City Patch**
+72.) Download [Ancient Dwemer Metal - The Forgotten City Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=248320&nmm=1). In the BAIN Installer, tick the 2K option, then press Ok.
+   - Install it under the name **[NoDelete] [003.74] Ancient Dwemer Metal - The Forgotten City Patch**
 
-72.) Download [Ancient Dwemer Metal - The Tools of Kagrenac Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=249458&nmm=1).
-   - Install it under the name **[NoDelete] [74c] Ancient Dwemer Metal - The Tools of Kagrenac Patch**
+73.) Download [Ancient Dwemer Metal - The Tools of Kagrenac Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=249458&nmm=1).
+   - Install it under the name **[NoDelete] [003.75] Ancient Dwemer Metal - The Tools of Kagrenac Patch**
 
-73.) Download [Ancient Dwemer Metal - Missing Forgemaster Fix](https://www.nexusmods.com/skyrimspecialedition/mods/38216?tab=files&file_id=150046&nmm=1).
-   - Install it under the name **[NoDelete] [75c] Ancient Dwemer Metal - Missing Forgemaster Fix**
+74.) Download [Ancient Amidianborn Dwarven Metal Armory](https://www.nexusmods.com/skyrimspecialedition/mods/38316?tab=files&file_id=152230&nmm=1).
+   - Install it under the name **[NoDelete] [003.76] Ancient Amidianborn Dwarven Metal Armory**
 
-74.) Download [Ancient Dwemer Metal - Spider Gem Restored](https://www.nexusmods.com/skyrimspecialedition/mods/72640?tab=files&file_id=304455&nmm=1).
-   - Install it under the name **[NoDelete] [76c] Ancient Dwemer Metal - Spider Gem Restored**
+75.) Download [Ancient Dwemer Metal - Missing Forgemaster Fix](https://www.nexusmods.com/skyrimspecialedition/mods/38216?tab=files&file_id=150046&nmm=1).
+   - Install it under the name **[NoDelete] [003.77] Ancient Dwemer Metal - Missing Forgemaster Fix**
+
+76.) Download [Ancient Dwemer Metal - Spider Gem Restored](https://www.nexusmods.com/skyrimspecialedition/mods/72640?tab=files&file_id=304455&nmm=1).
+   - Install it under the name **[NoDelete] [003.78] Ancient Dwemer Metal - Spider Gem Restored**
 
 ### Snag the megapatch from here for the **SUPER OPTIONAL** section: [ N/A - NO PATCH NEEDED for this section! ]
 
