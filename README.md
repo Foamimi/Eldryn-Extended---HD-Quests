@@ -478,6 +478,7 @@ Name it **[NoDelete] [030.29] Septimus Extended - Textures - Super SUPER Optiona
    - Added new "ENB Lights" optional section
    - Removed Mari's Flora as the setup for Septimus is great on it's own anyway.
    - Renamed everything (again) to actually sort correctly when using multiple addons. SORRY FOR ALL THE RENAMING! This should be the last renaming thing for a while.
+   - **Save game safe update.**
 
 1.0.2 
    - Added new "Dwemer Textures" optional section
