@@ -200,6 +200,8 @@ Name it **[NoDelete] [003.56] Septimus Extended - Textures - Miscellaneous Megap
 
 ## Dwemer Textures (OPTIONAL! FEEL FREE TO SKIP!)
 
+**WARNING** - This section will cause the dwemer textures in the starting Septimus room to appear a dark blueish color. I'm currently trying to pinpoint the cause of this so I can write down which files to hide, but in the meantime, they will just be... blue.
+
 ![Image 4](https://i.imgur.com/K5fFPal.png)
 
 55.) Download [Ancient Dwemer Metal](https://www.nexusmods.com/skyrim/mods/75610?tab=files&file_id=1000213510&nmm=1).
@@ -308,87 +310,99 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 83.) Download [Optimized ENB Light Meshes - Medieval Candlehorns and Scones](https://www.nexusmods.com/skyrimspecialedition/mods/68843?tab=files&file_id=290385&nmm=1). In the FOMOD, select nothing and press Install.
    - Install it under the name **[NoDelete] [003.85] Optimized ENB Light Meshes - Medieval Candlehorns and Scones**
 
-84.) Download [X]().
-   - Install it under the name **X**
+84.) Download [Optimized ENB Light Meshes - SD's Horn Candles](https://www.nexusmods.com/skyrimspecialedition/mods/68843?tab=files&file_id=289084&nmm=1).
+   - Install it under the name **[NoDelete] [003.86] Optimized ENB Light Meshes - SD's Horn Candles**
 
-85.) Download [X]().
-   - Install it under the name **X**
+85.) Download [Optimized ENB Light Meshes - Rustic Clutter - Rudy HQ Patch](https://www.nexusmods.com/skyrimspecialedition/mods/70967?tab=files&file_id=297168&nmm=1).
+   - Install it under the name **[NoDelete] [003.87] Optimized ENB Light Meshes - Rustic Clutter - Rudy HQ Patch**
 
-86.) Download [X]().
-   - Install it under the name **X**
+86.) Download [Dark Elf Lantern ENB Light - Animated Glow](https://www.nexusmods.com/skyrimspecialedition/mods/63176?tab=files&file_id=262221&nmm=1).
+   - Install it under the name **[NoDelete] [003.88] Dark Elf Lantern ENB Light - Animated Glow**
 
-87.) Download [X]().
-   - Install it under the name **X**
+87.) Download [Dark Elf Lantern ENB Light - Particle Patch for ENB - Patch](https://www.nexusmods.com/skyrimspecialedition/mods/76417?tab=files&file_id=320956&nmm=1).
+   - Install it under the name **[NoDelete] [003.89] Dark Elf Lantern ENB Light - Particle Patch for ENB - Patch**
 
-88.) Download [X]().
-   - Install it under the name **X**
+88.) Download [Apocrypha ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/64463?tab=files&file_id=267781&nmm=1).
+   - Install it under the name **[NoDelete] [003.90] Apocrypha ENB Light**
 
-89.) Download [X]().
-   - Install it under the name **X**
+89.) Download [Sprites or Specters - ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/64948?tab=files&file_id=273364&nmm=1).
+   - Install it under the name **[NoDelete] [003.91] Sprites or Specters - ENB Light**
 
-90.) Download [X]().
-   - Install it under the name **X**
+90.) Download [ENB Lights For Effect Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/56362?tab=files&file_id=322991&nmm=1). In the FOMOD, select SSE v1.6+ ("Anniversary Edition").
+   - Install it under the name **[NoDelete] [003.92] ENB Lights For Effect Shaders**
 
-91.) Download [X]().
-   - Install it under the name **X**
+91.) Download [Misc Effects ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/65070?tab=files&file_id=276040&nmm=1).
+   - Install it under the name **[NoDelete] [003.93] Misc Effects ENB Light**
 
-92.) Download [X]().
-   - Install it under the name **X**
+92.) Download [Misc Effects ENB Light - Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/65070?tab=files&file_id=280838&nmm=1).
+   - Install it under the name **[NoDelete] [003.94] Misc Effects ENB Light - Hotfix**
 
-93.) Download [X]().
-   - Install it under the name **X**
+93.) Download [Misc Effects ENB Light - LeanWolf's BSW Patch](https://www.nexusmods.com/skyrimspecialedition/mods/65070?tab=files&file_id=270747&nmm=1).
+   - Install it under the name **[NoDelete] [003.95] Misc Effects ENB Light - LeanWolf's BSW Patch**
 
-94.) Download [X]().
-   - Install it under the name **X**
+94.) Download [Particle Lights for ENB - Wisps - Witchlight](https://www.nexusmods.com/skyrimspecialedition/mods/50868?tab=files&file_id=273182&nmm=1).
+   - Install it under the name **[NoDelete] [003.96] Particle Lights for ENB - Wisps - Witchlight**
 
-95.) Download [X]().
-   - Install it under the name **X**
+95.) Download [Particle Lights for ENB - Luminous Ground Cover](https://www.nexusmods.com/skyrimspecialedition/mods/72652?tab=files&file_id=304474&nmm=1).
+   - Install it under the name **[NoDelete] [003.97] Particle Lights for ENB - Luminous Ground Cover**
 
-96.) Download [X]().
-   - Install it under the name **X**
+96.) Download [Particle Lights for ENB - Undead Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/48424?tab=files&file_id=199985&nmm=1). In the FOMOD, select Default, Default, then don't tick the last box and press Install.
+   - Install it under the name **[NoDelete] [003.98] Particle Lights for ENB - Undead Creatures**
 
-97.) Download [X]().
-   - Install it under the name **X**
+97.) Download [ENB Lights for Aetherium Shards](https://www.nexusmods.com/skyrimspecialedition/mods/54472?tab=files&file_id=223662&nmm=1).
+   - Install it under the name **[NoDelete] [003.99] ENB Lights for Aetherium Shards**
 
-98.) Download [X]().
-   - Install it under the name **X**
+98.) Download [Rudy HQ - More Lights for ENB - Deathbells and Nirnroots](https://www.nexusmods.com/skyrimspecialedition/mods/22814?tab=files&file_id=163276&nmm=1).
+   - Install it under the name **[NoDelete] [030.01] Rudy HQ - More Lights for ENB - Deathbells and Nirnroots**
 
-99.) Download [X]().
-   - Install it under the name **X**
+99.) Download [Rudy HQ - More Lights for ENB - Glowing Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/40991?tab=files&file_id=163816&nmm=1).
+   - Install it under the name **[NoDelete] [030.02] Rudy HQ - More Lights for ENB - Glowing Mushrooms**
 
-100.) Download [X]().
-   - Install it under the name **X**
+100.) Download [Rudy HQ - More Lights for ENB - Bthardamz](https://www.nexusmods.com/skyrimspecialedition/mods/22703?tab=files&file_id=163199&nmm=1).
+   - Install it under the name **[NoDelete] [030.03] Rudy HQ - More Lights for ENB - Bthardamz**
 
-101.) Download [X]().
-   - Install it under the name **X**
+101.) Download [Rudy HQ - More Lights for ENB - Rustic Soul Gems](https://www.nexusmods.com/skyrimspecialedition/mods/22704?tab=files&file_id=163210&nmm=1).
+   - Install it under the name **[NoDelete] [030.04] Rudy HQ - More Lights for ENB - Rustic Soul Gems**
 
-102.) Download [X]().
-   - Install it under the name **X**
+102.) Download [Rudy HQ - More Lights for ENB - Chaurus Eggs and Sacs](https://www.nexusmods.com/skyrimspecialedition/mods/22705?tab=files&file_id=163264&nmm=1).
+   - Install it under the name **[NoDelete] [030.05] Rudy HQ - More Lights for ENB - Chaurus Eggs and Sacs**
 
-103.) Download [X]().
-   - Install it under the name **X**
+103.) Download [Rudy HQ - More Lights for ENB Decal Fix](https://www.nexusmods.com/skyrimspecialedition/mods/55582?tab=files&file_id=287665&nmm=1). In the FOMOD, everything should be automically ticked except for Patch for Rustic Soul Gems. Tick that Rustic option and untick the regular Soul Gems option. Then press Install.
+   - Install it under the name **[NoDelete] [030.06] Rudy HQ - More Lights for ENB Decal Fix**
 
-104.) Download [X]().
-   - Install it under the name **X**
+104.) Download [Cathedral 3D Deathbell - ENB Particle Light - Glowmap Patch](https://www.nexusmods.com/skyrimspecialedition/mods/76473?tab=files&file_id=321519&nmm=1).
+   - Install it under the name **[NoDelete] [030.07] Cathedral 3D Deathbell - ENB Particle Light - Glowmap Patch**
 
-105.) Download [X]().
-   - Install it under the name **X**
+105.) Download [Alchemy Ingredients ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/65509?tab=files&file_id=274977&nmm=1).
+   - Install it under the name **[NoDelete] [030.08] Alchemy Ingredients ENB Light**
 
-106.) Download [X]().
-   - Install it under the name **X**
+106.) Download [ENB Particle Lights for Gemstones](https://www.nexusmods.com/skyrimspecialedition/mods/57672?tab=files&file_id=300935&nmm=1). In the FOMOD, select Default, Default, then press Install.
+   - Install it under the name **[NoDelete] [030.09] ENB Particle Lights for Gemstones**
 
-107.) Download [X]().
-   - Install it under the name **X**
+107.) Download [Spiders of Solstheim - ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/64818?tab=files&file_id=274979&nmm=1).
+   - Install it under the name **[NoDelete] [030.10] Spiders of Solstheim - ENB Light**
 
-108.) Download [X]().
-   - Install it under the name **X**
+108.) Download [Ghosts of the Tribunal - Particle Lights for ENB Addon](https://www.nexusmods.com/skyrimspecialedition/mods/81783?tab=files&file_id=345472&nmm=1).
+   - Install it under the name **[NoDelete] [030.11] Ghosts of the Tribunal - Particle Lights for ENB Addon**
 
-109.) Download [X]().
-   - Install it under the name **X**
+109.) Download [Ayleid Ruins ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/62415?tab=files&file_id=273389&nmm=1).
+   - Install it under the name **[NoDelete] [030.12] Ayleid Ruins ENB Light**
+
+110.) Download [Saints and Seducers Flora ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/64659?tab=files&file_id=268722&nmm=1).
+   - Install it under the name **[NoDelete] [030.13] Saints and Seducers Flora ENB Light**
+
+111.) Download [Saints and Seducers Flora ENB Light - Update](https://www.nexusmods.com/skyrimspecialedition/mods/64659?tab=files&file_id=268731&nmm=1).
+   - Install it under the name **[NoDelete] [030.14] Saints and Seducers Flora ENB Light - Update**
+
+106.) Download [Elytra and Bliss Bug ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/64824?tab=files&file_id=273400&nmm=1).
+   - Install it under the name **[NoDelete] [030.09] Elytra and Bliss Bug ENB Light**
+
+107.) Download [Wyrmstooth Animated ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/72668?tab=files&file_id=304530&nmm=1).
+   - Install it under the name **[NoDelete] [030.16] Wyrmstooth Animated ENB Light**
 
 ### Snag the megapatch from here for the **ENB LIGHTS** section: [ [DOWNLOAD](X) ] ("View raw" button)
 
-Name it **X**, and place the .esp directly AFTER X.esp.
+Name it **X**, and place the .esp directly AFTER Ghosts of the Tribunal - ENB Light.esp.
 
 ## Super Optional (OPTIONAL! FEEL FREE TO SKIP!)
 
