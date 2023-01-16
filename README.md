@@ -283,28 +283,30 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 
 ## ENB Lights (OPTIONAL! FEEL FREE TO SKIP!)
 
+**IMPORTANT** - All the FOMOD options in this portion are assuming you downloaded the "General" and "Miscellaneous" sections from earlier in the guide. If you only downloaded one or neither of these sections, I suggest skipping this portion entirely, or else you'll find missing purple textures.
+
 ![Image 8]()
 
-77.) Download [ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/22574?tab=files&file_id=117211&nmm=1). In the FOMOD, select Base - Candlight, Magelight, vanilla torch, then select Vanilla (SMIM), then tick Blackreach and Cave plants, Minor effects, Magic hand effects, Magic effects - Low-Moderate cost, Magic weapon effects - fairly low cost, Creatures - Flame Atronachs, Creatures - Storm Atronachs, Creatures - Ice Wraith, Creatures - Spriggans, and Creatures - Wispmother. Select Lean Wolf's Better Shaped Weapons Dawnbreaker - default sheath, then select NO Dawnbreaker DSR option. **If you did NOT install the "Miscellaneous" portion of this guide**, tick NO Artic - Frost Effects Redux and press Install. **If you DID install the "Miscellaneous" portion of this guide**, do NOT tick that box, then press Install. A box will pop-up saying "The following files or folders were not found in the archive". Press Install anyway. A fix for this will be downloaded later.
+77.) Download [ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/22574?tab=files&file_id=117211&nmm=1). In the FOMOD, select Base - Candlight, Magelight, vanilla torch, then select Vanilla (SMIM), then tick Blackreach and Cave plants, Minor effects, Magic hand effects, Magic effects - Low-Moderate cost, Magic weapon effects - fairly low cost, Creatures - Flame Atronachs, Creatures - Storm Atronachs, Creatures - Ice Wraith, Creatures - Spriggans, and Creatures - Wispmother. Select Lean Wolf's Better Shaped Weapons Dawnbreaker - default sheath, then select NO Dawnbreaker DSR option. Do not tick any of the boxes at the bottom, then press Install. A box will pop-up saying "The following files or folders were not found in the archive". Press Install anyway. A fix for this will be downloaded later.
    - Install it under the name **[NoDelete] [003.79] ENB Light**
 
-78.) Download [X]().
-   - Install it under the name **X**
+78.) Download [ENB Light - Inferno Patch](https://www.nexusmods.com/skyrimspecialedition/mods/22574?tab=files&file_id=114206&nmm=1).
+   - Install it under the name **[NoDelete] [003.80] ENB Light - Inferno Patch**
 
-79.) Download [X]().
-   - Install it under the name **X**
+79.) Download [ENB Light - Vanilla Torch Mesh Fix](https://www.nexusmods.com/skyrimspecialedition/mods/63302?tab=files&file_id=262727&nmm=1).
+   - Install it under the name **[NoDelete] [003.81] ENB Light - Vanilla Torch Mesh Fix**
 
-80.) Download [X]().
-   - Install it under the name **X**
+80.) Download [Optimized ENB Light Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/68843?tab=files&file_id=290500&nmm=1). In the FOMOD, select Default flame effects, then press Next, then press Install. 
+   - Install it under the name **[NoDelete] [003.82] Optimized ENB Light Meshes**
 
-81.) Download [X]().
-   - Install it under the name **X**
+81.) Download [Optimized ENB Light Meshes - Ruins Clutter Improved](https://www.nexusmods.com/skyrimspecialedition/mods/68843?tab=files&file_id=290387&nmm=1).
+   - Install it under the name **[NoDelete] [003.83] Optimized ENB Light Meshes - Ruins Clutter Improved**
 
-82.) Download [X]().
-   - Install it under the name **X**
+82.) Download [Optimized ENB Light Meshes - Rudy - JS Shrines - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/68843?tab=files&file_id=290382&nmm=1). in the FOMOD, tick all of the patches and press Install.
+   - Install it under the name **[NoDelete] [003.84] Optimized ENB Light Meshes - Rudy - JS Shrines - SMIM**
 
-83.) Download [X]().
-   - Install it under the name **X**
+83.) Download [Optimized ENB Light Meshes - Medieval Candlehorns and Scones](https://www.nexusmods.com/skyrimspecialedition/mods/68843?tab=files&file_id=290385&nmm=1). In the FOMOD, select nothing and press Install.
+   - Install it under the name **[NoDelete] [003.85] Optimized ENB Light Meshes - Medieval Candlehorns and Scones**
 
 84.) Download [X]().
    - Install it under the name **X**
