@@ -287,7 +287,7 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 
 **IMPORTANT** - All the FOMOD options in this portion are assuming you downloaded the "General" and "Miscellaneous" sections from earlier in the guide. If you only downloaded one or neither of these sections, I suggest skipping this portion entirely, or else you'll find missing purple textures.
 
-![Image 8]()
+![Image 8](https://i.imgur.com/h3qZre8.png)
 
 77.) Download [ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/22574?tab=files&file_id=117211&nmm=1). In the FOMOD, select Base - Candlight, Magelight, vanilla torch, then select Vanilla (SMIM), then tick Blackreach and Cave plants, Minor effects, Magic hand effects, Magic effects - Low-Moderate cost, Magic weapon effects - fairly low cost, Creatures - Flame Atronachs, Creatures - Storm Atronachs, Creatures - Ice Wraith, Creatures - Spriggans, and Creatures - Wispmother. Select Lean Wolf's Better Shaped Weapons Dawnbreaker - default sheath, then select NO Dawnbreaker DSR option. Do not tick any of the boxes at the bottom, then press Install. A box will pop-up saying "The following files or folders were not found in the archive". Press Install anyway. A fix for this will be downloaded later.
    - Install it under the name **[NoDelete] [003.79] ENB Light**
@@ -458,7 +458,7 @@ Name it **[NoDelete] [030.29] Septimus Extended - Textures - Super SUPER Optiona
 **My theme of MO2 may be different than yours, but that's okay it'll all work the same!**
    - Just double-check to make sure your .esps look like this (it may be different depending on which sections you downloaded):
 
-![Image 11](https://i.imgur.com/01av2Wf.png)
+![Image 11](https://i.imgur.com/bgZPrg1.png)
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
