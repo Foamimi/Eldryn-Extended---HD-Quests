@@ -279,11 +279,118 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 76.) Download [Ancient Dwemer Metal - Spider Gem Restored](https://www.nexusmods.com/skyrimspecialedition/mods/72640?tab=files&file_id=304455&nmm=1).
    - Install it under the name **[NoDelete] [003.78] Ancient Dwemer Metal - Spider Gem Restored**
 
-### Snag the megapatch from here for the **SUPER OPTIONAL** section: [ N/A - NO PATCH NEEDED for this section! ]
+### Snag the megapatch from here for the **DWEMER TEXTURES** section: [ N/A - NO PATCH NEEDED for this section! ]
+
+## ENB Lights (OPTIONAL! FEEL FREE TO SKIP!)
+
+![Image 8]()
+
+77.) Download [X]().
+   - Install it under the name **X**
+
+78.) Download [X]().
+   - Install it under the name **X**
+
+79.) Download [X]().
+   - Install it under the name **X**
+
+80.) Download [X]().
+   - Install it under the name **X**
+
+81.) Download [X]().
+   - Install it under the name **X**
+
+82.) Download [X]().
+   - Install it under the name **X**
+
+83.) Download [X]().
+   - Install it under the name **X**
+
+84.) Download [X]().
+   - Install it under the name **X**
+
+85.) Download [X]().
+   - Install it under the name **X**
+
+86.) Download [X]().
+   - Install it under the name **X**
+
+87.) Download [X]().
+   - Install it under the name **X**
+
+88.) Download [X]().
+   - Install it under the name **X**
+
+89.) Download [X]().
+   - Install it under the name **X**
+
+90.) Download [X]().
+   - Install it under the name **X**
+
+91.) Download [X]().
+   - Install it under the name **X**
+
+92.) Download [X]().
+   - Install it under the name **X**
+
+93.) Download [X]().
+   - Install it under the name **X**
+
+94.) Download [X]().
+   - Install it under the name **X**
+
+95.) Download [X]().
+   - Install it under the name **X**
+
+96.) Download [X]().
+   - Install it under the name **X**
+
+97.) Download [X]().
+   - Install it under the name **X**
+
+98.) Download [X]().
+   - Install it under the name **X**
+
+99.) Download [X]().
+   - Install it under the name **X**
+
+100.) Download [X]().
+   - Install it under the name **X**
+
+101.) Download [X]().
+   - Install it under the name **X**
+
+102.) Download [X]().
+   - Install it under the name **X**
+
+103.) Download [X]().
+   - Install it under the name **X**
+
+104.) Download [X]().
+   - Install it under the name **X**
+
+105.) Download [X]().
+   - Install it under the name **X**
+
+106.) Download [X]().
+   - Install it under the name **X**
+
+107.) Download [X]().
+   - Install it under the name **X**
+
+108.) Download [X]().
+   - Install it under the name **X**
+
+109.) Download [X]().
+   - Install it under the name **X**
+
+### Snag the megapatch from here for the **ENB LIGHTS** section: [ [DOWNLOAD](X) ] ("View raw" button)
+
+Name it **X**, and place the .esp directly AFTER X.esp.
 
 ## Super Optional (OPTIONAL! FEEL FREE TO SKIP!)
 
-![Image 8](https://i.imgur.com/smFDBmT.png)
+![Image 9](https://i.imgur.com/smFDBmT.png)
 
 75.) Download [ElSopa - High Quality Doll Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/47703?tab=files&file_id=194275&nmm=1).
    - Install it under the name **[NoDelete] [77c] ElSopa - High Quality Doll Replacer**
@@ -298,7 +405,7 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 
 ## Super SUPER Optional (OPTIONAL! FEEL FREE TO SKIP!)
 
-![Image 9](https://i.imgur.com/ZXERKAu.png)
+![Image 10](https://i.imgur.com/ZXERKAu.png)
 
 **WARNING** - Footprints is a script-heavy mod! You can install it mid-through, but you **CANNOT UNINSTALL mid-playthrough**! Be wise with your choice! You also must **COMPLETE the quest UNBOUND** for it to show up in-game!
 
@@ -335,7 +442,7 @@ Name it **[NoDelete] [88c] Septimus Extended - Textures - Super SUPER Optional M
 **My theme of MO2 may be different than yours, but that's okay it'll all work the same!**
    - Just double-check to make sure your .esps look like this (it may be different depending on which sections you downloaded):
 
-![Image 6](https://i.imgur.com/01av2Wf.png)
+![Image 11](https://i.imgur.com/01av2Wf.png)
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
@@ -354,6 +461,7 @@ Name it **[NoDelete] [88c] Septimus Extended - Textures - Super SUPER Optional M
    - Added Spiders of Solstheim - Transparency Fix
    - Added Ancient Amidianborn Dwarven Metal Armory
    - Removed Mari's Flora as the setup for Septimus is great on it's own anyway.
+   - Renamed everything (again) to actually sort correctly when using multiple addons. SORRY FOR ALL THE RENAMING! This should be the last renaming thing for a while.
 
 1.0.2 
    - Added new "Dwemer Textures" optional section
