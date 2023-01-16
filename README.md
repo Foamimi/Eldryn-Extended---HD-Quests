@@ -301,7 +301,7 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 79.) Download [ENB Light - Vanilla Torch Mesh Fix](https://www.nexusmods.com/skyrimspecialedition/mods/63302?tab=files&file_id=262727&nmm=1).
    - Install it under the name **[NoDelete] [003.81] ENB Light - Vanilla Torch Mesh Fix**
 
-80.) Download [Optimized ENB Light Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/68843?tab=files&file_id=290500&nmm=1). In the FOMOD, select Default flame effects, then press Next, then press Install. 
+80.) Download [Optimized ENB Light Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/68843?tab=files&file_id=290500&nmm=1). In the FOMOD, select No flame glow, then press Next, then press Install. 
    - Install it under the name **[NoDelete] [003.82] Optimized ENB Light Meshes**
 
 81.) Download [Optimized ENB Light Meshes - Ruins Clutter Improved](https://www.nexusmods.com/skyrimspecialedition/mods/68843?tab=files&file_id=290387&nmm=1).
@@ -484,6 +484,7 @@ Name it **[NoDelete] [030.30] Septimus Extended - Textures - Super SUPER Optiona
    - Added new "ENB Lights" optional section
    - Added Remove Ugly Torch Glow
    - Updated instructions for Arctic - Frost Effects Redux to hide specific files.
+   - Updated instructions for Optimized ENB Light Meshes for the FOMOD options.
    - Removed Mari's Flora as the setup for Septimus is great on it's own anyway.
    - Renamed everything (again) to actually sort correctly when using multiple addons. SORRY FOR ALL THE RENAMING! This should be the last renaming thing for a while.
    - **Save game safe update.**
