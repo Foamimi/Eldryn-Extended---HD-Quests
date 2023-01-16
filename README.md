@@ -463,6 +463,7 @@ Name it **[NoDelete] [030.30] Septimus Extended - Textures - Super SUPER Optiona
 
 **My theme of MO2 may be different than yours, but that's okay it'll all work the same!**
    - Just double-check to make sure your .esps look like this (it may be different depending on which sections you downloaded):
+   - **NOTE** - I took this picture without Optimized ENB Light Meshes enabled, but on your end if you downloaded it, the esp should go directly after ENB Light.esp.
 
 ![Image 11](https://i.imgur.com/bgZPrg1.png)
 
