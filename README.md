@@ -1,4 +1,4 @@
-# Septimus-Extended---Textures Addon
+# Redoran-Extended---Textures Addon
 
 ![Image 0](https://i.imgur.com/WwwGBD8.png)
 
@@ -409,7 +409,7 @@ Name it **[NoDelete] [030.30] Redoran Extended - Textures - Super SUPER Optional
 
    - **Currently in the process of testing with version 1.0.0+ of Redoran.**
    - **Currently works with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md).**
-   - **Currently works with [Redoran-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue).**
+   - **Currently works with [Redoran-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/README.md).**
    - **Currently works with [Redoran-Extended - 3DNPC Addon](https://github.com/Foamimi/Redoran---3DNPC-Addon/blob/main/README.md).**
 
 # Changelog
