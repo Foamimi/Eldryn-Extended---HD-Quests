@@ -12,7 +12,7 @@ Works on **EXISTING SAVES**.
 
 First of all, we're going to right-click on the left side of MO2 and highlight the "All Mods" option, then click the dropdown of "Create separator above". We'll call it **[NoDelete] [003.00] REDORAN EXTENDED - TEXTURES**. All of the following mods will be installed under this separator, and the separator itself will go just below the separator called "THE DANGER ZONE". 
 
-All the plugins going forward will be at the very bottom, **BELOW all of the Septimus patches** but **BEFORE DynDOLOD.esp**.
+All the plugins going forward will be at the very bottom, **BELOW all of the Redoran patches** but **BEFORE DynDOLOD.esp**.
 
 ## General (OPTIONAL! FEEL FREE TO SKIP!)
 
