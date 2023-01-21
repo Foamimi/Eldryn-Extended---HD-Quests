@@ -18,9 +18,6 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Sep
 
 ![Image 1](https://i.imgur.com/yCJC71y.png)
 
-1.) Download [SMIM - Noble Skyrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/21034?tab=files&file_id=71418&nmm=1).
-   - Install it under the name **[NoDelete] [003.01] SMIM - Alternate Retextures for Wood in Mines Patch**
-
 2.) Download [High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/12029?tab=files&file_id=236420&nmm=1). In the FOMOD, select Install Everything. Don't tick anything on the next page, and press Install.
    - Install it under the name **[NoDelete] [003.02] High Poly Project**
 
@@ -30,39 +27,12 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Sep
 4.) Download [High Poly Project - My fixes SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/63425?tab=files&file_id=333335&nmm=1).
    - Install it under the name **[NoDelete] [003.04] HPP - My Fixes by Xtudo - AIO Vanilla**
 
-5.) Download [Forgotten Retex Project](https://www.nexusmods.com/skyrimspecialedition/mods/7849?tab=files&file_id=317130&nmm=1). In the FOMOD, tick both options and press Install.
-   - Install it under the name **[NoDelete] [003.05] Forgotten Retex Project**
-
-6.) Download [Rally's All The Things](https://www.nexusmods.com/skyrimspecialedition/mods/33669?tab=files&file_id=273463&nmm=1). In the FOMOD, press Next, untick Rally's Ants then press Next, Fancy 512, Blackreach and Glowing Mushrooms 4K-2K, Clean, tick Gimmie That, Tourchbugs ENB Light, and Green Moth ENB Light, tick New Candle Flames and Reduced Candled Glow, untick City and Market Stall Roofs, Lore Version, 2K, make sure New Dark Elf Furniture is ticked, Dark Brotherhood Door, Window and Banners 2K, Root Wood, make sure Rally's Farming Tools is ticked and do not tick optional Wooden Shovel, make sure Fishing Pole is ticked, None, Desaturated, Rusty - ENV, New Vanilla Version, None, Jurgen Windcaller Tomb 4K, Lava 4K, select No Stones and Sewers No Stones, make sure Gimmie that! is ticked, make sure Nightingale Clutter is ticked, select Enhanced Vanilla and Golden-Red, None, make sure Quill and Inkwell is ticked, select None and do not tick Plugin, select Road Signs 2K and tick Bruma 2K and Wyrmstooth Patch 2K, Copper 1K, select Smithy 4K-2K and Smelter 2K, select Default and None, Black, Wall of Kings, None, Werewolf Totems 2K - 1K, then press Install **(woo! big FOMOD lol)**.
-   - Install it under the name **[NoDelete] [003.06] Rally's All The Things**
-
-7.) Download [Rudy HQ - Miscellaneous SE](https://www.nexusmods.com/skyrimspecialedition/mods/19867?tab=files&file_id=169509&nmm=1). In the FOMOD, select Rudy HQ Silverware for Rustic Silverware for the top portion, then for the bottom, select None and press Next. Only tick Rudy HQ Imperial Candles and Rudy HQ Nordic Ruins Candles in the top section titled "Additional HQ candle models" then press Next. In the top section titled "HQ Glazed pottery" select Rudy HQ Glazed Pottery Vanilla Style 2K. Select None in the bottom section and press Next. Select Rudy HQ Brown Textures for Dungeon Pottery 2K and press Next. Tick all three options and press Next. Tick 1K textures for the candles and press Install.
-   - Install it under the name **[NoDelete] [003.07] Rudy HQ - Miscellaneous**
-
-8.) Download [Spiders of Solstheim - Transparency Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60012?tab=files&file_id=248753&nmm=1).
-   - Install it under the name **[NoDelete] [003.08] Spiders of Solstheim - Transparency Fix**
-
-9.) Download [aMidianBorn Book of Silence - Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/35382?tab=files&file_id=148033&nmm=1). In the FOMOD, select Custom and press Next. Tick Seleton, select Dragon Priest - Concept Edition, select Draugr - Concept Edition, tick Falmer, tick Chaurus, then press Install.
-   - Install it under the name **[NoDelete] [003.09] aMidianBorn Book of Silence - Creatures**
-
-10.) Download [aMidianBorn Book of Silence - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/35382?tab=files&file_id=148071&nmm=1). In the FOMOD, select Custom and press Next. Select Black Fur (default), tick Bonemold Armor, tick Acolyte Masks, tick Dragon Priest Acolytes, tick Hulking Draugr, tick Ash Spawn, tick Ash Guardian, then press Install.
-   - Install it under the name **[NoDelete] [003.10] aMidianBorn Book of Silence - Dragonborn**
-
-11.) Download [Vampire Lord Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/8402?tab=files&file_id=20806&nmm=1).
-   - Install it under the name **[NoDelete] [003.11] Vampire Lord Retexture**
-
-12.) Download [Female Vampire Lord Breastplate](https://www.nexusmods.com/skyrimspecialedition/mods/13565?tab=files&file_id=39085&nmm=1).
-   - Install it under the name **[NoDelete] [003.12] Female Vampire Lord Breastplate**
-
-13.) Download [Frankly HD Dragon Bones](https://www.nexusmods.com/skyrimspecialedition/mods/25099?tab=files&file_id=88687&nmm=1).
-   - Install it under the name **[NoDelete] [003.13] Frankly HD Dragon Bones**
-
 14.) Download [WiZkiD Hagraven Clutter and Bones](https://www.nexusmods.com/skyrimspecialedition/mods/49277?tab=files&file_id=201115&nmm=1). In the FOMOD, select 2K and tick the High Poly Projectl patch, then press Install.
    - Install it under the name **[NoDelete] [003.14] WiZkiD Hagraven Clutter and Bones**
    
-### Snag the megapatch from here for the **GENERAL** section: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---Textures/blob/master/Septimus%20Extended%20-%20Textures%20-%20General%20Megapatch.7z) ] ("View raw" button)
+### Snag the megapatch from here for the **GENERAL** section: [ [DOWNLOAD](X) ] ("View raw" button)
 
-Name it **[NoDelete] [003.15] Septimus Extended - Textures - General Megapatch**, and place the .esp directly AFTER Rudy Nordic Pottery SSE.esp. 
+Name it **[NoDelete] [003.15] Redoran Extended - Textures - General Megapatch**, and place the .esp directly AFTER X. 
 
 ## Armors (OPTIONAL! FEEL FREE TO SKIP!)
 
@@ -116,9 +86,6 @@ Name it **[NoDelete] [003.15] Septimus Extended - Textures - General Megapatch**
 30.) Download [Frankly HD Stormcloak and City Guards - Fixed Falkreath Matched Color Fix](https://www.nexusmods.com/skyrim/mods/105845?tab=files&file_id=1000329626&nmm=1).
    - Install it under the name **[NoDelete] [003.31] Frankly HD Stormcloak and City Guards - Fixed Fix**
 
-31.) Download [Open Face Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/13943?tab=files&file_id=120563&nmm=1).
-   - Install it under the name **[NoDelete] [003.32] Open Face Guard Helmets**
-
 32.) Download [Dovah Sonaak - Dragon Priest Masks SE](https://www.nexusmods.com/skyrimspecialedition/mods/23251?tab=files&file_id=81045&nmm=1). In the FOMOD, select Next, select Don't Install and press Next, select Don't Install and press Next, select Don't Install and press Next, press Next, select Konahrik - Frankly HD Gold and press Install.
    - Install it under the name **[NoDelete] [003.33] Masks of the ﻿Dovah Sonaak**
    
@@ -137,15 +104,6 @@ Name it **[NoDelete] [003.15] Septimus Extended - Textures - General Megapatch**
 35.) Download [DimmerFog 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/7397?tab=files&file_id=20517&nmm=1). In the FOMOD, select Main Not Installed in the top portion, then in the bottom portion, select Optionals Reduced, then press Install. 
    - Install it under the name **[NoDelete] [003.36] DimmerFog 2.0**
 
-36.) Download [Deadly Spell Impacts](https://www.nexusmods.com/skyrimspecialedition/mods/12939?tab=files&file_id=36481&nmm=1). In the FOMOD, select Custom and press Next. Select One Fire Impact (Default), Alternative 1, Default, Alternative 1, then press Install.
-   - Install it under the name **[NoDelete] [003.37] Deadly Spell Impacts**
-
-37.) Download [Deadly Spell Impacts Transparency Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41284?tab=files&file_id=251343&nmm=1).
-   - Install it under the name **[NoDelete] [003.38] Deadly Spell Impacts Transparency Fix for ENB**
-
-38.) Download [Deadly Spell Impacts for Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/71724?tab=files&file_id=300447&nmm=1).
-   - Install it under the name **[NoDelete] [003.39] Deadly Spell Impacts for Mysticism**
-
 39.) Download [Inferno - Fire Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files&file_id=317399&nmm=1). In the FOMOD, select Next, ENB Light, 2x, Normal, Realistic Hue, 1x, Ember HD, and tick the Flame Meshes Patch (ESL-Tagged) option, then press Install. 
    - Install it under the name **[NoDelete] [003.40] Inferno - Fire Effects Redux**
 
@@ -161,15 +119,6 @@ Name it **[NoDelete] [003.15] Septimus Extended - Textures - General Megapatch**
 42.) Download [Splashes Of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files&file_id=322517&nmm=1). In the FOMOD, select SSE v1.6.629+ ("Anniversary Edition"), then press Install.
    - Install it under the name **[NoDelete] [003.43] Splashes of Skyrim**
 
-43.) Download [Remove Small Rocks](https://www.nexusmods.com/skyrimspecialedition/mods/8733?tab=files&file_id=150621&nmm=1).
-   - Install it under the name **[NoDelete] [003.44] Remove Small Rocks**
-
-44.) Download [Remove Small Rocks - Depths of Skyrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/8733?tab=files&file_id=234997&nmm=1).
-   - Install it under the name **[NoDelete] [003.45] Remove Small Rocks - Depths of Skyrim Patch**
-
-45.) Download [Remove Small Rocks - Folkvangr Patch](https://www.nexusmods.com/skyrimspecialedition/mods/8733?tab=files&file_id=281380&nmm=1).
-   - Install it under the name **[NoDelete] [003.46] Remove Small Rocks - Folkvangr Patch**
-
 46.) Download [Medieval Candlehorns and Sconces](https://www.nexusmods.com/skyrimspecialedition/mods/24324?tab=files&file_id=97446&nmm=1). In the FOMOD, select No Smoke Effect, Version 1, then press Install.
    - Install it under the name **[NoDelete] [003.47] Medieval Candlehorns and Sconces**
 
@@ -182,12 +131,6 @@ Name it **[NoDelete] [003.15] Septimus Extended - Textures - General Megapatch**
 49.) Download [JS Instruments of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/51959?tab=files&file_id=213096&nmm=1).
    - Install it under the name **[NoDelete] [003.50] JS Instruments of Skyrim**
 
-50.) Download [Gemling Queen Jewelry SE](https://www.nexusmods.com/skyrimspecialedition/mods/4294?tab=files&file_id=9441&nmm=1). In the FOMOD, tick everything on the first page, then press Next. Select Gamwich Amulet Textures - 1024, then in the top part of the next page, select Gamwich Ring Textures - Combined - 1k under the "Ring Texture Options". Select None in the bottom section and do not tick the bottom box, then press Install. 
-   - Install it under the name **[NoDelete] [003.51] Gemling Queen Jewelry**
-
-51.) Download [Beyond Skyrim - Bruma - Gemling Queen Jewelry Patch](https://www.nexusmods.com/skyrimspecialedition/mods/35876?tab=files&file_id=139545&nmm=1).
-   - Install it under the name **[NoDelete] [003.52] Beyond Skyrim - Bruma - Gemling Queen Jewelry Patch**
-
 52.) Download [RUSTIC AMULETS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/35485?tab=files&file_id=144580&nmm=1).
    - Install it under the name **[NoDelete] [003.53] RUSTIC AMULETS**
 
@@ -197,13 +140,11 @@ Name it **[NoDelete] [003.15] Septimus Extended - Textures - General Megapatch**
 54.) Download [Serana Doll Replacer for Bloodchill Manor's Vampire Doll](https://www.nexusmods.com/skyrimspecialedition/mods/73501?tab=files&file_id=308066&nmm=1).
    - Install it under the name **[NoDelete] [003.55] Serana Doll Replacer for Bloodchill Manor's Vampire Doll**
    
-### Snag the megapatch from here for the **MISCELLANEOUS** section: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---Textures/blob/master/Septimus%20Extended%20-%20Textures%20-%20Miscellaneous%20Megapatch.7z) ] ("View raw" button)
+### Snag the megapatch from here for the **MISCELLANEOUS** section: [ [DOWNLOAD](X) ] ("View raw" button)
 
-Name it **[NoDelete] [003.56] Septimus Extended - Textures - Miscellaneous Megapatch**, and place the .esp directly AFTER GQJ_DG_vampireamuletfix.esp. 
+Name it **[NoDelete] [003.56] Redoran Extended - Textures - Miscellaneous Megapatch**, and place the .esp directly AFTER X. 
 
 ## Dwemer Textures (OPTIONAL! FEEL FREE TO SKIP!)
-
-**WARNING** - This section will cause the dwemer textures in the starting Septimus room to appear a dark blueish color. I'm currently trying to pinpoint the cause of this so I can write down which files to hide, but in the meantime, they will just be... blue.
 
 ![Image 4](https://i.imgur.com/K5fFPal.png)
 
@@ -403,12 +344,9 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 107.) Download [Wyrmstooth Animated ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/72668?tab=files&file_id=304530&nmm=1).
    - Install it under the name **[NoDelete] [030.16] Wyrmstooth Animated ENB Light**
 
-108.) Download [Remove Ugly Torch Glow](https://www.nexusmods.com/skyrimspecialedition/mods/26687?tab=files&file_id=96296&nmm=1).
-   - Install it under the name **[NoDelete] [030.17] Remove Ugly Torch Glow**
+### Snag the megapatch from here for the **ENB LIGHTS** section: [ [DOWNLOAD](X) ] ("View raw" button)
 
-### Snag the megapatch from here for the **ENB LIGHTS** section: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---Textures/blob/master/Septimus%20Extended%20-%20Textures%20-%20ENB%20Lights%20Megapatch.7z) ] ("View raw" button)
-
-Name it **[NoDelete] [030.18] Septimus Extended - Textures - ENB Lights Megapatch**, and place the .esp directly AFTER Elytra ENB Light.esp.
+Name it **[NoDelete] [030.18] Redoran Extended - Textures - ENB Lights Megapatch**, and place the .esp directly AFTER X.
 
 ## Super Optional (OPTIONAL! FEEL FREE TO SKIP!)
 
@@ -457,7 +395,7 @@ Name it **[NoDelete] [030.18] Septimus Extended - Textures - ENB Lights Megapatc
 
 ### Snag the megapatch from here for the **SUPER SUPER OPTIONAL** section: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---Textures/blob/master/Septimus%20Extended%20-%20Textures%20-%20Super%20SUPER%20Optional%20Megapatch.7z) ] ("View raw" button)
 
-Name it **[NoDelete] [030.30] Septimus Extended - Textures - Super SUPER Optional Megapatch**, and place the .esp directly AFTER FootprintsSand-patch.esp. 
+Name it **[NoDelete] [030.30] Redoran Extended - Textures - Super SUPER Optional Megapatch**, and place the .esp directly AFTER X. 
 
 # Last Steps
 
@@ -469,14 +407,37 @@ Name it **[NoDelete] [030.30] Septimus Extended - Textures - Super SUPER Optiona
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
-   - **Currently in the process of testing with version 1.0.8+ of Septimus.**
-   - **Currently works with [Septimus-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/README.md).**
-   - **Currently works with [Septimus-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/README.md).**
-   - **Currently works with [Septimus-Extended - 3DNPC Addon](https://github.com/Foamimi/Septimus---3DNPC-Addon/blob/main/README.md).**
+   - **Currently in the process of testing with version 1.0.0+ of Redoran.**
+   - **Currently works with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md).**
+   - **Currently works with [Redoran-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue).**
+   - **Currently works with [Redoran-Extended - 3DNPC Addon](https://github.com/Foamimi/Redoran---3DNPC-Addon/blob/main/README.md).**
 
 # Changelog
 
-**IMPORTANT** - If updating Septimus (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire series of Texture addons, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
+**IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire series of Texture addons, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
+
+2.0.0
+   - Removed SMIM - Noble Skyrim Patch
+   - Removed Forgotten Retex Project
+   - Removed Rally's All The Things
+   - Removed Rudy HQ - Miscellaneous SE
+   - Removed Spiders of Solstheim - Transparency Fix
+   - Removed aMidianBorn Book of Silence - Creatures
+   - Removed aMidianBorn Book of Silence - Dragonborn
+   - Removed Vampire Lord Retexture
+   - Removed Female Vampire Lord Breastplate
+   - Removed Frankly HD Dragon Bones
+   - Removed WiZkiD Hagraven Clutter and Bones
+   - Removed Open Face Guard Helmets
+   - Removed Deadly Spell Impacts
+   - Removed Deadly Spell Impacts Transparency Fix for ENB
+   - Removed Deadly Spell Impacts for Mysticism
+   - Removed Remove Small Rocks
+   - Removed Remove Small Rocks - Depths of Skyrim Patch
+   - Removed Remove Small Rocks - Folkvangr Patch
+   - Removed Gemling Queen Jewelry SE
+   - Removed Beyond Skyrim - Bruma - Gemling Queen Jewelry Patch
+   - Removed Remove Ugly Torch Glow
 
 1.0.3
    - Added SMIM - Alternate Retextures for Wood in Mines Patch
