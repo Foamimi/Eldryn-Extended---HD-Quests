@@ -222,6 +222,9 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 73.) Download [Ancient Dwemer Metal - The Tools of Kagrenac Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=249458&nmm=1).
    - Install it under the name **[NoDelete] [003.75] Ancient Dwemer Metal - The Tools of Kagrenac Patch**
 
+73.) Download [Ancient Dwemer Metal - Clockwork Patch](X).
+   - Install it under the name **[NoDelete] [003.75] Ancient Dwemer Metal - Clockwork Patch**
+
 74.) Download [Ancient Amidianborn Dwarven Metal Armory](https://www.nexusmods.com/skyrimspecialedition/mods/38316?tab=files&file_id=152230&nmm=1).
    - Install it under the name **[NoDelete] [003.76] Ancient Amidianborn Dwarven Metal Armory**
 
@@ -435,6 +438,7 @@ Name it **[NoDelete] [030.30] Redoran Extended - Textures - Super SUPER Optional
    - Added Unique Barbas
    - Added Unique Barbas Retexture - Fluffworks and ENB Light Addon
    - Added The Elder Scrolls V Rewritten - Arvak SE
+   - Added Ancient Dwemer Metal - Clockwork Patch
    - Removed Cathedral 3D Deathbell - ENB Particle Light - Glowmap Patch
    - Removed SMIM - Noble Skyrim Patch
    - Removed Forgotten Retex Project
