@@ -27,8 +27,14 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 4.) Download [High Poly Project - My fixes SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/63425?tab=files&file_id=333335&nmm=1).
    - Install it under the name **[NoDelete] [003.04] HPP - My Fixes by Xtudo - AIO Vanilla**
 
-14.) Download [WiZkiD Hagraven Clutter and Bones](https://www.nexusmods.com/skyrimspecialedition/mods/49277?tab=files&file_id=201115&nmm=1). In the FOMOD, select 2K and tick the High Poly Projectl patch, then press Install.
-   - Install it under the name **[NoDelete] [003.14] WiZkiD Hagraven Clutter and Bones**
+14.) Download [WiZkiD Hagraven Clutter and Bones - HPP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49277?tab=files&file_id=201115&nmm=1). In the FOMOD, select 2K and tick the High Poly Projectl patch, then press Install.
+   - Install it under the name **[NoDelete] [003.14] WiZkiD Hagraven Clutter and Bones - HPP Patch**
+
+14.) Download [Unique Barbas Retexture](X). 
+   - Install it under the name **[NoDelete] [003.14] Unique Barbas Retexture**
+
+14.) Download [The Elder Scrolls V Rewritten - Arvak SE](X). 
+   - Install it under the name **[NoDelete] [003.14] The Elder Scrolls V Rewritten - Arvak SE**
    
 ### Snag the megapatch from here for the **GENERAL** section: [ [DOWNLOAD](X) ] ("View raw" button)
 
@@ -314,8 +320,8 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 103.) Download [Rudy HQ - More Lights for ENB Decal Fix](https://www.nexusmods.com/skyrimspecialedition/mods/55582?tab=files&file_id=287665&nmm=1). In the FOMOD, everything should be automically ticked except for Patch for Rustic Soul Gems. Tick that Rustic option and untick the regular Soul Gems option. Then press Install.
    - Install it under the name **[NoDelete] [030.06] Rudy HQ - More Lights for ENB Decal Fix**
 
-104.) Download [Cathedral 3D Deathbell - ENB Particle Light - Glowmap Patch](https://www.nexusmods.com/skyrimspecialedition/mods/76473?tab=files&file_id=321519&nmm=1).
-   - Install it under the name **[NoDelete] [030.07] Cathedral 3D Deathbell - ENB Particle Light - Glowmap Patch**
+104.) Download [Cathedral - 3D Deathbell ENB-lights](X).
+   - Install it under the name **[NoDelete] [030.07] Cathedral - 3D Deathbell ENB-lights**
 
 105.) Download [Alchemy Ingredients ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/65509?tab=files&file_id=274977&nmm=1).
    - Install it under the name **[NoDelete] [030.08] Alchemy Ingredients ENB Light**
@@ -325,6 +331,9 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 
 107.) Download [Spiders of Solstheim - ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/64818?tab=files&file_id=274979&nmm=1).
    - Install it under the name **[NoDelete] [030.10] Spiders of Solstheim - ENB Light**
+
+107.) Download [Unique Barbas Retexture - Fluffworks and ENB Light Addon](https://www.nexusmods.com/skyrimspecialedition/mods/64818?tab=files&file_id=274979&nmm=1).
+   - Install it under the name **[NoDelete] [030.10] Unique Barbas Retexture - Fluffworks and ENB Light Addon**
 
 108.) Download [Ghosts of the Tribunal - Particle Lights for ENB Addon](https://www.nexusmods.com/skyrimspecialedition/mods/81783?tab=files&file_id=345472&nmm=1).
    - Install it under the name **[NoDelete] [030.11] Ghosts of the Tribunal - Particle Lights for ENB Addon**
@@ -378,6 +387,9 @@ Name it **[NoDelete] [030.18] Redoran Extended - Textures - ENB Lights Megapatch
 114.) Download [The Gray Cowl of Nocturnal SE - Addons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19724?tab=files&file_id=245471&nmm=1). In the FOMOD, only tick the Footprints for The Gray Cowl of Nocturnal Addon option, then press Install.
    - Install it under the name **[NoDelete] [030.24] The Gray Cowl of Nocturnal - Footprints Patch**   
 
+115.) Download [Vigilant - foootprints patch](X).
+   - Install it under the name **[NoDelete] [030.25] Vigilant - foootprints patch** 
+
 115.) Download [Footprints Sand Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50484?tab=files&file_id=250175&nmm=1).
    - Install it under the name **[NoDelete] [030.25] Footprints Sand Patch**   
 
@@ -393,7 +405,7 @@ Name it **[NoDelete] [030.18] Redoran Extended - Textures - ENB Lights Megapatch
 119.) Download [Footprints - Creation Club - Saturalia Holiday Pack](https://www.nexusmods.com/skyrimspecialedition/mods/77440?tab=files&file_id=325551&nmm=1).
    - Install it under the name **[NoDelete] [030.29] Footprints - Creation Club - Saturalia Holiday Pack**   
 
-### Snag the megapatch from here for the **SUPER SUPER OPTIONAL** section: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---Textures/blob/master/Septimus%20Extended%20-%20Textures%20-%20Super%20SUPER%20Optional%20Megapatch.7z) ] ("View raw" button)
+### Snag the megapatch from here for the **SUPER SUPER OPTIONAL** section: [ [DOWNLOAD](X) ] ("View raw" button)
 
 Name it **[NoDelete] [030.30] Redoran Extended - Textures - Super SUPER Optional Megapatch**, and place the .esp directly AFTER X. 
 
@@ -417,6 +429,13 @@ Name it **[NoDelete] [030.30] Redoran Extended - Textures - Super SUPER Optional
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire series of Texture addons, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
 
 2.0.0
+   - Added WiZkiD Hagraven Clutter and Bones - HPP Patch
+   - Added Vigilant - foootprints patch
+   - Added Cathedral - 3D Deathbell ENB-lights
+   - Added Unique Barbas
+   - Added Unique Barbas Retexture - Fluffworks and ENB Light Addon
+   - Added The Elder Scrolls V Rewritten - Arvak SE
+   - Removed Cathedral 3D Deathbell - ENB Particle Light - Glowmap Patch
    - Removed SMIM - Noble Skyrim Patch
    - Removed Forgotten Retex Project
    - Removed Rally's All The Things
