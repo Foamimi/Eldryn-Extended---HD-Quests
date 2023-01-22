@@ -35,6 +35,12 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
 14.) Download [The Elder Scrolls V Rewritten - Arvak SE](X). 
    - Install it under the name **[NoDelete] [003.14] The Elder Scrolls V Rewritten - Arvak SE**
+
+14.) Download [Fancy Sleeping Tree Replacer](X). 
+   - Install it under the name **[NoDelete] [003.14] Fancy Sleeping Tree Replacer**
+
+14.) Download [ElSopa - Carved Gildergreen HD](X). 
+   - Install it under the name **[NoDelete] [003.14] ElSopa - Carved Gildergreen HD**
    
 ### Snag the megapatch from here for the **GENERAL** section: [ [DOWNLOAD](X) ] ("View raw" button)
 
@@ -439,6 +445,8 @@ Name it **[NoDelete] [030.30] Redoran Extended - Textures - Super SUPER Optional
    - Added Unique Barbas Retexture - Fluffworks and ENB Light Addon
    - Added The Elder Scrolls V Rewritten - Arvak SE
    - Added Ancient Dwemer Metal - Clockwork Patch
+   - Added Fancy Sleeping Tree Replacer
+   - Added ElSopa - Carved Gildergreen HD
    - Removed Cathedral 3D Deathbell - ENB Particle Light - Glowmap Patch
    - Removed SMIM - Noble Skyrim Patch
    - Removed Forgotten Retex Project
