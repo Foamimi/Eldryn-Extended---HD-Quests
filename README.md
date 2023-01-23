@@ -447,6 +447,15 @@ Name it **[NoDelete] [030.30] Redoran Extended - Textures - Super SUPER Optional
    - Added Ancient Dwemer Metal - Clockwork Patch
    - Added Fancy Sleeping Tree Replacer
    - Added ElSopa - Carved Gildergreen HD
+   - Added Canticle Tree - Bark - and Draw Knife Retexture
+   - Added TROLL
+   - Added GIANT
+   - Added HAGRAVEN
+   - Added WISPMOTHER
+   - Added RUSTIC DEATH HOUND and GARGOYLE - Special Edition
+   - Added ElSopa HD - Dirt Blast SE
+   - Added Retexture for The Scroll SE
+   - Added Falmer Blood Elixir Replacer
    - Removed Cathedral 3D Deathbell - ENB Particle Light - Glowmap Patch
    - Removed SMIM - Noble Skyrim Patch
    - Removed Forgotten Retex Project
