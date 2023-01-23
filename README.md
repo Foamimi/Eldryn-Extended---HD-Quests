@@ -456,6 +456,10 @@ Name it **[NoDelete] [030.30] Redoran Extended - Textures - Super SUPER Optional
    - Added ElSopa HD - Dirt Blast SE
    - Added Retexture for The Scroll SE
    - Added Falmer Blood Elixir Replacer
+   - Added Stalhrim Refrozen
+   - Added Thrones of Skyrim
+   - Added Vanilla Table Replacers
+   - Added HD Werewolves - With support for Moonlight Tales and Automatic Variants
    - Removed Cathedral 3D Deathbell - ENB Particle Light - Glowmap Patch
    - Removed SMIM - Noble Skyrim Patch
    - Removed Forgotten Retex Project
