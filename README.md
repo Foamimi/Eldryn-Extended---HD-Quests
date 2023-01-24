@@ -46,61 +46,6 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
 Name it **[NoDelete] [003.15] Redoran Extended - Textures - General Megapatch**, and place the .esp directly AFTER X. 
 
-## Armors (OPTIONAL! FEEL FREE TO SKIP!)
-
-![Image 2](https://i.imgur.com/uxBofKC.png)
-
-15.) Download [RUSTIC ARMOR and WEAPONS](https://www.nexusmods.com/skyrimspecialedition/mods/19666?tab=files&file_id=69261&nmm=1).
-   - Install it under the name **[NoDelete] [003.16] RUSTIC ARMOR and WEAPONS**
-
-16.) Download [Frankly HD Dawnguard Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/19663?tab=files) under main files named "FranklyHD Dawnguard Armor and Weapons". In the FOMOD, select 2K Resolution, then press Install.
-   - Install it under the name **[NoDelete] [003.17] Frankly HD Dawnguard Armor and Weapons**
-
-17.) Download [Frankly HD Thieves Guild Armors](https://www.nexusmods.com/skyrimspecialedition/mods/19953?tab=files&file_id=66049&nmm=1). In the FOMOD, select 2K Resolution, then press Install.
-   - Install it under the name **[NoDelete] [003.18] Frankly HD Thieves Guild Armors**
-
-18.) Download [Frankly HD Nightingale Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/18560?tab=files&file_id=59909&nmm=1). In the FOMOD, select 2K, then press Next. Don't tick any of the options, then press Install. 
-   - Install it under the name **[NoDelete] [003.19] Frankly HD Nightingale Armor and Weapons**
-
-19.) Download [Frankly HD Nightingale Weapons - LeanWolf's BSW Patch](https://www.nexusmods.com/skyrimspecialedition/mods/18560?tab=files&file_id=66916&nmm=1).
-   - Install it under the name **[NoDelete] [003.20] Frankly HD Nightingale Weapons - LeanWolf's BSW Patch**
-
-20.) Download [Frankly HD Imperial Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/20848?tab=files&file_id=70590&nmm=1).
-   - Install it under the name **[NoDelete] [003.21] Frankly HD Imperial Armor and Weapons**
-
-21.) Download [Frankly HD Imperial Weapons - LeanWolf's BSW Patch](https://www.nexusmods.com/skyrimspecialedition/mods/20848?tab=files&file_id=70591&nmm=1).
-   - Install it under the name **[NoDelete] [003.22] Frankly HD Imperial Weapons - LeanWolf's BSW Patch**
-
-22.) Download [Frankly HD Imperial Armor - Sleeves and Pants Edition](https://www.nexusmods.com/skyrimspecialedition/mods/20848?tab=files&file_id=70592&nmm=1).
-   - Install it under the name **[NoDelete] [003.23] Frankly HD Imperial Armor - Sleeves and Pants Edition**
-
-23.) Download [Frankly HD Dragonbone and Dragonscale - Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/25110?tab=files&file_id=88740&nmm=1).
-   - Install it under the name **[NoDelete] [003.24] Frankly HD Dragonbone and Dragonscale - Armor and Weapons**
-
-24.) Download [Frankly HD Dragonbone and Dragonscale - Mesh Fix](https://www.nexusmods.com/skyrimspecialedition/mods/25110?tab=files&file_id=88745&nmm=1).
-   - Install it under the name **[NoDelete] [003.25] Frankly HD Dragonbone and Dragonscale - Mesh Fix**
-   
-25.) Download [Frankly HD Miraak](https://www.nexusmods.com/skyrimspecialedition/mods/19699?tab=files&file_id=64768&nmm=1). In the FOMOD, select 2K, then press Next. Select Vanilla Green and don't tick the bottom box, then press Install.
-   - Install it under the name **[NoDelete] [003.26] Frankly HD Miraak**
-
-26.) Download [Frankly HD Miraak - Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/19699?tab=files&file_id=64820&nmm=1).
-   - Install it under the name **[NoDelete] [003.27] Frankly HD Miraak - Hotfix**
-
-27.) Download [Frankly HD Shrouded Armor](https://www.nexusmods.com/skyrimspecialedition/mods/18785?tab=files&file_id=61496&nmm=1). In the FOMOD, select 2K, then press Next. Don't tick anything and press Install.
-   - Install it under the name **[NoDelete] [003.28] Frankly HD Shrouded Armor**
-
-28.) Download [Frankly HD Stormcloak and City Guards](https://www.nexusmods.com/skyrim/mods/42404?tab=files&file_id=1000055974&nmm=1).
-   - Install it under the name **[NoDelete] [003.29] Frankly HD Stormcloak and City Guards**
-   
-29.) Download [Frankly HD Stormcloak and City Guards - Fix](https://www.nexusmods.com/skyrim/mods/42404?tab=files&file_id=1000099270&nmm=1).
-   - Install it under the name **[NoDelete] [003.30] Frankly HD Stormcloak and City Guards - Fix**
-
-30.) Download [Frankly HD Stormcloak and City Guards - Fixed Falkreath Matched Color Fix](https://www.nexusmods.com/skyrim/mods/105845?tab=files&file_id=1000329626&nmm=1).
-   - Install it under the name **[NoDelete] [003.31] Frankly HD Stormcloak and City Guards - Fixed Fix**
-
-32.) Download [Dovah Sonaak - Dragon Priest Masks SE](https://www.nexusmods.com/skyrimspecialedition/mods/23251?tab=files&file_id=81045&nmm=1). In the FOMOD, select Next, select Don't Install and press Next, select Don't Install and press Next, select Don't Install and press Next, press Next, select Konahrik - Frankly HD Gold and press Install.
-   - Install it under the name **[NoDelete] [003.33] Masks of the ﻿Dovah Sonaak**
-   
 ### Snag the megapatch from here for the **ARMORS** section: [ N/A - NO PATCH NEEDED for this section! ]
 
 ## Miscellaneous (OPTIONAL! FEEL FREE TO SKIP!)
@@ -482,6 +427,17 @@ Name it **[NoDelete] [030.30] Redoran Extended - Textures - Super SUPER Optional
    - Removed Gemling Queen Jewelry SE
    - Removed Beyond Skyrim - Bruma - Gemling Queen Jewelry Patch
    - Removed Remove Ugly Torch Glow
+   - Removed Armors Optional Section
+   - Removed RUSTIC ARMOR and WEAPONS SE
+   - Removed Frankly HD Dawnguard Armor and Weapons
+   - Removed Frankly HD Thieves Guild Armors
+   - Removed Frankly HD Nightingale Armor and Weapons
+   - Removed Frankly HD Imperial Armor And Weapons
+   - Removed Frankly HD Dragonbone and Dragonscale
+   - Removed Frankly HD Miraak
+   - Removed Frankly HD Shrouded Armor
+   - Removed Frankly HD Stormcloak and City Guards
+   - Removed Dovah Sonaak - Dragon Priest Masks SE
 
 1.0.3
    - Added SMIM - Alternate Retextures for Wood in Mines Patch
