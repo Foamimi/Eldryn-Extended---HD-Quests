@@ -330,44 +330,43 @@ Name it **[NoDelete] [003.88] Redoran Extended - Textures - ENB Lights Megapatch
 
 **WARNING** - Footprints is a script-heavy mod! You can install it mid-through, but you **CANNOT UNINSTALL mid-playthrough**! Be wise with your choice! You also must **COMPLETE the quest UNBOUND** for it to show up in-game!
 
-112.) Download [Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/3808?tab=files&file_id=186188&nmm=1).
-   - Install it under the name **[NoDelete] [030.22] Footprints**   
+89.) Download [Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/3808?tab=files&file_id=186188&nmm=1).
+   - Install it under the name **[NoDelete] [003.92] Footprints**   
 
-113.) Download [Footprints - ENB Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3808?tab=files&file_id=186011&nmm=1).
-   - Install it under the name **[NoDelete] [030.23] Footprints - ENB Fix**   
+90.) Download [Footprints - ENB Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3808?tab=files&file_id=186011&nmm=1).
+   - Install it under the name **[NoDelete] [003.93] Footprints - ENB Fix**   
 
-114.) Download [The Gray Cowl of Nocturnal SE - Addons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19724?tab=files&file_id=245471&nmm=1). In the FOMOD, only tick the Footprints for The Gray Cowl of Nocturnal Addon option, then press Install.
-   - Install it under the name **[NoDelete] [030.24] The Gray Cowl of Nocturnal - Footprints Patch**   
+91.) Download [The Gray Cowl of Nocturnal SE - Addons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19724?tab=files&file_id=245471&nmm=1). In the FOMOD, only tick the Footprints for The Gray Cowl of Nocturnal Addon option, then press Install.
+   - Install it under the name **[NoDelete] [003.94] The Gray Cowl of Nocturnal - Footprints Patch**   
 
-115.) Download [Vigilant - foootprints patch](X).
-   - Install it under the name **[NoDelete] [030.25] Vigilant - foootprints patch** 
+92.) Download [Vigilant - foootprints patch](X).
+   - Install it under the name **[NoDelete] [003.95] Vigilant - foootprints patch** 
 
-115.) Download [Footprints Sand Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50484?tab=files&file_id=250175&nmm=1).
-   - Install it under the name **[NoDelete] [030.25] Footprints Sand Patch**   
+93.) Download [Footprints Sand Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50484?tab=files&file_id=250175&nmm=1).
+   - Install it under the name **[NoDelete] [003.96] Footprints Sand Patch**   
 
-116.) Download [SPID for Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/54924?tab=files&file_id=347974&nmm=1).
-   - Install it under the name **[NoDelete] [030.26] SPID for Footprints**   
+94.) Download [SPID for Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/54924?tab=files&file_id=347974&nmm=1).
+   - Install it under the name **[NoDelete] [003.97] SPID for Footprints**   
 
-117.) Download [SPID for Footprints Fix](https://www.nexusmods.com/skyrimspecialedition/mods/70978?tab=files&file_id=347983&nmm=1).
-   - Install it under the name **[NoDelete] [030.27] SPID for Footprints Fix**   
+95.) Download [SPID for Footprints Fix](https://www.nexusmods.com/skyrimspecialedition/mods/70978?tab=files&file_id=347983&nmm=1).
+   - Install it under the name **[NoDelete] [003.98] SPID for Footprints Fix**   
 
-118.) Download [SPID for Footprints - Player Footprints Fix](https://www.nexusmods.com/skyrimspecialedition/mods/78957?tab=files&file_id=348371&nmm=1).
-   - Install it under the name **[NoDelete] [030.28] SPID for Footprints - Player Footprints Fix**   
+96.) Download [SPID for Footprints - Player Footprints Fix](https://www.nexusmods.com/skyrimspecialedition/mods/78957?tab=files&file_id=348371&nmm=1).
+   - Install it under the name **[NoDelete] [003.99] SPID for Footprints - Player Footprints Fix**   
 
-119.) Download [Footprints - Creation Club - Saturalia Holiday Pack](https://www.nexusmods.com/skyrimspecialedition/mods/77440?tab=files&file_id=325551&nmm=1).
-   - Install it under the name **[NoDelete] [030.29] Footprints - Creation Club - Saturalia Holiday Pack**   
+97.) Download [Footprints - Creation Club - Saturalia Holiday Pack](https://www.nexusmods.com/skyrimspecialedition/mods/77440?tab=files&file_id=325551&nmm=1).
+   - Install it under the name **[NoDelete] [030.01] Footprints - Creation Club - Saturalia Holiday Pack**   
 
 ### Snag the megapatch from here for the **SUPER SUPER OPTIONAL** section: [ [DOWNLOAD](X) ] ("View raw" button)
 
-Name it **[NoDelete] [030.30] Redoran Extended - Textures - Super SUPER Optional Megapatch**, and place the .esp directly AFTER X. 
+Name it **[NoDelete] [030.02] Redoran Extended - Textures - Super SUPER Optional Megapatch**, and place the .esp directly AFTER X. 
 
 # Last Steps
 
 **My theme of MO2 may be different than yours, but that's okay it'll all work the same!**
    - Just double-check to make sure your .esps look like this (it may be different depending on which sections you downloaded):
-   - **NOTE** - I took this picture without Optimized ENB Light Meshes enabled, but on your end if you downloaded it, the esp should go directly after ENB Light.esp.
 
-![Image 11](https://i.imgur.com/bgZPrg1.png)
+![Image 11](X)
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
@@ -436,30 +435,3 @@ Name it **[NoDelete] [030.30] Redoran Extended - Textures - Super SUPER Optional
    - Removed Frankly HD Shrouded Armor
    - Removed Frankly HD Stormcloak and City Guards
    - Removed Dovah Sonaak - Dragon Priest Masks SE
-
-1.0.3
-   - Added SMIM - Alternate Retextures for Wood in Mines Patch
-   - Added Spiders of Solstheim - Transparency Fix
-   - Added Ancient Amidianborn Dwarven Metal Armory
-   - Added new "ENB Lights" optional section
-   - Added Remove Ugly Torch Glow
-   - Updated instructions for Arctic - Frost Effects Redux to hide specific files.
-   - Updated instructions for Optimized ENB Light Meshes for the FOMOD options.
-   - Removed Mari's Flora as the setup for Septimus is great on it's own anyway.
-   - Renamed everything (again) to actually sort correctly when using multiple addons. SORRY FOR ALL THE RENAMING! This should be the last renaming thing for a while.
-   - **Save game safe update.**
-
-1.0.2 
-   - Added new "Dwemer Textures" optional section
-   - Added Ancient Dwemer Metal
-   - Added Ancient Dwemer Metal (various patches and addons)
-   - Added new "Super SUPER Optional" optional section
-   - Added Footprints
-   - Added Footprints SPID (various fixes and addons)
-   - Renamed everything to have "c" at the end of each number. If you have installed mutliple addons, this will help sort them better for when the guide updates. 
-   -  **Save game safe update.**
-
-1.0.1
-   - Added Splashes Of Skyrim
-   - Removed PELTAPALOOZA as it was already in Septimus 
-   - **Save game safe update.**
