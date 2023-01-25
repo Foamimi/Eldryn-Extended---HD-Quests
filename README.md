@@ -49,7 +49,7 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
    
 ### Snag the megapatch from here for the **GENERAL** section: [ [DOWNLOAD](X) ] ("View raw" button)
 
-Name it **[NoDelete] [003.11] Redoran Extended - Textures - General Megapatch**, and place the .esp directly AFTER X. 
+Place the newly downloaded file into the area where you designated Redoran's Download folder to go. Once placed, you should see it on the right side of MO2 in the downloads tab with a red triangle next to the name. If it isn't, sort by Filetime (may need to do it twice) and it will flip the downloads to most recent. Double-click it, then proceed to installation. Name it **[NoDelete] [003.11] Redoran Extended - Textures - General Megapatch**, and place the .esp directly AFTER X. 
 
 ## Miscellaneous (OPTIONAL! FEEL FREE TO SKIP!)
 
