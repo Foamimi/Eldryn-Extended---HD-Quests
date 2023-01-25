@@ -109,53 +109,52 @@ Name it **[NoDelete] [003.26] Redoran Extended - Textures - Miscellaneous Megapa
 25.) Download [Ancient Dwemer Metal](https://www.nexusmods.com/skyrim/mods/75610?tab=files&file_id=1000213510&nmm=1).
    - Install it under the name **[NoDelete] [003.27] Ancient Dwemer Metal**
 
-56.) Download [Ancient Dwemer Metal - Automatons](https://www.nexusmods.com/skyrim/mods/75610?tab=files&file_id=1000213502&nmm=1).
-   - Install it under the name **[NoDelete] [003.58] Ancient Dwemer Metal - Automatons**
+26.) Download [Ancient Dwemer Metal - Automatons](https://www.nexusmods.com/skyrim/mods/75610?tab=files&file_id=1000213502&nmm=1).
+   - Install it under the name **[NoDelete] [003.28] Ancient Dwemer Metal - Automatons**
 
-57.) Download [Dwemer bronze and steel - Dwarven weapons recolor](https://www.nexusmods.com/skyrim/mods/30998?tab=files&file_id=1000007077&nmm=1).
-   - Install it under the name **[NoDelete] [003.59] Dwemer Bronze and Steel - Dwarven Weapons Recolor**
+27.) Download [Dwemer bronze and steel - Dwarven weapons recolor](https://www.nexusmods.com/skyrim/mods/30998?tab=files&file_id=1000007077&nmm=1).
+   - Install it under the name **[NoDelete] [003.29] Dwemer Bronze and Steel - Dwarven Weapons Recolor**
 
-58.) Download [Ancient Dwemer Metal - Converted Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=268909&nmm=1).
-   - Install it under the name **[NoDelete] [003.60] Ancient Dwemer Metal - Converted Meshes**
+28.) Download [Ancient Dwemer Metal - Converted Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=268909&nmm=1).
+   - Install it under the name **[NoDelete] [003.30] Ancient Dwemer Metal - Converted Meshes**
 
-59.) Download [Ancient Dwemer Metal - Vanilla - DLC - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=180928&nmm=1).
-   - Install it under the name **[NoDelete] [003.61] Ancient Dwemer Metal - Vanilla - DLC - SMIM**
+29.) Download [Ancient Dwemer Metal - Vanilla - DLC - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=180928&nmm=1).
+   - Install it under the name **[NoDelete] [003.31] Ancient Dwemer Metal - Vanilla - DLC - SMIM**
 
-60.) Download [Ancient Dwemer Metal - ANNIVERSARY EDITION](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=290809&nmm=1).
-   - Install it under the name **[NoDelete] [003.62] Ancient Dwemer Metal - ANNIVERSARY EDITION**
+30.) Download [Ancient Dwemer Metal - ANNIVERSARY EDITION](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=290809&nmm=1).
+   - Install it under the name **[NoDelete] [003.32] Ancient Dwemer Metal - ANNIVERSARY EDITION**
 
-61.) Download [Ancient Dwemer Metal - FINAL VERSION Update](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=332796&nmm=1).
-   - Install it under the name **[NoDelete] [003.63] Ancient Dwemer Metal - FINAL VERSION Update**
+31.) Download [Ancient Dwemer Metal - FINAL VERSION Update](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=332796&nmm=1).
+   - Install it under the name **[NoDelete] [003.33] Ancient Dwemer Metal - FINAL VERSION Update**
 
-62.) Download [Ancient Dwemer Metal - Forgotten Retex Project Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=195686&nmm=1).
-   - **IMPORTANT** - SKIP THIS PORTION IF you did NOT download Forgotten Retex Project from the first portion of the guide. If you DID download it, then this patch is for you.
-   - Install it under the name **[NoDelete] [003.64] Ancient Dwemer Metal - Forgotten Retex Project Patch**
+32.) Download [Ancient Dwemer Metal - Forgotten Retex Project Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=195686&nmm=1).
+   - Install it under the name **[NoDelete] [003.34] Ancient Dwemer Metal - Forgotten Retex Project Patch**
 
-63.) Download [Ancient Dwemer Metal - Cathedral - Armory Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=348695&nmm=1).
-   - Install it under the name **[NoDelete] [003.65] Ancient Dwemer Metal - Cathedral - Armory Patch**
+33.) Download [Ancient Dwemer Metal - Cathedral - Armory Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=348695&nmm=1).
+   - Install it under the name **[NoDelete] [003.35] Ancient Dwemer Metal - Cathedral - Armory Patch**
 
-64.) Download [Ancient Dwemer Metal - Kthonia's Unique Weapon Pack Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=289608&nmm=1). A window should appear saying "BAIN Package Installer". Make sure the 2K option is ticked, then press Ok.
+34.) Download [Ancient Dwemer Metal - Kthonia's Unique Weapon Pack Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=289608&nmm=1). A window should appear saying "BAIN Package Installer". Make sure the 2K option is ticked, then press Ok.
 
 ![Image 5](https://i.imgur.com/PH9ifVr.png)
 
-   - Install it under the name **[NoDelete] [003.66] Ancient Dwemer Metal - Kthonia's Unique Weapon Pack Patch**
+   - Install it under the name **[NoDelete] [003.36] Ancient Dwemer Metal - Kthonia's Unique Weapon Pack Patch**
 
-65.) Download [Ancient Dwemer Metal - Moon and Star Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=275272&nmm=1).
-   - Install it under the name **[NoDelete] [003.67] Ancient Dwemer Metal - Moon and Star Patch**
+35.) Download [Ancient Dwemer Metal - Moon and Star Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=275272&nmm=1).
+   - Install it under the name **[NoDelete] [003.37] Ancient Dwemer Metal - Moon and Star Patch**
 
-66.) Download [Ancient Dwemer Metal - Security Overhaul SKSE - Lock Variations Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=240544&nmm=1). In the BAIN Installer, tick the 2K option, then press Ok.
-   - Install it under the name **[NoDelete] [003.68] Ancient Dwemer Metal - Security Overhaul SKSE - Lock Variations Patch**
+36.) Download [Ancient Dwemer Metal - Security Overhaul SKSE - Lock Variations Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=240544&nmm=1). In the BAIN Installer, tick the 2K option, then press Ok.
+   - Install it under the name **[NoDelete] [003.38] Ancient Dwemer Metal - Security Overhaul SKSE - Lock Variations Patch**
 
-67.) Download [Ancient Dwemer Metal - Security Overhaul SKSE - Regional Locks Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=260810&nmm=1). In the BAIN Installer, tick the 2K option, then press Ok.
-   - Install it under the name **[NoDelete] [003.69] Ancient Dwemer Metal - Security Overhaul SKSE - Regional Locks Patch**
+37.) Download [Ancient Dwemer Metal - Security Overhaul SKSE - Regional Locks Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=260810&nmm=1). In the BAIN Installer, tick the 2K option, then press Ok.
+   - Install it under the name **[NoDelete] [003.39] Ancient Dwemer Metal - Security Overhaul SKSE - Regional Locks Patch**
 
-68.) Download [Ancient Dwemer Metal - Skyland Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=323704&nmm=1).
-   - Install it under the name **[NoDelete] [003.70] Ancient Dwemer Metal - Skyland Patch**
+38.) Download [Ancient Dwemer Metal - Skyland Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=323704&nmm=1).
+   - Install it under the name **[NoDelete] [003.40] Ancient Dwemer Metal - Skyland Patch**
 
-69.) Download [Ancient Dwemer Metal - Skyland Dragonborn Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=322874&nmm=1).
-   - Install it under the name **[NoDelete] [003.71] Ancient Dwemer Metal - Skyland Dragonborn Patch**
+39.) Download [Ancient Dwemer Metal - Skyland Dragonborn Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=322874&nmm=1).
+   - Install it under the name **[NoDelete] [003.41] Ancient Dwemer Metal - Skyland Dragonborn Patch**
 
-70.) Download [Ancient Dwemer Metal - GDOS Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=178217&nmm=1). You should see a pop-up that says, "The content of data does not look valid". Click the arrow to expand the "2K" option, and you should see a Data box. Right-click it, and press "Set as data directory".
+40.) Download [Ancient Dwemer Metal - GDOS Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=178217&nmm=1). You should see a pop-up that says, "The content of data does not look valid". Click the arrow to expand the "2K" option, and you should see a Data box. Right-click it, and press "Set as data directory".
 
 ![Image 6](https://i.imgur.com/dg9FTRh.png)
 
@@ -163,28 +162,28 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 
 ![Image 7](https://i.imgur.com/UfNq4m9.png)
 
-   - Install it under the name **[NoDelete] [003.72] Ancient Dwemer Metal - GDOS Patch**
+   - Install it under the name **[NoDelete] [003.42] Ancient Dwemer Metal - GDOS Patch**
 
-71.) Download [Ancient Dwemer Metal - Skyrim Sewers Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=196164&nmm=1).
-   - Install it under the name **[NoDelete] [003.73] Ancient Dwemer Metal - Skyrim Sewers Patch**
+41.) Download [Ancient Dwemer Metal - Skyrim Sewers Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=196164&nmm=1).
+   - Install it under the name **[NoDelete] [003.43] Ancient Dwemer Metal - Skyrim Sewers Patch**
 
-72.) Download [Ancient Dwemer Metal - The Forgotten City Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=248320&nmm=1). In the BAIN Installer, tick the 2K option, then press Ok.
-   - Install it under the name **[NoDelete] [003.74] Ancient Dwemer Metal - The Forgotten City Patch**
+42.) Download [Ancient Dwemer Metal - The Forgotten City Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=248320&nmm=1). In the BAIN Installer, tick the 2K option, then press Ok.
+   - Install it under the name **[NoDelete] [003.44] Ancient Dwemer Metal - The Forgotten City Patch**
 
-73.) Download [Ancient Dwemer Metal - The Tools of Kagrenac Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=249458&nmm=1).
-   - Install it under the name **[NoDelete] [003.75] Ancient Dwemer Metal - The Tools of Kagrenac Patch**
+43.) Download [Ancient Dwemer Metal - The Tools of Kagrenac Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=249458&nmm=1).
+   - Install it under the name **[NoDelete] [003.45] Ancient Dwemer Metal - The Tools of Kagrenac Patch**
 
-73.) Download [Ancient Dwemer Metal - Clockwork Patch](X).
-   - Install it under the name **[NoDelete] [003.75] Ancient Dwemer Metal - Clockwork Patch**
+44.) Download [Ancient Dwemer Metal - Clockwork Patch](X).
+   - Install it under the name **[NoDelete] [003.46] Ancient Dwemer Metal - Clockwork Patch**
 
-74.) Download [Ancient Amidianborn Dwarven Metal Armory](https://www.nexusmods.com/skyrimspecialedition/mods/38316?tab=files&file_id=152230&nmm=1).
-   - Install it under the name **[NoDelete] [003.76] Ancient Amidianborn Dwarven Metal Armory**
+45.) Download [Ancient Amidianborn Dwarven Metal Armory](https://www.nexusmods.com/skyrimspecialedition/mods/38316?tab=files&file_id=152230&nmm=1).
+   - Install it under the name **[NoDelete] [003.47] Ancient Amidianborn Dwarven Metal Armory**
 
-75.) Download [Ancient Dwemer Metal - Missing Forgemaster Fix](https://www.nexusmods.com/skyrimspecialedition/mods/38216?tab=files&file_id=150046&nmm=1).
-   - Install it under the name **[NoDelete] [003.77] Ancient Dwemer Metal - Missing Forgemaster Fix**
+46.) Download [Ancient Dwemer Metal - Missing Forgemaster Fix](https://www.nexusmods.com/skyrimspecialedition/mods/38216?tab=files&file_id=150046&nmm=1).
+   - Install it under the name **[NoDelete] [003.48] Ancient Dwemer Metal - Missing Forgemaster Fix**
 
-76.) Download [Ancient Dwemer Metal - Spider Gem Restored](https://www.nexusmods.com/skyrimspecialedition/mods/72640?tab=files&file_id=304455&nmm=1).
-   - Install it under the name **[NoDelete] [003.78] Ancient Dwemer Metal - Spider Gem Restored**
+47.) Download [Ancient Dwemer Metal - Spider Gem Restored](https://www.nexusmods.com/skyrimspecialedition/mods/72640?tab=files&file_id=304455&nmm=1).
+   - Install it under the name **[NoDelete] [003.49] Ancient Dwemer Metal - Spider Gem Restored**
 
 ### Snag the megapatch from here for the **DWEMER TEXTURES** section: [ N/A - NO PATCH NEEDED for this section! ]
 
