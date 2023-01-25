@@ -24,20 +24,22 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 3.) Download [High Poly Project - Bruma Bread Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53035?tab=files&file_id=217664&nmm=1).
    - Install it under the name **[NoDelete] [003.03] High Poly Project - Bruma Bread Patch**
 
-4.) Download [High Poly Project - My fixes SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/63425?tab=files&file_id=333335&nmm=1).
-   - Install it under the name **[NoDelete] [003.04] HPP - My Fixes by Xtudo - AIO Vanilla**
+4.) Download [High Poly Project - My fixes SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/63425?tab=files&file_id=333335&nmm=1) and [HPP - My Fixes - Hay SE-AE - Missing Wheat textures](X).
+   - Install the first mod under the name **[NoDelete] [003.04] HPP - My Fixes by Xtudo - AIO Vanilla**
+   - Install the second mod under the name **[NoDelete] [003.04] HPP - My Fixes by Xtudo - Hay - Missing Wheat Textures**
 
-5.) Download [HPP - My Fixes - Hay SE-AE - Missing Wheat textures](X).
-   - Install it under the name **[NoDelete] [003.05] HPP - My Fixes by Xtudo - Hay - Missing Wheat Textures**
+5.) Download [WiZkiD Hagraven Clutter and Bones - HPP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49277?tab=files&file_id=201115&nmm=1). If you did not delete your downloads folder for Redoran, you may have this installed already. In the FOMOD, select 2K and tick the High Poly Projectl patch, then press Install.
+   - Install it under the name **[NoDelete] [003.05] WiZkiD Hagraven Clutter and Bones - HPP Patch**
 
-6.) Download [WiZkiD Hagraven Clutter and Bones - HPP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49277?tab=files&file_id=201115&nmm=1). If you did not delete your downloads folder for Redoran, you may have this installed already. In the FOMOD, select 2K and tick the High Poly Projectl patch, then press Install.
-   - Install it under the name **[NoDelete] [003.06] WiZkiD Hagraven Clutter and Bones - HPP Patch**
+6.) Download [Fancy Sleeping Tree Replacer](X). 
+   - Install it under the name **[NoDelete] [003.06] Fancy Sleeping Tree Replacer**
 
-7.) Download [Fancy Sleeping Tree Replacer](X). 
-   - Install it under the name **[NoDelete] [003.07] Fancy Sleeping Tree Replacer**
+7.) Download [ElSopa - Carved Gildergreen HD](X). 
+   - Install it under the name **[NoDelete] [003.07] ElSopa - Carved Gildergreen HD**
 
-8.) Download [ElSopa - Carved Gildergreen HD](X). 
-   - Install it under the name **[NoDelete] [003.08] ElSopa - Carved Gildergreen HD**
+8.) Download [4K Tendril Vines](X) and [Pulsating Cluster](X). 
+   - Install the first mod under the name **[NoDelete] [003.08] 2K Tendril Vines**
+   - Install the second mod under the name **[NoDelete] [003.08] 2K Tendril Vines - Pulsating Cluster**
 
 9.) Download [Unique Barbas Retexture](X). 
    - Install it under the name **[NoDelete] [003.09] Unique Barbas Retexture**
@@ -390,18 +392,7 @@ Name it **[NoDelete] [030.02] Redoran Extended - Textures - Super SUPER Optional
    - Added Fancy Sleeping Tree Replacer
    - Added ElSopa - Carved Gildergreen HD
    - Added Canticle Tree - Bark - and Draw Knife Retexture
-   - Added TROLL
-   - Added GIANT
-   - Added HAGRAVEN
-   - Added WISPMOTHER
-   - Added RUSTIC DEATH HOUND and GARGOYLE - Special Edition
-   - Added ElSopa HD - Dirt Blast SE
-   - Added Retexture for The Scroll SE
-   - Added Falmer Blood Elixir Replacer
-   - Added Stalhrim Refrozen
-   - Added Thrones of Skyrim
-   - Added Vanilla Table Replacers
-   - Added HD Werewolves - With support for Moonlight Tales and Automatic Variants
+   - Added 4K Tendril Vines
    - Removed Cathedral 3D Deathbell - ENB Particle Light - Glowmap Patch
    - Removed SMIM - Noble Skyrim Patch
    - Removed Forgotten Retex Project
