@@ -27,86 +27,87 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 4.) Download [High Poly Project - My fixes SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/63425?tab=files&file_id=333335&nmm=1).
    - Install it under the name **[NoDelete] [003.04] HPP - My Fixes by Xtudo - AIO Vanilla**
 
-14.) Download [WiZkiD Hagraven Clutter and Bones - HPP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49277?tab=files&file_id=201115&nmm=1). In the FOMOD, select 2K and tick the High Poly Projectl patch, then press Install.
-   - Install it under the name **[NoDelete] [003.14] WiZkiD Hagraven Clutter and Bones - HPP Patch**
+5.) Download [HPP - My Fixes - Hay SE-AE - Missing Wheat textures](X).
+   - Install it under the name **[NoDelete] [003.05] HPP - My Fixes by Xtudo - Hay - Missing Wheat Textures**
 
-14.) Download [Unique Barbas Retexture](X). 
-   - Install it under the name **[NoDelete] [003.14] Unique Barbas Retexture**
+6.) Download [WiZkiD Hagraven Clutter and Bones - HPP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49277?tab=files&file_id=201115&nmm=1). If you did not delete your downloads folder for Redoran, you may have this installed already. In the FOMOD, select 2K and tick the High Poly Projectl patch, then press Install.
+   - Install it under the name **[NoDelete] [003.06] WiZkiD Hagraven Clutter and Bones - HPP Patch**
 
-14.) Download [The Elder Scrolls V Rewritten - Arvak SE](X). 
-   - Install it under the name **[NoDelete] [003.14] The Elder Scrolls V Rewritten - Arvak SE**
+7.) Download [Fancy Sleeping Tree Replacer](X). 
+   - Install it under the name **[NoDelete] [003.07] Fancy Sleeping Tree Replacer**
 
-14.) Download [Fancy Sleeping Tree Replacer](X). 
-   - Install it under the name **[NoDelete] [003.14] Fancy Sleeping Tree Replacer**
+8.) Download [ElSopa - Carved Gildergreen HD](X). 
+   - Install it under the name **[NoDelete] [003.08] ElSopa - Carved Gildergreen HD**
 
-14.) Download [ElSopa - Carved Gildergreen HD](X). 
-   - Install it under the name **[NoDelete] [003.14] ElSopa - Carved Gildergreen HD**
+9.) Download [Unique Barbas Retexture](X). 
+   - Install it under the name **[NoDelete] [003.09] Unique Barbas Retexture**
+
+10.) Download [The Elder Scrolls V Rewritten - Arvak SE](X). 
+   - Install it under the name **[NoDelete] [003.10] The Elder Scrolls V Rewritten - Arvak SE**
    
 ### Snag the megapatch from here for the **GENERAL** section: [ [DOWNLOAD](X) ] ("View raw" button)
 
-Name it **[NoDelete] [003.15] Redoran Extended - Textures - General Megapatch**, and place the .esp directly AFTER X. 
-
-### Snag the megapatch from here for the **ARMORS** section: [ N/A - NO PATCH NEEDED for this section! ]
+Name it **[NoDelete] [003.11] Redoran Extended - Textures - General Megapatch**, and place the .esp directly AFTER X. 
 
 ## Miscellaneous (OPTIONAL! FEEL FREE TO SKIP!)
 
 ![Image 3](https://i.imgur.com/nDv0CPs.png)
 
-33.) Download [WEBS S.E.](https://www.nexusmods.com/skyrimspecialedition/mods/4873?tab=files&file_id=10208&nmm=1).
-   - Install it under the name **[NoDelete] [003.34] WEBS 2K**
+11.) Download [WEBS S.E.](https://www.nexusmods.com/skyrimspecialedition/mods/4873?tab=files&file_id=10208&nmm=1).
+   - Install it under the name **[NoDelete] [003.12] WEBS 2K**
 
-34.) Download [ WEBS 2K - ELFX Patch](https://www.nexusmods.com/skyrimspecialedition/mods/4873?tab=files&file_id=10871&nmm=1).
-   - Install it under the name **[NoDelete] [003.35] WEBS 2K - ELFX Patch**
+12.) Download [ WEBS 2K - ELFX Patch](https://www.nexusmods.com/skyrimspecialedition/mods/4873?tab=files&file_id=10871&nmm=1).
+   - Install it under the name **[NoDelete] [003.13] WEBS 2K - ELFX Patch**
 
-35.) Download [DimmerFog 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/7397?tab=files&file_id=20517&nmm=1). In the FOMOD, select Main Not Installed in the top portion, then in the bottom portion, select Optionals Reduced, then press Install. 
-   - Install it under the name **[NoDelete] [003.36] DimmerFog 2.0**
+13.) Download [DimmerFog 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/7397?tab=files&file_id=20517&nmm=1). In the FOMOD, select Main Not Installed in the top portion, then in the bottom portion, select Optionals Reduced, then press Install. 
+   - Install it under the name **[NoDelete] [003.14] DimmerFog 2.0**
 
-39.) Download [Inferno - Fire Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files&file_id=317399&nmm=1). In the FOMOD, select Next, ENB Light, 2x, Normal, Realistic Hue, 1x, Ember HD, and tick the Flame Meshes Patch (ESL-Tagged) option, then press Install. 
-   - Install it under the name **[NoDelete] [003.40] Inferno - Fire Effects Redux**
+14.) Download [Inferno - Fire Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files&file_id=317399&nmm=1). In the FOMOD, select Next, ENB Light, 2x, Normal, Realistic Hue, 1x, Ember HD, and tick the Flame Meshes Patch (ESL-Tagged) option, then press Install. 
+   - Install it under the name **[NoDelete] [003.15] Inferno - Fire Effects Redux**
 
-40.) Download [Arctic - Frost Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29817?tab=files&file_id=316576&nmm=1). In the FOMOD, select Next, ENB Light, 2x, Realistic Hue, 1x, Frost Meshes Patch (ESL-Tagged), then press Install. We're going to now hide 2 files from here so the decals for frost effects use the HD versions from Deadly Spell Impacts. Double-click on the Artic - Frost Effects Redux mod, then in the pop-up window switch to the Filetree tab. Expand the textures folder, expand the impactdecals folder, then right-click on decalfrostimpact01.dds and select Hide. Do the same for decalfrostimpact01_n.dds. Then you're done!
+15.) Download [Arctic - Frost Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29817?tab=files&file_id=316576&nmm=1). In the FOMOD, select Next, ENB Light, 2x, Realistic Hue, 1x, Frost Meshes Patch (ESL-Tagged), then press Install. We're going to now hide 2 files from here so the decals for frost effects use the HD versions from Deadly Spell Impacts. Double-click on the Artic - Frost Effects Redux mod, then in the pop-up window switch to the Filetree tab. Expand the textures folder, expand the impactdecals folder, then right-click on decalfrostimpact01.dds and select Hide. Do the same for decalfrostimpact01_n.dds. Then you're done!
 
 ![Image 3.5](https://i.imgur.com/InzeMxI.png)
 
-   - Install it under the name **[NoDelete] [003.41] Arctic - Frost Effects Redux**
+   - Install it under the name **[NoDelete] [003.16] Arctic - Frost Effects Redux**
 
-41.) Download [Thunderbolt - HD Lightning](https://www.nexusmods.com/skyrimspecialedition/mods/46024?tab=files&file_id=187303&nmm=1).
-   - Install it under the name **[NoDelete] [003.42] Thunderbolt - HD Lightning**
+16.) Download [Thunderbolt - HD Lightning](https://www.nexusmods.com/skyrimspecialedition/mods/46024?tab=files&file_id=187303&nmm=1).
+   - Install it under the name **[NoDelete] [003.17] Thunderbolt - HD Lightning**
 
-42.) Download [Splashes Of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files&file_id=322517&nmm=1). In the FOMOD, select SSE v1.6.629+ ("Anniversary Edition"), then press Install.
-   - Install it under the name **[NoDelete] [003.43] Splashes of Skyrim**
+17.) Download [Splashes Of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files&file_id=322517&nmm=1). In the FOMOD, select SSE v1.6.629+ ("Anniversary Edition"), then press Install.
+   - Install it under the name **[NoDelete] [003.18] Splashes of Skyrim**
 
-46.) Download [Medieval Candlehorns and Sconces](https://www.nexusmods.com/skyrimspecialedition/mods/24324?tab=files&file_id=97446&nmm=1). In the FOMOD, select No Smoke Effect, Version 1, then press Install.
-   - Install it under the name **[NoDelete] [003.47] Medieval Candlehorns and Sconces**
+18.) Download [Medieval Candlehorns and Sconces](https://www.nexusmods.com/skyrimspecialedition/mods/24324?tab=files&file_id=97446&nmm=1). In the FOMOD, select No Smoke Effect, Version 1, then press Install.
+   - Install it under the name **[NoDelete] [003.19] Medieval Candlehorns and Sconces**
 
-47.) Download [SD's Horn Candles SE](https://www.nexusmods.com/skyrimspecialedition/mods/40192?tab=files&file_id=159547&nmm=1).
-   - Install it under the name **[NoDelete] [003.48] SD's Horn Candles**
+19.) Download [SD's Horn Candles SE](https://www.nexusmods.com/skyrimspecialedition/mods/40192?tab=files&file_id=159547&nmm=1).
+   - Install it under the name **[NoDelete] [003.20] SD's Horn Candles**
 
-48.) Download [JS Shrines of the Divines](https://www.nexusmods.com/skyrimspecialedition/mods/33394?tab=files&file_id=282601&nmm=1).
-   - Install it under the name **[NoDelete] [003.49] JS Shrines of the Divines**
+20.) Download [JS Shrines of the Divines](https://www.nexusmods.com/skyrimspecialedition/mods/33394?tab=files&file_id=282601&nmm=1).
+   - Install it under the name **[NoDelete] [003.21] JS Shrines of the Divines**
 
-49.) Download [JS Instruments of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/51959?tab=files&file_id=213096&nmm=1).
-   - Install it under the name **[NoDelete] [003.50] JS Instruments of Skyrim**
+21.) Download [JS Instruments of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/51959?tab=files&file_id=213096&nmm=1).
+   - Install it under the name **[NoDelete] [003.22] JS Instruments of Skyrim**
 
-52.) Download [RUSTIC AMULETS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/35485?tab=files&file_id=144580&nmm=1).
-   - Install it under the name **[NoDelete] [003.53] RUSTIC AMULETS**
+22.) Download [RUSTIC AMULETS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/35485?tab=files&file_id=144580&nmm=1).
+   - Install it under the name **[NoDelete] [003.23] RUSTIC AMULETS**
 
-53.) Download [Dressed Hearthfire Doll](https://www.nexusmods.com/skyrimspecialedition/mods/493?tab=files&file_id=13540&nmm=1). In the FOMOD, select Smaller Eyes, 2 (human), Red, then press Install.
-   - Install it under the name **[NoDelete] [003.54] Dressed Hearthfire Doll**
+23.) Download [Dressed Hearthfire Doll](https://www.nexusmods.com/skyrimspecialedition/mods/493?tab=files&file_id=13540&nmm=1). In the FOMOD, select Smaller Eyes, 2 (human), Red, then press Install.
+   - Install it under the name **[NoDelete] [003.24] Dressed Hearthfire Doll**
 
-54.) Download [Serana Doll Replacer for Bloodchill Manor's Vampire Doll](https://www.nexusmods.com/skyrimspecialedition/mods/73501?tab=files&file_id=308066&nmm=1).
-   - Install it under the name **[NoDelete] [003.55] Serana Doll Replacer for Bloodchill Manor's Vampire Doll**
+24.) Download [Serana Doll Replacer for Bloodchill Manor's Vampire Doll](https://www.nexusmods.com/skyrimspecialedition/mods/73501?tab=files&file_id=308066&nmm=1).
+   - Install it under the name **[NoDelete] [003.25] Serana Doll Replacer for Bloodchill Manor's Vampire Doll**
    
 ### Snag the megapatch from here for the **MISCELLANEOUS** section: [ [DOWNLOAD](X) ] ("View raw" button)
 
-Name it **[NoDelete] [003.56] Redoran Extended - Textures - Miscellaneous Megapatch**, and place the .esp directly AFTER X. 
+Name it **[NoDelete] [003.26] Redoran Extended - Textures - Miscellaneous Megapatch**, and place the .esp directly AFTER X. 
 
 ## Dwemer Textures (OPTIONAL! FEEL FREE TO SKIP!)
 
 ![Image 4](https://i.imgur.com/K5fFPal.png)
 
-55.) Download [Ancient Dwemer Metal](https://www.nexusmods.com/skyrim/mods/75610?tab=files&file_id=1000213510&nmm=1).
-   - Install it under the name **[NoDelete] [003.57] Ancient Dwemer Metal**
+25.) Download [Ancient Dwemer Metal](https://www.nexusmods.com/skyrim/mods/75610?tab=files&file_id=1000213510&nmm=1).
+   - Install it under the name **[NoDelete] [003.27] Ancient Dwemer Metal**
 
 56.) Download [Ancient Dwemer Metal - Automatons](https://www.nexusmods.com/skyrim/mods/75610?tab=files&file_id=1000213502&nmm=1).
    - Install it under the name **[NoDelete] [003.58] Ancient Dwemer Metal - Automatons**
