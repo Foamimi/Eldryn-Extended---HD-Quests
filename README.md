@@ -50,7 +50,7 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 10.) Download [The Elder Scrolls V Rewritten - Arvak SE](https://www.nexusmods.com/skyrimspecialedition/mods/11999?tab=files&file_id=33193&nmm=1). In the FOMOD, select Extreme Definition and Soul Cairn, then press Install.
    - Install it under the name **[NoDelete] [003.10] The Elder Scrolls V Rewritten - Arvak**
    
-### Snag the megapatch from here for the **GENERAL** section: [ [DOWNLOAD](X) ] ("View raw" button)
+### Snag the megapatch from here for the **GENERAL** section: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/Redoran%20Extended%20-%20Textures%20-%20General%20Patch.7z) ] ("View raw" button)
 
 Place the newly downloaded file into the area where you designated Redoran's Download folder to go. Once placed, you should see it on the right side of MO2 in the downloads tab with a red triangle next to the name. If it isn't, sort by Filetime (may need to do it twice) and it will flip the downloads to most recent. Double-click it, then proceed to installation. Name it **[NoDelete] [03.011] Redoran Extended - Textures - General Megapatch**, and place the .esp directly AFTER X. 
 
