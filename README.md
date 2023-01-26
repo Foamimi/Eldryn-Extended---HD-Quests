@@ -10,7 +10,7 @@ Works on **EXISTING SAVES**.
 
 # Installation
 
-First of all, we're going to right-click on the left side of MO2 and highlight the "All Mods" option, then click the dropdown of "Create separator above". We'll call it **[NoDelete] [003.00] REDORAN EXTENDED - TEXTURES**. All of the following mods will be installed under this separator, and the separator itself will go just below the separator called "THE DANGER ZONE". 
+First of all, we're going to right-click on the left side of MO2 and highlight the "All Mods" option, then click the dropdown of "Create separator above". We'll call it **[NoDelete] [03.000] REDORAN EXTENDED - TEXTURES**. All of the following mods will be installed under this separator, and the separator itself will go just below the separator called "THE DANGER ZONE". 
 
 All the plugins going forward will be at the very bottom, **BELOW all of the Redoran patches** but **BEFORE Occlusion.esp**.
 
@@ -18,28 +18,31 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
 
 ![Image 1](https://i.imgur.com/yCJC71y.png)
 
-2.) Download [High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/12029?tab=files&file_id=236420&nmm=1). In the FOMOD, select Install Everything. Don't tick anything on the next page, and press Install.
-   - Install it under the name **[NoDelete] [003.02] High Poly Project**
+1.) Download [High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/12029?tab=files&file_id=236420&nmm=1). In the FOMOD, select Install Everything. Don't tick anything on the next page, and press Install.
+   - Install it under the name **[NoDelete] [03.001] High Poly Project**
 
-3.) Download [High Poly Project - Bruma Bread Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53035?tab=files&file_id=217664&nmm=1).
-   - Install it under the name **[NoDelete] [003.03] High Poly Project - Bruma Bread Patch**
+2.) Download [High Poly Project - Bruma Bread Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53035?tab=files&file_id=217664&nmm=1).
+   - Install it under the name **[NoDelete] [03.002] High Poly Project - Bruma Bread Patch**
 
-4.) Download [High Poly Project - My fixes SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/63425?tab=files&file_id=333335&nmm=1) and [HPP - My Fixes - Hay SE-AE - Missing Wheat textures](X).
-   - Install the first mod under the name **[NoDelete] [003.04] HPP - My Fixes by Xtudo - AIO Vanilla**
-   - Install the second mod under the name **[NoDelete] [003.04] HPP - My Fixes by Xtudo - Hay - Missing Wheat Textures**
+3.) Download [High Poly Project - My fixes SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/63425?tab=files&file_id=333335&nmm=1) and [HPP - My Fixes - Hay SE-AE - Missing Wheat textures](X).
+   - Install the first mod under the name **[NoDelete] [03.003] HPP - My Fixes by Xtudo - AIO Vanilla**
+   - Install the second mod under the name **[NoDelete] [03.003] HPP - My Fixes by Xtudo - Hay - Missing Wheat Textures**
 
-5.) Download [WiZkiD Hagraven Clutter and Bones - HPP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49277?tab=files&file_id=201115&nmm=1). If you did not delete your downloads folder for Redoran, you may have this installed already. In the FOMOD, select 2K and tick the High Poly Projectl patch, then press Install.
-   - Install it under the name **[NoDelete] [003.05] WiZkiD Hagraven Clutter and Bones - HPP Patch**
+4.) Download [WiZkiD Hagraven Clutter and Bones - HPP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49277?tab=files&file_id=201115&nmm=1). If you did not delete your downloads folder for Redoran, you may have this installed already. Select No to the MO2 pop-up if you receive one. On the right side of MO2 in the Downloads tab, type in "WiZkiD" and one file should appear. Double-click it to begin. In the FOMOD, select 2K and tick the High Poly Projectl patch, then press Install.
+   - Install it under the name **[NoDelete] [03.004] WiZkiD Hagraven Clutter and Bones - HPP Patch**
 
-6.) Download [Fancy Sleeping Tree Replacer](X). 
-   - Install it under the name **[NoDelete] [003.06] Fancy Sleeping Tree Replacer**
+5.) Download [Fancy Sleeping Tree Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/64255?tab=files&file_id=298401&nmm=1). In the FOMOD, select Purple, then press Next. Select ENB Light, then press Next. Select Leaves, then press Next. Select Add Patch, then presss Install.
+   - Install it under the name **[NoDelete] [03.005] Fancy Sleeping Tree Replacer**
 
-7.) Download [ElSopa - Carved Gildergreen HD](X). 
-   - Install it under the name **[NoDelete] [003.07] ElSopa - Carved Gildergreen HD**
+6.) Download [ElSopa - Carved Gildergreen HD](https://www.nexusmods.com/skyrimspecialedition/mods/33287?tab=files&file_id=127006&nmm=1). In the FOMOD, select Plain, then press Install. 
+   - Install it under the name **[NoDelete] [03.006] ElSopa - Carved Gildergreen HD**
 
-8.) Download [4K Tendril Vines](X) and [Pulsating Cluster](X). 
-   - Install the first mod under the name **[NoDelete] [003.08] 2K Tendril Vines**
-   - Install the second mod under the name **[NoDelete] [003.08] 2K Tendril Vines - Pulsating Cluster**
+7.) Download [2K Tendril Vines](https://www.nexusmods.com/skyrimspecialedition/mods/40196?tab=files&file_id=159543&nmm=1) and [Pulsating Cluster](https://www.nexusmods.com/skyrimspecialedition/mods/40196?tab=files&file_id=187542&nmm=1). 
+   - Install the first mod under the name **[NoDelete] [03.007] 2K Tendril Vines**
+   - Install the second mod under the name **[NoDelete] [03.007] 2K Tendril Vines - Pulsating Cluster**
+
+8.) Download [Dynamic Animal Variants SPID](X). 
+   - Install it under the name **[NoDelete] [03.008] Dynamic Animal Variants SPID**
 
 9.) Download [Unique Barbas Retexture](X). 
    - Install it under the name **[NoDelete] [003.09] Unique Barbas Retexture**
