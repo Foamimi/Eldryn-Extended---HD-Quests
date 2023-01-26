@@ -180,7 +180,7 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 43.) Download [Ancient Dwemer Metal - The Tools of Kagrenac Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=249458&nmm=1).
    - Install it under the name **[NoDelete] [03.044] Ancient Dwemer Metal - The Tools of Kagrenac Patch**
 
-44.) Download [Ancient Dwemer Metal - Clockwork Patch](X).
+44.) Download [Ancient Dwemer Metal - Clockwork Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=228605&nmm=1).
    - Install it under the name **[NoDelete] [03.045] Ancient Dwemer Metal - Clockwork Patch**
 
 We're going to now hide a few files from here so the files from other mods aren't being overwritten. Double-click on the Ancient Dwemer Metal - Clockwork Patch mod on the left side of MO2, then in the pop-up window switch to the Filetree tab. Right-click on the following files and select Hide. 
