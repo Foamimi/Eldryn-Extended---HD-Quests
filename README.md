@@ -41,14 +41,14 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Red
    - Install the first mod under the name **[NoDelete] [03.007] 2K Tendril Vines**
    - Install the second mod under the name **[NoDelete] [03.007] 2K Tendril Vines - Pulsating Cluster**
 
-8.) Download [Dynamic Animal Variants SPID](X). 
+8.) Download [Dynamic Animal Variants SPID](https://www.nexusmods.com/skyrimspecialedition/mods/72978?tab=files&file_id=309406&nmm=1). 
    - Install it under the name **[NoDelete] [03.008] Dynamic Animal Variants SPID**
 
-9.) Download [Unique Barbas Retexture](X). 
+9.) Download [Unique Barbas Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/17540?tab=files&file_id=55560&nmm=1). 
    - Install it under the name **[NoDelete] [003.09] Unique Barbas Retexture**
 
-10.) Download [The Elder Scrolls V Rewritten - Arvak SE](X). 
-   - Install it under the name **[NoDelete] [003.10] The Elder Scrolls V Rewritten - Arvak SE**
+10.) Download [The Elder Scrolls V Rewritten - Arvak SE](https://www.nexusmods.com/skyrimspecialedition/mods/11999?tab=files&file_id=33193&nmm=1). In the FOMOD, select Extreme Definition and Soul Cairn, then press Install.
+   - Install it under the name **[NoDelete] [003.10] The Elder Scrolls V Rewritten - Arvak**
    
 ### Snag the megapatch from here for the **GENERAL** section: [ [DOWNLOAD](X) ] ("View raw" button)
 
