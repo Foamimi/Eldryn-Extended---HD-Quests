@@ -120,7 +120,7 @@ We're going to now hide 2 files from here so the decals for frost effects use th
    - Install it under the name **[NoDelete] [03.027] Ancient Dwemer Metal - Automatons**
 
 27.) Download [Dwemer bronze and steel - Dwarven weapons recolor](https://www.nexusmods.com/skyrim/mods/30998?tab=files&file_id=1000007077&nmm=1).
-   - Install it under the name **[NoDelete] [003.28] Dwemer Bronze and Steel - Dwarven Weapons Recolor**
+   - Install it under the name **[NoDelete] [03.028] Dwemer Bronze and Steel - Dwarven Weapons Recolor**
 
 28.) Download [Ancient Dwemer Metal - Converted Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=268909&nmm=1).
    - Install it under the name **[NoDelete] [03.029] Ancient Dwemer Metal - Converted Meshes**
@@ -183,8 +183,16 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 44.) Download [Ancient Dwemer Metal - Clockwork Patch](X).
    - Install it under the name **[NoDelete] [03.045] Ancient Dwemer Metal - Clockwork Patch**
 
-45.) Download [Ancient Amidianborn Dwarven Metal Armory](https://www.nexusmods.com/skyrimspecialedition/mods/38316?tab=files&file_id=152230&nmm=1).
-   - Install it under the name **[NoDelete] [03.046] Ancient Amidianborn Dwarven Metal Armory**
+We're going to now hide a few files from here so the files from other mods aren't being overwritten. Double-click on the Ancient Dwemer Metal - Clockwork Patch mod on the left side of MO2, then in the pop-up window switch to the Filetree tab. Right-click on the following files and select Hide. 
+
+   - textures/clockwork/architecture/victorianinteriors/furniture/chandelier01.dds
+   - textures/clockwork/architecture/victorianinteriors/furniture/specimencabinet01.dds
+   - textures/clockwork/armour/gilded/sash.dds
+
+Then you're done!
+
+45.) Download [Ancient Amidianborn Dwarven Metal Armory](https://www.nexusmods.com/skyrimspecialedition/mods/38316?tab=files&file_id=152230&nmm=1). In the FOMOD, select Purple (Original Amidianborn), do not tick the bottom box, then press Install.
+   - Install it under the name **[NoDelete] [03.046] Ancient aMidianborn Dwarven Metal Armory**
 
 46.) Download [Ancient Dwemer Metal - Missing Forgemaster Fix](https://www.nexusmods.com/skyrimspecialedition/mods/38216?tab=files&file_id=150046&nmm=1).
    - Install it under the name **[NoDelete] [03.047] Ancient Dwemer Metal - Missing Forgemaster Fix**
