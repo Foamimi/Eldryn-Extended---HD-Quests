@@ -368,8 +368,7 @@ Name it **[NoDelete] [030.02] Redoran Extended - Textures - Super SUPER Optional
 
 # Last Steps
 
-**My theme of MO2 may be different than yours, but that's okay it'll all work the same!**
-   - Just double-check to make sure your .esps look like this (it may be different depending on which sections you downloaded):
+   - Just double-check to make sure your .esps look like this in the Plugins tab on the right side of MO2 (it may be different depending on which sections you downloaded):
 
 ![Image 11](X)
 
