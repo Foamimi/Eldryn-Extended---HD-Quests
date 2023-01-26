@@ -370,7 +370,7 @@ Name it **[NoDelete] [030.02] Redoran Extended - Textures - Super SUPER Optional
 
 # Last Steps
 
-   - Just double-check to make sure your .esps look like this in the Plugins tab on the right side of MO2 (it may be different depending on which sections you downloaded):
+   - Here's how the plugin tab on the **right side of MO2 should look** (it may be different depending on which sections you downloaded):
 
 ![Image 11](X)
 
