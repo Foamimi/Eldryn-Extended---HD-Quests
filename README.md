@@ -47,10 +47,10 @@ Screenshots are available at the bottom of this page to compare as you go.
    - Install it under the name **[NoDelete] [03.008] Dynamic Animal Variants SPID**
 
 9.) Download [Unique Barbas Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/17540?tab=files&file_id=55560&nmm=1). 
-   - Install it under the name **[NoDelete] [003.09] Unique Barbas Retexture**
+   - Install it under the name **[NoDelete] [03.009] Unique Barbas Retexture**
 
 10.) Download [The Elder Scrolls V Rewritten - Arvak SE](https://www.nexusmods.com/skyrimspecialedition/mods/11999?tab=files&file_id=33193&nmm=1). In the FOMOD, select Extreme Definition and Soul Cairn, then press Install.
-   - Install it under the name **[NoDelete] [003.10] The Elder Scrolls V Rewritten - Arvak**
+   - Install it under the name **[NoDelete] [03.010] The Elder Scrolls V Rewritten - Arvak**
    
 ### Snag the megapatch from here for the **GENERAL** section: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/Redoran%20Extended%20-%20Textures%20-%20General%20Patch.7z) ] ("View raw" button)
 
