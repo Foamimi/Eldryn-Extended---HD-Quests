@@ -72,11 +72,13 @@ Place the newly downloaded file into the area where you designated Redoran's Dow
 14.) Download [Inferno - Fire Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files&file_id=317399&nmm=1). In the FOMOD, select Next, ENB Light, 2x, Normal, Realistic Hue, 1x, Ember HD, and tick the Flame Meshes Patch (ESL-Tagged) option, then press Install. 
    - Install it under the name **[NoDelete] [03.015] Inferno - Fire Effects Redux**
 
-15.) Download [Arctic - Frost Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29817?tab=files&file_id=316576&nmm=1). In the FOMOD, select Next, ENB Light, 2x, Realistic Hue, 1x, Frost Meshes Patch (ESL-Tagged), then press Install. We're going to now hide 2 files from here so the decals for frost effects use the HD versions from Deadly Spell Impacts. Double-click on the Artic - Frost Effects Redux mod, then in the pop-up window switch to the Filetree tab. Expand the textures folder, expand the impactdecals folder, then right-click on decalfrostimpact01.dds and select Hide. Do the same for decalfrostimpact01_n.dds. Then you're done!
+15.) Download [Arctic - Frost Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29817?tab=files&file_id=316576&nmm=1). In the FOMOD, select Next, ENB Light, 2x, Realistic Hue, 1x, Frost Meshes Patch (ESL-Tagged), then press Install.
+
+ - Install it under the name **[NoDelete] [03.016] Arctic - Frost Effects Redux**
+
+We're going to now hide 2 files from here so the decals for frost effects use the HD versions from Deadly Spell Impacts. Double-click on the Artic - Frost Effects Redux mod on the left side of MO2, then in the pop-up window switch to the Filetree tab. Expand the textures folder, expand the impactdecals folder, then right-click on decalfrostimpact01.dds and select Hide. Do the same for decalfrostimpact01_n.dds. Then you're done!
 
 ![Image 3.5](https://i.imgur.com/InzeMxI.png)
-
-   - Install it under the name **[NoDelete] [03.016] Arctic - Frost Effects Redux**
 
 16.) Download [Thunderbolt - HD Lightning](https://www.nexusmods.com/skyrimspecialedition/mods/46024?tab=files&file_id=187303&nmm=1).
    - Install it under the name **[NoDelete] [03.017] Thunderbolt - HD Lightning**
