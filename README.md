@@ -54,7 +54,7 @@ Screenshots are available at the bottom of this page to compare as you go.
    
 ### Snag the megapatch from here for the **GENERAL** section: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/Redoran%20Extended%20-%20Textures%20-%20General%20Patch.7z) ] ("View raw" button)
 
-Place the newly downloaded file into the area where you designated Redoran's Download folder to go. Once placed, you should see it on the right side of MO2 in the downloads tab with a red triangle next to the name. If it isn't, sort by Filetime (may need to do it twice) and it will flip the downloads to most recent. Double-click it, then proceed to installation. Name it **[NoDelete] [03.011] Redoran Extended - Textures - General Megapatch**, and place the .esp directly AFTER X. 
+Place the newly downloaded file into the area where you designated Redoran's Download folder to go. Once placed, you should see it on the right side of MO2 in the downloads tab with a red triangle next to the name. If it isn't, sort by Filetime (may need to do it twice) and it will flip the downloads to most recent. If it still isn't showing, tick the Hidden Files box at the bottom of the Downloads tab. Once you see the file, double-click it, then proceed to installation. Name it **[NoDelete] [03.011] Redoran Extended - Textures - General Megapatch**, and place the .esp directly AFTER ORM-Arvak.esp. 
 
 ## Miscellaneous (OPTIONAL! FEEL FREE TO SKIP!)
 
@@ -355,15 +355,15 @@ Then you're done!
 92.) Download [Footprints - Creation Club - Saturalia Holiday Pack](https://www.nexusmods.com/skyrimspecialedition/mods/77440?tab=files&file_id=325551&nmm=1).
    - Install it under the name **[NoDelete] [03.093] Footprints - Creation Club - Saturalia Holiday Pack**   
 
-### Snag the megapatch from here for the **SUPER SUPER OPTIONAL** section: [ [DOWNLOAD](X) ] ("View raw" button)
+### Snag the megapatch from here for the **SUPER SUPER OPTIONAL** section: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/Redoran%20Extended%20-%20Textures%20-%20Super%20SUPER%20Optional%20Patch.7z) ] ("View raw" button)
 
-Name it **[NoDelete] [03.094] Redoran Extended - Textures - Super SUPER Optional Megapatch**, and place the .esp directly AFTER X. 
+Name it **[NoDelete] [03.094] Redoran Extended - Textures - Super SUPER Optional Megapatch**, and place the .esp directly AFTER FootprintsSand-patch.esp. 
 
 # Last Steps
 
    - Here's how it should look on the **right side of MO2** in the Plugins tab (it may be different depending on which sections you downloaded):
 
-![Image 11](X)
+![Image 11](https://i.imgur.com/sKHbaik.png)
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
