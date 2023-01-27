@@ -305,9 +305,7 @@ Then you're done!
 80.) Download [Wyrmstooth Animated ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/72668?tab=files&file_id=304530&nmm=1).
    - Install it under the name **[NoDelete] [03.081] Wyrmstooth Animated ENB Light**
 
-### Snag the megapatch from here for the **ENB LIGHTS** section: [ [DOWNLOAD](X) ] ("View raw" button)
-
-Name it **[NoDelete] [03.081] Redoran Extended - Textures - ENB Lights Megapatch**, and place the .esp directly AFTER X.
+### Snag the megapatch from here for the **ENB LIGHTS** section: [ N/A - NO PATCH NEEDED for this section! ]
 
 ## Super Optional (OPTIONAL! FEEL FREE TO SKIP!)
 
@@ -336,13 +334,13 @@ Name it **[NoDelete] [03.081] Redoran Extended - Textures - ENB Lights Megapatch
 85.) Download [Footprints - ENB Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3808?tab=files&file_id=186011&nmm=1).
    - Install it under the name **[NoDelete] [03.086] Footprints - ENB Fix**   
 
-86.) Download [The Gray Cowl of Nocturnal SE - Addons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19724?tab=files&file_id=245471&nmm=1). In the FOMOD, only tick the Footprints for The Gray Cowl of Nocturnal Addon option, then press Install.
+86.) Download [The Gray Cowl of Nocturnal SE - Addons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19724?tab=files&file_id=245471&nmm=1). You may already have this downloaded if you did not delete your Downloads folder from Redoran. If you already have it installed, click Cancel from the "Do you want to install this mod again?" popup. On the right-hand side of MO2 in the Downloads tab, type in at the bottom, "Gray Patches" and one file should show up. Double-click it and a FOMOD should appear. Only tick the Footprints for The Gray Cowl of Nocturnal Addon option, then press Install.
    - Install it under the name **[NoDelete] [03.087] The Gray Cowl of Nocturnal - Footprints Patch**   
 
-87.) Download [Vigilant - foootprints patch](X).
-   - Install it under the name **[NoDelete] [03.088] Vigilant - foootprints patch** 
+87.) Download [VIGILANT - My patches by Xtudo SE - Footprints patch](https://www.nexusmods.com/skyrimspecialedition/mods/70958?tab=files&file_id=302605&nmm=1).
+   - Install it under the name **[NoDelete] [03.088] VIGILANT - My Patches by Xtudo - Footprints Patch** 
 
-88.) Download [Footprints Sand Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50484?tab=files&file_id=250175&nmm=1).
+88.) Download [Footprints Sand Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50484?tab=files&file_id=250175&nmm=1). In the FOMOD, select ESP-FE ESL Flagged, then press Install.
    - Install it under the name **[NoDelete] [03.089] Footprints Sand Patch**   
 
 89.) Download [SPID for Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/54924?tab=files&file_id=347974&nmm=1).
