@@ -26,7 +26,7 @@ A screenshot is available at the bottom of this page to compare as you go.
 2.) Download [High Poly Project - Bruma Bread Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53035?tab=files&file_id=217664&nmm=1).
    - Install it under the name **[NoDelete] [03.002] High Poly Project - Bruma Bread Patch**
 
-3.) Download [High Poly Project - My fixes SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/63425?tab=files&file_id=333335&nmm=1) and [HPP - My Fixes - Hay SE-AE - Missing Wheat textures](X).
+3.) Download [High Poly Project - My fixes SE-AE](https://www.nexusmods.com/skyrimspecialedition/mods/63425?tab=files&file_id=333335&nmm=1) and [HPP - My Fixes - Hay SE-AE - Missing Wheat textures](https://www.nexusmods.com/skyrimspecialedition/mods/63425?tab=files&file_id=351809&nmm=1).
    - Install the first mod under the name **[NoDelete] [03.003] HPP - My Fixes by Xtudo - AIO Vanilla**
    - Install the second mod under the name **[NoDelete] [03.003] HPP - My Fixes by Xtudo - Hay - Missing Wheat Textures**
 
