@@ -254,7 +254,7 @@ Then you're done!
 63.) Download [Particle Lights for ENB - Luminous Ground Cover](https://www.nexusmods.com/skyrimspecialedition/mods/72652?tab=files&file_id=304474&nmm=1).
    - Install it under the name **[NoDelete] [03.064] Particle Lights for ENB - Luminous Ground Cover**
 
-64.) Download [Particle Lights for ENB - Undead Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/48424?tab=files&file_id=199985&nmm=1). In the FOMOD, select Default, Default, then don't tick the last box and press Install.
+64.) Download [Particle Lights for ENB - Undead Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/48424?tab=files&file_id=199985&nmm=1). In the FOMOD, select Default, Default, then don't tick the last box, then press Next. Select Blue, then press Install.
    - Install it under the name **[NoDelete] [03.065] Particle Lights for ENB - Undead Creatures**
 
 65.) Download [Rudy HQ - More Lights for ENB - Deathbells and Nirnroots](https://www.nexusmods.com/skyrimspecialedition/mods/22814?tab=files&file_id=163276&nmm=1).
@@ -275,8 +275,8 @@ Then you're done!
 70.) Download [Rudy HQ - More Lights for ENB Decal Fix](https://www.nexusmods.com/skyrimspecialedition/mods/55582?tab=files&file_id=287665&nmm=1). In the FOMOD, everything should be automically ticked except for Patch for Rustic Soul Gems. Tick that Rustic option and untick the regular Soul Gems option. Then press Install.
    - Install it under the name **[NoDelete] [03.071] Rudy HQ - More Lights for ENB Decal Fix**
 
-71.) Download [Cathedral - 3D Deathbell ENB-lights](X).
-   - Install it under the name **[NoDelete] [03.072] Cathedral - 3D Deathbell ENB-lights**
+71.) Download [Cathedral - 3D Deathbell ENB-lights](https://www.nexusmods.com/skyrimspecialedition/mods/76460?tab=files&file_id=322917&nmm=1).
+   - Install it under the name **[NoDelete] [03.072] Cathedral - 3D Deathbell ENB Lights**
 
 72.) Download [Alchemy Ingredients ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/65509?tab=files&file_id=274977&nmm=1).
    - Install it under the name **[NoDelete] [03.073] Alchemy Ingredients ENB Light**
