@@ -364,11 +364,11 @@ Name it **[NoDelete] [03.094] Redoran Extended - Textures - Super SUPER Optional
 
    - Here's how it should look on the **right side of MO2** in the Plugins tab (it may be different depending on which sections you downloaded):
 
-![Image 11](https://i.imgur.com/sKHbaik.png)
+![Image 11](https://i.imgur.com/qQgW3pb.png)
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
-   - **Currently in the process of testing with version 1.0.0+ of Redoran.**
+   - **Currently in the process of testing with version 1.1.0+ of Redoran.**
    - **Currently works with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md).**
    - **Currently works with [Redoran-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/README.md).**
 
