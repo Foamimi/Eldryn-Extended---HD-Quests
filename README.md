@@ -155,13 +155,11 @@ We're going to now hide 2 files from here so the decals for frost effects use th
 37.) Download [Ancient Dwemer Metal - Security Overhaul SKSE - Regional Locks Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=260810&nmm=1). In the BAIN Installer, tick the 2K option, then press Ok.
    - Install it under the name **[NoDelete] [03.038] Ancient Dwemer Metal - Security Overhaul SKSE - Regional Locks Patch**
 
-38.) Download [Ancient Dwemer Metal - Skyland Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=323704&nmm=1).
-   - Install it under the name **[NoDelete] [03.039] Ancient Dwemer Metal - Skyland Patch**
+38.) Download [Ancient Dwemer Metal - Skyland Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=323704&nmm=1) and [Ancient Dwemer Metal - Skyland Dragonborn Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=322874&nmm=1).
+   - Install the first mod under the name **[NoDelete] [03.039] Ancient Dwemer Metal - Skyland Patch**
+   - Install the second mod under the name **[NoDelete] [03.039] Ancient Dwemer Metal - Skyland Patch - Dragonborn**
 
-39.) Download [Ancient Dwemer Metal - Skyland Dragonborn Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=322874&nmm=1).
-   - Install it under the name **[NoDelete] [03.040] Ancient Dwemer Metal - Skyland Dragonborn Patch**
-
-40.) Download [Ancient Dwemer Metal - GDOS Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=178217&nmm=1). You should see a pop-up that says, "The content of data does not look valid". Click the arrow to expand the "2K" option, and you should see a Data box. Right-click it, and press "Set as data directory".
+39.) Download [Ancient Dwemer Metal - GDOS Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=178217&nmm=1). You should see a pop-up that says, "The content of data does not look valid". Click the arrow to expand the "2K" option, and you should see a Data box. Right-click it, and press "Set as data directory".
 
 ![Image 6](https://i.imgur.com/dg9FTRh.png)
 
@@ -169,19 +167,19 @@ It should then look like the image below. Once the pop-up says, "The Content of 
 
 ![Image 7](https://i.imgur.com/UfNq4m9.png)
 
-   - Install it under the name **[NoDelete] [03.041] Ancient Dwemer Metal - GDOS Patch**
+   - Install it under the name **[NoDelete] [03.040] Ancient Dwemer Metal - GDOS Patch**
 
-41.) Download [Ancient Dwemer Metal - Skyrim Sewers Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=196164&nmm=1).
-   - Install it under the name **[NoDelete] [03.042] Ancient Dwemer Metal - Skyrim Sewers Patch**
+40.) Download [Ancient Dwemer Metal - Skyrim Sewers Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=196164&nmm=1).
+   - Install it under the name **[NoDelete] [03.041] Ancient Dwemer Metal - Skyrim Sewers Patch**
 
-42.) Download [Ancient Dwemer Metal - The Forgotten City Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=248320&nmm=1). In the BAIN Installer, tick the 2K option, then press Ok.
-   - Install it under the name **[NoDelete] [03.043] Ancient Dwemer Metal - The Forgotten City Patch**
+41.) Download [Ancient Dwemer Metal - The Forgotten City Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=248320&nmm=1). In the BAIN Installer, tick the 2K option, then press Ok.
+   - Install it under the name **[NoDelete] [03.042] Ancient Dwemer Metal - The Forgotten City Patch**
 
-43.) Download [Ancient Dwemer Metal - The Tools of Kagrenac Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=249458&nmm=1).
-   - Install it under the name **[NoDelete] [03.044] Ancient Dwemer Metal - The Tools of Kagrenac Patch**
+42.) Download [Ancient Dwemer Metal - The Tools of Kagrenac Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=249458&nmm=1).
+   - Install it under the name **[NoDelete] [03.043] Ancient Dwemer Metal - The Tools of Kagrenac Patch**
 
-44.) Download [Ancient Dwemer Metal - Clockwork Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=228605&nmm=1).
-   - Install it under the name **[NoDelete] [03.045] Ancient Dwemer Metal - Clockwork Patch**
+43.) Download [Ancient Dwemer Metal - Clockwork Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=228605&nmm=1).
+   - Install it under the name **[NoDelete] [03.044] Ancient Dwemer Metal - Clockwork Patch**
 
 We're going to now hide a few files from here so the files from other mods aren't being overwritten. Double-click on the Ancient Dwemer Metal - Clockwork Patch mod on the left side of MO2, then in the pop-up window switch to the Filetree tab. Right-click on the following files and select Hide. 
 
@@ -190,6 +188,9 @@ We're going to now hide a few files from here so the files from other mods aren'
    - textures/clockwork/armour/gilded/sash.dds
 
 Then you're done!
+
+44.) Download [Ancient Dwemer Metal - Project AHO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=355258&nmm=1).
+   - Install it under the name **[NoDelete] [03.045] Ancient Dwemer Metal - Project AHO Patch**
 
 45.) Download [Ancient Amidianborn Dwarven Metal Armory](https://www.nexusmods.com/skyrimspecialedition/mods/38316?tab=files&file_id=152230&nmm=1). In the FOMOD, select Purple (Original Amidianborn), do not tick the bottom box, then press Install.
    - Install it under the name **[NoDelete] [03.046] Ancient aMidianborn Dwarven Metal Armory**
@@ -377,7 +378,9 @@ Name it **[NoDelete] [03.094] Redoran Extended - Textures - Super SUPER Optional
 
 2.1.0
    - Added High Poly Sweet Rolls SE
+   - Added Ancient Dwemer Metal - Project AHO Patch
    - Removed Dressed Hearthfire Doll
+   - Edited instructions for #38 - Ancient Dwemer Metal - Skyland Patch - Dragonborn
 
 2.0.0
    - Added WiZkiD Hagraven Clutter and Bones - HPP Patch
