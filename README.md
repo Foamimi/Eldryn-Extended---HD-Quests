@@ -101,8 +101,8 @@ We're going to now hide 2 files from here so the decals for frost effects use th
 22.) Download [RUSTIC AMULETS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/35485?tab=files&file_id=144580&nmm=1).
    - Install it under the name **[NoDelete] [03.023] RUSTIC AMULETS**
 
-23.) Download [Dressed Hearthfire Doll](https://www.nexusmods.com/skyrimspecialedition/mods/493?tab=files&file_id=13540&nmm=1). In the FOMOD, select Smaller Eyes, 2 (human), Red, then press Install.
-   - Install it under the name **[NoDelete] [03.024] Dressed Hearthfire Doll**
+23.) Download [High Poly Sweet Rolls SE](https://www.nexusmods.com/skyrimspecialedition/mods/44077?tab=files&file_id=187087&nmm=1). 
+   - Install it under the name **[NoDelete] [03.024] High Poly Sweet Rolls**
 
 24.) Download [Serana Doll Replacer for Bloodchill Manor's Vampire Doll](https://www.nexusmods.com/skyrimspecialedition/mods/73501?tab=files&file_id=308066&nmm=1).
    - Install it under the name **[NoDelete] [03.025] Serana Doll Replacer for Bloodchill Manor's Vampire Doll**
@@ -374,6 +374,10 @@ Name it **[NoDelete] [03.094] Redoran Extended - Textures - Super SUPER Optional
 # Changelog
 
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire series of Texture addons, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
+
+2.1.0
+   - Added High Poly Sweet Rolls SE
+   - Removed Dressed Hearthfire Doll
 
 2.0.0
    - Added WiZkiD Hagraven Clutter and Bones - HPP Patch
