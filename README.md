@@ -274,11 +274,19 @@ Name it **[NoDelete] [03.071] Redoran Extended - Textures - Super SUPER Optional
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
-   - **Currently works with version 1.4.0+ of Redoran.**
+# Addon Compatibility
+
    - **Currently works with [Redoran-Extended - NPC Overhaul Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Overhaul/blob/main/README.md).**
    - **Currently works with [Redoran-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Redoran-Extended---NPC-Dialogue/blob/main/README.md).**
+   - **Currently needs a patch to work with [Redoran-Extended - Survival Addon](https://github.com/Foamimi/Redoran-Extended---Survival/blob/main/README.md).** Download [HPP - My Fixes by Xtudo - AIO Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/63425?tab=files&file_id=333337&nmm=1) and name it [NoDelete] [04.032] [HPP - My Fixes by Xtudo - AIO Campfire]. Place it after [NoDelete] [04.031] Redoran Extended - Survival Addon Megapatch on the left side of MO2, and after Redoran Extended - Survival Addon Megapatch.esp on the right side of MO2.
+
+### If using multiple addons, please see the image below for load order guidance:
+
+![Image Addon Load Order](https://i.imgur.com/QA9N71C.png)
 
 # Changelog
+
+**Currently works with version 1.4.2+ of Redoran.**
 
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire series of Texture addons, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
 
