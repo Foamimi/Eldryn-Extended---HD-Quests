@@ -8,6 +8,8 @@ Hello! This addon will integrate new HD textures into the world of Redoran-ified
 
 Works on **EXISTING SAVES**.
 
+**Currently designed to work with version 1.4.2 of Redoran.** A changelog is provided at the bottom.
+
 # Installation
 
 First of all, we're going to right-click on the left side of MO2 and highlight the "All Mods" option, then click the dropdown of "Create separator above". We'll call it **[NoDelete] [03.000] REDORAN EXTENDED - TEXTURES**. All of the following mods will be installed under this separator, and the separator itself will go just below the separator called "THE DANGER ZONE". 
@@ -294,20 +296,18 @@ Right side of MO2:
 
 # Changelog
 
-**Currently works with version 1.4.2+ of Redoran.**
-
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire series of Texture addons, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
 
-2.2.0
+Redoran v1.4.2
    - Removed Dwarven Textures section
 
-2.1.0
+Redoran v1.4.1
    - Added High Poly Sweet Rolls SE
    - Added Ancient Dwemer Metal - Project AHO Patch
    - Removed Dressed Hearthfire Doll
    - Edited instructions for #38 - Ancient Dwemer Metal - Skyland Patch - Dragonborn
 
-2.0.0
+X.X.X
    - Added WiZkiD Hagraven Clutter and Bones - HPP Patch
    - Added Vigilant - foootprints patch
    - Added Cathedral - 3D Deathbell ENB-lights
