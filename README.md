@@ -299,10 +299,7 @@ Right side of MO2:
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire series of Texture addons, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
 
 Redoran v1.5.0 [UNRELEASED]
-  - Removed Arctic - Frost Effects Redux
-  - Removed Inferno - Fire Effects Redux
-  - Removed Thunderbolt - HD Lightning
-  - Removed Splashes Of Skyrim
+  - Removed Dimmer Fog and More
 
 Redoran v1.4.3
    - No changes needed
