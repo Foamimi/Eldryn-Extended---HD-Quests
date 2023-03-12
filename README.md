@@ -8,7 +8,7 @@ Hello! This addon will integrate new HD textures into the world of Redoran-ified
 
 Works on **EXISTING SAVES**.
 
-**Currently designed to work with version 1.4.2 of Redoran.** A changelog is provided at the bottom.
+**Currently designed to work with version 1.5.0 of Redoran.** A changelog is provided at the bottom.
 
 # Installation
 
