@@ -68,8 +68,8 @@ Place the newly downloaded file into the area where you designated Redoran's Dow
 12.) Download [ WEBS 2K - ELFX Patch](https://www.nexusmods.com/skyrimspecialedition/mods/4873?tab=files&file_id=10871&nmm=1).
    - Install it under the name **[NoDelete] [03.013] WEBS 2K - ELFX Patch**
 
-13.) Download [DimmerFog 2.0](https://www.nexusmods.com/skyrimspecialedition/mods/7397?tab=files&file_id=20517&nmm=1). In the FOMOD, select Main Not Installed in the top portion, then in the bottom portion, select Optionals Reduced, then press Install. 
-   - Install it under the name **[NoDelete] [03.014] DimmerFog 2.0**
+13.) Download [PUDDLES - My HD version SE](https://www.nexusmods.com/skyrimspecialedition/mods/79278?tab=files&file_id=333887&nmm=1). 
+   - Install it under the name **[NoDelete] [03.014] PUDDLES - My HD Version**
 
 14.) Download [Inferno - Fire Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29316?tab=files&file_id=317399&nmm=1). In the FOMOD, select Next, ENB Light, 2x, Normal, Realistic Hue, 1x, Ember HD, and tick the Flame Meshes Patch (ESL-Tagged) option, then press Install. 
    - Install it under the name **[NoDelete] [03.015] Inferno - Fire Effects Redux**
@@ -298,8 +298,12 @@ Right side of MO2:
 
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire series of Texture addons, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
 
-Redoran v1.5.0 [UNRELEASED]
-  - Removed Dimmer Fog and More
+Redoran v1.5.0
+  - Added PUDDLES - My HD version SE
+  - Removed DimmerFog 2.0
+
+Redoran v1.4.3.1
+   - No changes needed
 
 Redoran v1.4.3
    - No changes needed
