@@ -8,7 +8,7 @@ Hello! This addon will integrate new HD textures into the world of Redoran-ified
 
 Works on **EXISTING SAVES**.
 
-**Currently designed to work with version 1.5.1 of Redoran.** A changelog is provided at the bottom.
+**Currently designed to work with version 1.5.2 of Redoran.** A changelog is provided at the bottom.
 
 # Installation
 
@@ -214,20 +214,23 @@ We're going to now hide 2 files from here so the decals for frost effects use th
 57.) Download [Wyrmstooth Animated ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/72668?tab=files&file_id=304530&nmm=1).
    - Install it under the name **[NoDelete] [03.058] Wyrmstooth Animated ENB Light**
 
+58.) Download [Clockwork - Particle Lights for ENB Addon](X).
+   - Install it under the name **[NoDelete] [03.059] Clockwork - Particle Lights for ENB Addon**
+
 ### Snag the megapatch from here for the **ENB LIGHTS** section: [ N/A - NO PATCH NEEDED for this section! ]
 
 ## Super Optional (OPTIONAL! FEEL FREE TO SKIP!)
 
 ![Image 9](https://i.imgur.com/smFDBmT.png)
 
-58.) Download [ElSopa - High Quality Doll Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/47703?tab=files&file_id=194275&nmm=1).
-   - Install it under the name **[NoDelete] [03.059] ElSopa - High Quality Doll Replacer**
+59.) Download [ElSopa - High Quality Doll Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/47703?tab=files&file_id=194275&nmm=1).
+   - Install it under the name **[NoDelete] [03.060] ElSopa - High Quality Doll Replacer**
 
-59.) Download [ElSopa - Clavicus Pepe SE](https://www.nexusmods.com/skyrimspecialedition/mods/75147?tab=files&file_id=315348&nmm=1).
-   - Install it under the name **[NoDelete] [03.060] ElSopa - Clavicus Pepe**   
+60.) Download [ElSopa - Clavicus Pepe SE](https://www.nexusmods.com/skyrimspecialedition/mods/75147?tab=files&file_id=315348&nmm=1).
+   - Install it under the name **[NoDelete] [03.061] ElSopa - Clavicus Pepe**   
 
-60.) Download [ElSopa - Pepe Talos Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/66592?tab=files&file_id=277423&nmm=1).
-   - Install it under the name **[NoDelete] [03.061] ElSopa - Pepe Talos Replacer**
+61.) Download [ElSopa - Pepe Talos Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/66592?tab=files&file_id=277423&nmm=1).
+   - Install it under the name **[NoDelete] [03.062] ElSopa - Pepe Talos Replacer**
    
 ### Snag the megapatch from here for the **SUPER OPTIONAL** section: [ N/A - NO PATCH NEEDED for this section! ]
 
@@ -237,36 +240,36 @@ We're going to now hide 2 files from here so the decals for frost effects use th
 
 **WARNING** - Footprints is a script-heavy mod! You can install it mid-through, but you **CANNOT UNINSTALL mid-playthrough**! Be wise with your choice! You also must **COMPLETE the quest UNBOUND** for it to show up in-game!
 
-61.) Download [Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/3808?tab=files&file_id=186188&nmm=1).
-   - Install it under the name **[NoDelete] [03.062] Footprints**   
+62.) Download [Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/3808?tab=files&file_id=186188&nmm=1).
+   - Install it under the name **[NoDelete] [03.063] Footprints**   
 
-62.) Download [Footprints - ENB Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3808?tab=files&file_id=186011&nmm=1).
-   - Install it under the name **[NoDelete] [03.063] Footprints - ENB Fix**   
+63.) Download [Footprints - ENB Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3808?tab=files&file_id=186011&nmm=1).
+   - Install it under the name **[NoDelete] [03.064] Footprints - ENB Fix**   
 
-63.) Download [The Gray Cowl of Nocturnal SE - Addons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19724?tab=files&file_id=245471&nmm=1). You may already have this downloaded if you did not delete your Downloads folder from Redoran. If you already have it installed, click Cancel from the "Do you want to install this mod again?" popup. On the right-hand side of MO2 in the Downloads tab, type in at the bottom, "Gray Patches" and one file should show up. Double-click it and a FOMOD should appear. Only tick the Footprints for The Gray Cowl of Nocturnal Addon option, then press Install.
-   - Install it under the name **[NoDelete] [03.064] The Gray Cowl of Nocturnal - Footprints Patch**   
+64.) Download [The Gray Cowl of Nocturnal SE - Addons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19724?tab=files&file_id=245471&nmm=1). You may already have this downloaded if you did not delete your Downloads folder from Redoran. If you already have it installed, click Cancel from the "Do you want to install this mod again?" popup. On the right-hand side of MO2 in the Downloads tab, type in at the bottom, "Gray Patches" and one file should show up. Double-click it and a FOMOD should appear. Only tick the Footprints for The Gray Cowl of Nocturnal Addon option, then press Install.
+   - Install it under the name **[NoDelete] [03.065] The Gray Cowl of Nocturnal - Footprints Patch**   
 
-64.) Download [VIGILANT - My patches by Xtudo SE - Footprints patch](https://www.nexusmods.com/skyrimspecialedition/mods/70958?tab=files&file_id=302605&nmm=1).
-   - Install it under the name **[NoDelete] [03.065] VIGILANT - My Patches by Xtudo - Footprints Patch** 
+65.) Download [VIGILANT - My patches by Xtudo SE - Footprints patch](https://www.nexusmods.com/skyrimspecialedition/mods/70958?tab=files&file_id=302605&nmm=1).
+   - Install it under the name **[NoDelete] [03.066] VIGILANT - My Patches by Xtudo - Footprints Patch** 
 
-65.) Download [Footprints Sand Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50484?tab=files&file_id=250175&nmm=1). In the FOMOD, select ESP-FE ESL Flagged, then press Install.
-   - Install it under the name **[NoDelete] [03.066] Footprints Sand Patch**   
+66.) Download [Footprints Sand Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50484?tab=files&file_id=250175&nmm=1). In the FOMOD, select ESP-FE ESL Flagged, then press Install.
+   - Install it under the name **[NoDelete] [03.067] Footprints Sand Patch**   
 
-66.) Download [SPID for Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/54924?tab=files&file_id=347974&nmm=1).
-   - Install it under the name **[NoDelete] [03.067] SPID for Footprints**   
+67.) Download [SPID for Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/54924?tab=files&file_id=347974&nmm=1).
+   - Install it under the name **[NoDelete] [03.068] SPID for Footprints**   
 
-67.) Download [SPID for Footprints Fix](https://www.nexusmods.com/skyrimspecialedition/mods/70978?tab=files&file_id=347983&nmm=1).
-   - Install it under the name **[NoDelete] [03.068] SPID for Footprints Fix**   
+68.) Download [SPID for Footprints Fix](https://www.nexusmods.com/skyrimspecialedition/mods/70978?tab=files&file_id=347983&nmm=1).
+   - Install it under the name **[NoDelete] [03.069] SPID for Footprints Fix**   
 
-68.) Download [SPID for Footprints - Player Footprints Fix](https://www.nexusmods.com/skyrimspecialedition/mods/78957?tab=files&file_id=348371&nmm=1).
-   - Install it under the name **[NoDelete] [03.069] SPID for Footprints - Player Footprints Fix**   
+69.) Download [SPID for Footprints - Player Footprints Fix](https://www.nexusmods.com/skyrimspecialedition/mods/78957?tab=files&file_id=348371&nmm=1).
+   - Install it under the name **[NoDelete] [03.070] SPID for Footprints - Player Footprints Fix**   
 
-69.) Download [Footprints - Creation Club - Saturalia Holiday Pack](https://www.nexusmods.com/skyrimspecialedition/mods/77440?tab=files&file_id=325551&nmm=1).
-   - Install it under the name **[NoDelete] [03.070] Footprints - Creation Club - Saturalia Holiday Pack**   
+70.) Download [Footprints - Creation Club - Saturalia Holiday Pack](https://www.nexusmods.com/skyrimspecialedition/mods/77440?tab=files&file_id=325551&nmm=1).
+   - Install it under the name **[NoDelete] [03.071] Footprints - Creation Club - Saturalia Holiday Pack**   
 
 ### Snag the megapatch from here for the **SUPER SUPER OPTIONAL** section: [ [DOWNLOAD](https://github.com/Foamimi/Redoran-Extended---Textures/blob/master/Redoran%20Extended%20-%20Textures%20-%20Super%20SUPER%20Optional%20Patch.7z) ] ("View raw" button)
 
-Name it **[NoDelete] [03.071] Redoran Extended - Textures - Super SUPER Optional Megapatch**, and place the .esp directly AFTER FootprintsSand-patch.esp. 
+Name it **[NoDelete] [03.072] Redoran Extended - Textures - Super SUPER Optional Megapatch**, and place the .esp directly AFTER FootprintsSand-patch.esp. 
 
 # Last Steps
 
@@ -297,6 +300,9 @@ Right side of MO2:
 # Changelog
 
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire series of Texture addons, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
+
+Redoran v1.5.2
+   Added Clockwork - Particle Lights for ENB Addon
 
 Redoran v1.5.1
    - No changes needed
