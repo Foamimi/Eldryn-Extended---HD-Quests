@@ -214,7 +214,7 @@ We're going to now hide 2 files from here so the decals for frost effects use th
 57.) Download [Wyrmstooth Animated ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/72668?tab=files&file_id=304530&nmm=1).
    - Install it under the name **[NoDelete] [03.058] Wyrmstooth Animated ENB Light**
 
-58.) Download [Clockwork - Particle Lights for ENB Addon](X).
+58.) Download [Clockwork - Particle Lights for ENB Addon](https://www.nexusmods.com/skyrimspecialedition/mods/87356?tab=files&file_id=369997&nmm=1).
    - Install it under the name **[NoDelete] [03.059] Clockwork - Particle Lights for ENB Addon**
 
 ### Snag the megapatch from here for the **ENB LIGHTS** section: [ N/A - NO PATCH NEEDED for this section! ]
