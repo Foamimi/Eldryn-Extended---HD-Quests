@@ -8,7 +8,7 @@ Hello! This addon will integrate new HD textures into the world of Redoran-ified
 
 Works on **EXISTING SAVES**.
 
-**Currently designed to work with version 1.5.2 of Redoran.** A changelog is provided at the bottom.
+**Currently designed to work with version 1.5.2.1 of Redoran.** A changelog is provided at the bottom.
 
 # Installation
 
@@ -301,8 +301,11 @@ Right side of MO2:
 
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire series of Texture addons, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
 
+Redoran v1.5.2.1
+   - No changes needed
+
 Redoran v1.5.2
-   Added Clockwork - Particle Lights for ENB Addon
+   - Added Clockwork - Particle Lights for ENB Addon
 
 Redoran v1.5.1
    - No changes needed
