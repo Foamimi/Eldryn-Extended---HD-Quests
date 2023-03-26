@@ -35,7 +35,7 @@ A screenshot is available at the bottom of this page to compare as you go.
 4.) Download [WiZkiD Hagraven Clutter and Bones - HPP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49277?tab=files&file_id=201115&nmm=1). If you did not delete your downloads folder for Redoran, you may have this installed already. Select No to the MO2 pop-up if you receive one. On the right side of MO2 in the Downloads tab, type in "WiZkiD" and one file should appear. Double-click it to begin. In the FOMOD, select 2K and tick the High Poly Projectl patch, then press Install.
    - Install it under the name **[NoDelete] [03.004] WiZkiD Hagraven Clutter and Bones - HPP Patch**
 
-5.) Download [Fancy Sleeping Tree Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/64255?tab=files&file_id=371388&nmm=1). In the FOMOD, select Purple, ENB Light - Lower intensity, Leaves, Add Patch, then presss Install.
+5.) Download [Fancy Sleeping Tree Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/64255?tab=files&file_id=371388&nmm=1). In the FOMOD, select Purple, ENB Light - Lower intensity, Leaves, Add Patch, then press Install.
    - Install it under the name **[NoDelete] [03.005] Fancy Sleeping Tree Replacer**
 
 6.) Download [ElSopa - Carved Gildergreen HD](https://www.nexusmods.com/skyrimspecialedition/mods/33287?tab=files&file_id=127006&nmm=1). In the FOMOD, select Plain, then press Install. 
