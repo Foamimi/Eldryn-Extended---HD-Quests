@@ -8,7 +8,7 @@ Hello! This addon will integrate new HD textures into the world of Redoran-ified
 
 Works on **EXISTING SAVES**.
 
-**Currently designed to work with version 1.5.2.1 of Redoran.** A changelog is provided at the bottom.
+**Currently designed to work with version 1.5.3 of Redoran.** A changelog is provided at the bottom.
 
 # Installation
 
@@ -35,7 +35,7 @@ A screenshot is available at the bottom of this page to compare as you go.
 4.) Download [WiZkiD Hagraven Clutter and Bones - HPP Patch](https://www.nexusmods.com/skyrimspecialedition/mods/49277?tab=files&file_id=201115&nmm=1). If you did not delete your downloads folder for Redoran, you may have this installed already. Select No to the MO2 pop-up if you receive one. On the right side of MO2 in the Downloads tab, type in "WiZkiD" and one file should appear. Double-click it to begin. In the FOMOD, select 2K and tick the High Poly Projectl patch, then press Install.
    - Install it under the name **[NoDelete] [03.004] WiZkiD Hagraven Clutter and Bones - HPP Patch**
 
-5.) Download [Fancy Sleeping Tree Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/64255?tab=files&file_id=298401&nmm=1). In the FOMOD, select Purple, then press Next. Select ENB Light, then press Next. Select Leaves, then press Next. Select Add Patch, then presss Install.
+5.) Download [Fancy Sleeping Tree Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/64255?tab=files&file_id=371388&nmm=1). In the FOMOD, select Purple, ENB Light - Lower intensity, Leaves, Add Patch, then presss Install.
    - Install it under the name **[NoDelete] [03.005] Fancy Sleeping Tree Replacer**
 
 6.) Download [ElSopa - Carved Gildergreen HD](https://www.nexusmods.com/skyrimspecialedition/mods/33287?tab=files&file_id=127006&nmm=1). In the FOMOD, select Plain, then press Install. 
@@ -300,6 +300,10 @@ Right side of MO2:
 # Changelog
 
 **IMPORTANT** - If updating Redoran (like from v.1.0.1 to 1.0.2 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire series of Texture addons, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
+
+Redoran v1.5.3
+   - Updated Fancy Sleeping Tree Replacer
+   - Updated instructions for Fancy Sleeping Tree Replacer
 
 Redoran v1.5.2.1
    - No changes needed
