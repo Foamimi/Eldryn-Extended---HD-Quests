@@ -124,8 +124,8 @@ We're going to now hide 2 files from here so the decals for frost effects use th
 27.) Download [Optimized ENB Light Meshes - Rudy - JS Shrines - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/68843?tab=files&file_id=290382&nmm=1). in the FOMOD, tick all of the patches and press Install.
    - Install it under the name **[NoDelete] [03.028] Optimized ENB Light Meshes - Rudy - JS Shrines - SMIM**
 
-28.) Download [Optimized ENB Light Meshes - Medieval Candlehorns and Scones](https://www.nexusmods.com/skyrimspecialedition/mods/68843?tab=files&file_id=290385&nmm=1). In the FOMOD, select nothing and press Install.
-   - Install it under the name **[NoDelete] [03.029] Optimized ENB Light Meshes - Medieval Candlehorns and Scones**
+28.) Download [Optimized ENB Light Meshes - Medieval Candlehorns and Sconces](https://www.nexusmods.com/skyrimspecialedition/mods/68843?tab=files&file_id=290385&nmm=1). In the FOMOD, select nothing and press Install.
+   - Install it under the name **[NoDelete] [03.029] Optimized ENB Light Meshes - Medieval Candlehorns and Sconces**
 
 29.) Download [Optimized ENB Light Meshes - SD's Horn Candles](https://www.nexusmods.com/skyrimspecialedition/mods/68843?tab=files&file_id=289084&nmm=1).
    - Install it under the name **[NoDelete] [03.030] Optimized ENB Light Meshes - SD's Horn Candles**
@@ -304,6 +304,7 @@ Right side of MO2:
 Redoran v1.5.3
    - Updated Fancy Sleeping Tree Replacer
    - Updated instructions for Fancy Sleeping Tree Replacer
+   - Corrected a typo with Optimized ENB Light Meshes - Medieval Candlehorns and Sconces (no more scones!)
 
 Redoran v1.5.2.1
    - No changes needed
