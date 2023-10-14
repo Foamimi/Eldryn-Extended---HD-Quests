@@ -1,6 +1,6 @@
 # Eldryn-Extended---HD Quests Addon
 
-![Image 0](X)
+![Image 0](https://i.imgur.com/t7FcCDv.png)
 
 # Introduction
 
@@ -20,7 +20,7 @@ Screenshots are available at the bottom of this page to compare as you go.
 
 ## General (OPTIONAL! FEEL FREE TO SKIP!)
 
-![Image 1](X)
+![Image 1](https://i.imgur.com/sPJ9CVC.png)
 
 1.) Download [X](X), [X](X), and [X](X).
    - Install the first mod under the name **X**
