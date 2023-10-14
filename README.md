@@ -95,7 +95,7 @@ Screenshots are available at the bottom of this page to compare as you go.
 
 ![Image 3](https://i.imgur.com/gAypNQw.png)
 
-Along the right side of MO2, do the following steps:
+Along the **right side of MO2**, do the following steps:
    - Drag the .esl file titled **VigilantHiResPackSE.esl** all the way to the top, but place it below **Vigilant.esm**.
    - Drag the .esl file titled **GlenmorilHiResPackSE.esl** all the way to the top, but place it below **Glenmoril.esm**.
 
