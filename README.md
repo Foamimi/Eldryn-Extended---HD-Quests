@@ -4,7 +4,7 @@
 
 # Introduction
 
-Hello! This addon will integrate new HD textures from various quests into the world of Eldryn-ified Skyrim. This will be a **manual process** with various steps involving downloading, rearranging, etc. **There will not be a patch for reran LODS.** Your LODS will be like the main game, lower res.
+Hello! This addon will integrate new HD textures from various quests into the world of Eldryn-ified Skyrim. This will be a **manual process** with various steps involving downloading, rearranging, etc. **There will not be a patch for reran LODS.** Your LODS will be like the main game, lower res. **You will need at LEAST 20 GB of available space to download this addon.**
 
 You can install this on an **EXISTING SAVE**.
 
@@ -18,7 +18,7 @@ All the plugins going forward will be at the very bottom, **BELOW all of the Eld
 
 Screenshots are available at the bottom of this page to compare as you go.
 
-## General (OPTIONAL! FEEL FREE TO SKIP!)
+## General
 
 ![Image 1](https://i.imgur.com/sPJ9CVC.png)
 
