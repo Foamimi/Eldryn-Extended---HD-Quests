@@ -4,7 +4,7 @@
 
 # Introduction
 
-Hello! This addon will integrate new HD textures from various quests into the world of Eldryn-ified Skyrim. This will be a **manual process** with various steps involving downloading, rearranging, etc. **There will not be a patch for HD LODS.** Sorry in advance. **You will need at LEAST 20 GB of available space to download this addon.**
+Hello! This addon will integrate new HD textures from various quests into the world of Eldryn-ified Skyrim. This will be a **manual process** with various steps involving downloading, rearranging, etc. **There will not be a patch for HD LODS.** Sorry in advance. **You will need at LEAST 20 GB of available space to download this addon.** There is no megapatch for this addon.
 
 You can install this on an **EXISTING SAVE**.
 
